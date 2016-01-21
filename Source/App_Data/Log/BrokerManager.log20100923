@@ -1,0 +1,765 @@
+2010-09-23 08:11:09,720 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 08:11:10,095 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 08:11:10,235 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:11:22,454 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:11:48,862 [9] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:11:56,331 [9] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:12:09,253 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:50:32,091 [4] DEBUG Logger - ------------- Application starts -------------
+2010-09-23 08:50:32,138 [4] INFO  Logger - User list load completed. Count=4
+2010-09-23 08:50:32,138 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-09-23 08:50:32,138 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-09-23 08:50:32,138 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-09-23 08:50:32,138 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-09-23 08:50:34,201 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 08:50:34,201 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 08:50:37,060 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:56:33,342 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:56:39,217 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:57:13,455 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:57:52,333 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 08:58:41,806 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:01:34,258 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:01:55,478 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:02:04,322 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:02:36,090 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:02:40,918 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:06:54,651 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:13:47,294 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:16:58,193 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 09:16:58,193 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 09:16:59,224 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:19:20,777 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:19:24,777 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:21:49,173 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:22:07,705 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:22:35,097 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:30:13,411 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:30:19,052 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:30:27,833 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:38:03,054 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 09:38:03,070 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 09:38:04,101 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:41:14,093 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 09:41:14,108 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 09:41:15,140 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:42:43,518 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:42:47,581 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:42:57,065 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 09:42:57,081 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 09:42:58,034 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:52:07,071 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 09:52:07,086 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 09:52:08,227 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 09:52:16,696 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:27:09,902 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 10:27:09,902 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 10:27:10,105 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:27:39,887 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:28:19,107 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:28:37,327 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:28:54,452 [4] INFO  Logger - Calculate - ENTER
+2010-09-23 10:28:54,515 [4] INFO  Logger - Data object link completed
+2010-09-23 10:28:54,515 [4] INFO  Logger - ClientTradeData data load completed. Count=592
+2010-09-23 10:28:54,562 [4] INFO  Logger - Office THD: TradingValue=294767351000.0000 Revenue=662835405.60000000
+2010-09-23 10:28:54,562 [4] INFO  Logger - Office KL: TradingValue=133964657000.0000 Revenue=322767832.20000000
+2010-09-23 10:28:54,562 [4] INFO  Logger - Office BT: TradingValue=490356733000.0000 Revenue=1036774296.80000000
+2010-09-23 10:28:54,562 [4] INFO  Logger - Office HCM: TradingValue=115621324000.0000 Revenue=236811776.90000000
+2010-09-23 10:28:54,562 [4] INFO  Logger - Office LH: TradingValue=793584150000.0000 Revenue=1667707380.00000000
+2010-09-23 10:28:54,562 [4] INFO  Logger - Office TVL: TradingValue=1797343849200.0000 Revenue=2555453304.82000000
+2010-09-23 10:28:54,562 [4] INFO  Logger - Office LTT: TradingValue=632599111000.0000 Revenue=1286000253.60000000
+2010-09-23 10:28:54,562 [4] INFO  Logger - Office 3T2: TradingValue=84385345000.0000 Revenue=172376556.50000000
+2010-09-23 10:28:54,577 [4] DEBUG Logger - StoreCalculationData - ENTER
+2010-09-23 10:28:54,577 [4] INFO  Logger - Delete Result Data, id=201009
+2010-09-23 10:28:54,609 [4] INFO  Logger - Delete BrokerCalculationResult, count=313
+2010-09-23 10:28:54,609 [4] INFO  Logger - Delete OfficeCalculationResult, count=8
+2010-09-23 10:28:54,624 [4] DEBUG Logger - StoreCalculationData - BrokerID=000535 InsertedRecord=1
+2010-09-23 10:28:54,624 [4] DEBUG Logger - StoreCalculationData - BrokerID=000533 InsertedRecord=1
+2010-09-23 10:28:54,624 [4] DEBUG Logger - StoreCalculationData - BrokerID=000503 InsertedRecord=1
+2010-09-23 10:28:54,624 [4] DEBUG Logger - StoreCalculationData - BrokerID=000513 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000428 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000408 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000418 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000468 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000478 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000232 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000202 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000580 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000272 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000517 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000282 InsertedRecord=1
+2010-09-23 10:28:54,640 [4] DEBUG Logger - StoreCalculationData - BrokerID=000292 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000463 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000126 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000136 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000116 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000176 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000146 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000156 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000435 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000405 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000415 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000196 InsertedRecord=1
+2010-09-23 10:28:54,656 [4] DEBUG Logger - StoreCalculationData - BrokerID=000475 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000455 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000514 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000485 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000495 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000561 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000339 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000309 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000319 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000369 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000581 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000349 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000359 InsertedRecord=1
+2010-09-23 10:28:54,671 [4] DEBUG Logger - StoreCalculationData - BrokerID=000133 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000113 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000163 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000017 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_2 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000322 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000332 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000312 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000362 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000537 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000342 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000352 InsertedRecord=1
+2010-09-23 10:28:54,687 [4] DEBUG Logger - StoreCalculationData - BrokerID=000567 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000382 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000557 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000391 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000226 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000506 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000216 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000266 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000276 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000030 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000296 InsertedRecord=1
+2010-09-23 10:28:54,702 [4] DEBUG Logger - StoreCalculationData - BrokerID=000070 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000520 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000500 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000510 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000429 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000439 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000409 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000419 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000414 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000479 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000449 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000223 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000213 InsertedRecord=1
+2010-09-23 10:28:54,718 [4] DEBUG Logger - StoreCalculationData - BrokerID=000263 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000273 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000519 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000283 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000293 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000411 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000532 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000157 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000542 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000402 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000412 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000472 InsertedRecord=1
+2010-09-23 10:28:54,734 [4] DEBUG Logger - StoreCalculationData - BrokerID=000442 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000316 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000366 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000376 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000346 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000356 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000063 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000386 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000160 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_3 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000190 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000397 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000044 InsertedRecord=1
+2010-09-23 10:28:54,749 [4] DEBUG Logger - StoreCalculationData - BrokerID=000323 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000333 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000303 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000313 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000363 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000373 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000504 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000353 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000564 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000383 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000554 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000227 InsertedRecord=1
+2010-09-23 10:28:54,765 [4] DEBUG Logger - StoreCalculationData - BrokerID=000237 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000207 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000267 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000277 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000247 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000531 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000287 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000061 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000071 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000051 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000551 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000555 InsertedRecord=1
+2010-09-23 10:28:54,781 [4] DEBUG Logger - StoreCalculationData - BrokerID=000489 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000499 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000501 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000511 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000426 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000571 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000541 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000416 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000476 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000446 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000456 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000527 InsertedRecord=1
+2010-09-23 10:28:54,796 [4] DEBUG Logger - StoreCalculationData - BrokerID=000210 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000260 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000270 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000240 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000250 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000547 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000280 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000290 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000124 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000164 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000174 InsertedRecord=1
+2010-09-23 10:28:54,812 [4] DEBUG Logger - StoreCalculationData - BrokerID=000057 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000433 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000403 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000413 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000425 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000473 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000443 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000453 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000028 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000008 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000068 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000058 InsertedRecord=1
+2010-09-23 10:28:54,827 [4] DEBUG Logger - StoreCalculationData - BrokerID=000337 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000317 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000367 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000538 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000508 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000357 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000568 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000398 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000387 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000161 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000563 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000181 InsertedRecord=1
+2010-09-23 10:28:54,843 [4] DEBUG Logger - StoreCalculationData - BrokerID=000543 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000553 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000035 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000320 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000330 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000300 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000529 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000370 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000340 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000350 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000565 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000575 InsertedRecord=1
+2010-09-23 10:28:54,859 [4] DEBUG Logger - StoreCalculationData - BrokerID=000380 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000390 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000234 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000264 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000274 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000244 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000284 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000294 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000528 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000168 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000158 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000437 InsertedRecord=1
+2010-09-23 10:28:54,874 [4] DEBUG Logger - StoreCalculationData - BrokerID=000407 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000417 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000467 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000465 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000447 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000457 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000201 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000211 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000261 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG1 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000281 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000291 InsertedRecord=1
+2010-09-23 10:28:54,890 [4] DEBUG Logger - StoreCalculationData - BrokerID=000135 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000105 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000115 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000165 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000175 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000155 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000430 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000400 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000410 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000460 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000440 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000039 InsertedRecord=1
+2010-09-23 10:28:54,906 [4] DEBUG Logger - StoreCalculationData - BrokerID=000480 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000069 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000534 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000324 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000304 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000297 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000364 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000374 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000344 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000354 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000569 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000507 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000384 InsertedRecord=1
+2010-09-23 10:28:54,921 [4] DEBUG Logger - StoreCalculationData - BrokerID=000539 InsertedRecord=1
+2010-09-23 10:28:54,937 [4] DEBUG Logger - StoreCalculationData - BrokerID=000558 InsertedRecord=1
+2010-09-23 10:28:54,937 [4] DEBUG Logger - StoreCalculationData - BrokerID=000552 InsertedRecord=1
+2010-09-23 10:28:54,937 [4] DEBUG Logger - StoreCalculationData - BrokerID=000238 InsertedRecord=1
+2010-09-23 10:28:54,937 [4] DEBUG Logger - StoreCalculationData - BrokerID=000208 InsertedRecord=1
+2010-09-23 10:28:54,937 [4] DEBUG Logger - StoreCalculationData - BrokerID=000218 InsertedRecord=1
+2010-09-23 10:28:54,937 [4] DEBUG Logger - StoreCalculationData - BrokerID=000278 InsertedRecord=1
+2010-09-23 10:28:54,937 [4] DEBUG Logger - StoreCalculationData - BrokerID=000422 InsertedRecord=1
+2010-09-23 10:28:54,937 [4] DEBUG Logger - StoreCalculationData - BrokerID=000288 InsertedRecord=1
+2010-09-23 10:28:54,952 [4] DEBUG Logger - StoreCalculationData - BrokerID=000062 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000042 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000321 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000301 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000361 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000371 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000502 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000512 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000562 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000572 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000381 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000389 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000399 InsertedRecord=1
+2010-09-23 10:28:54,968 [4] DEBUG Logger - StoreCalculationData - BrokerID=000215 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000265 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000570 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000540 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000550 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000285 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_3T2 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000119 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000179 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000149 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000424 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000434 InsertedRecord=1
+2010-09-23 10:28:54,984 [4] DEBUG Logger - StoreCalculationData - BrokerID=000404 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000189 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000464 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000474 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000338 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000308 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000318 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000368 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000378 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000348 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000358 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000388 InsertedRecord=1
+2010-09-23 10:28:54,999 [4] DEBUG Logger - StoreCalculationData - BrokerID=000162 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000172 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000509 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000421 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000431 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000401 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000298 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000461 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000441 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000420 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000481 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000066 InsertedRecord=1
+2010-09-23 10:28:55,015 [4] DEBUG Logger - StoreCalculationData - BrokerID=000325 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000335 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000305 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000315 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000365 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000536 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000345 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000566 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000576 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000546 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000556 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000548 InsertedRecord=1
+2010-09-23 10:28:55,031 [4] DEBUG Logger - StoreCalculationData - BrokerID=000229 InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_THD InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=000209 InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=000219 InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=000269 InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=000279 InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=000023 InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=000289 InsertedRecord=1
+2010-09-23 10:28:55,046 [4] DEBUG Logger - StoreCalculationData - BrokerID=000299 InsertedRecord=1
+2010-09-23 10:28:55,062 [4] DEBUG Logger - StoreCalculationData - OfficeID=THD InsertedRecord=1
+2010-09-23 10:28:55,062 [4] DEBUG Logger - StoreCalculationData - OfficeID=KL InsertedRecord=1
+2010-09-23 10:28:55,062 [4] DEBUG Logger - StoreCalculationData - OfficeID=BT InsertedRecord=1
+2010-09-23 10:28:55,062 [4] DEBUG Logger - StoreCalculationData - OfficeID=HCM InsertedRecord=1
+2010-09-23 10:28:55,062 [4] DEBUG Logger - StoreCalculationData - OfficeID=LH InsertedRecord=1
+2010-09-23 10:28:55,062 [4] DEBUG Logger - StoreCalculationData - OfficeID=TVL InsertedRecord=1
+2010-09-23 10:28:55,062 [4] DEBUG Logger - StoreCalculationData - OfficeID=LTT InsertedRecord=1
+2010-09-23 10:28:55,062 [4] DEBUG Logger - StoreCalculationData - OfficeID=3T2 InsertedRecord=1
+2010-09-23 10:28:55,077 [4] DEBUG Logger - StoreCalculationData - BranchID=HCM InsertedRecord=1
+2010-09-23 10:28:55,077 [4] DEBUG Logger - StoreCalculationData - BranchID=HN InsertedRecord=1
+2010-09-23 10:28:55,077 [4] DEBUG Logger - StoreCalculationData - LEAVE
+2010-09-23 10:28:55,077 [4] INFO  Logger - Calculate - LEAVE
+2010-09-23 10:28:55,218 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:28:58,218 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:31:58,131 [4] DEBUG Logger - ------------- Application starts -------------
+2010-09-23 10:31:58,178 [4] INFO  Logger - User list load completed. Count=4
+2010-09-23 10:31:58,178 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-09-23 10:31:58,178 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-09-23 10:31:58,178 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-09-23 10:31:58,178 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-09-23 10:32:00,116 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 10:32:00,131 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 10:32:02,819 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:32:07,210 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:32:08,663 [4] INFO  Logger - Calculate - ENTER
+2010-09-23 10:32:08,726 [4] INFO  Logger - Data object link completed
+2010-09-23 10:32:08,726 [4] INFO  Logger - ClientTradeData data load completed. Count=592
+2010-09-23 10:32:08,772 [4] INFO  Logger - Office THD: TradingValue=273537988000.0000 Revenue=607896363.80000000
+2010-09-23 10:32:08,772 [4] INFO  Logger - Office KL: TradingValue=130411447000.0000 Revenue=314874420.20000000
+2010-09-23 10:32:08,772 [4] INFO  Logger - Office BT: TradingValue=366323272000.0000 Revenue=795647755.20000000
+2010-09-23 10:32:08,772 [4] INFO  Logger - Office HCM: TradingValue=115621324000.0000 Revenue=236811776.90000000
+2010-09-23 10:32:08,772 [4] INFO  Logger - Office LH: TradingValue=656720710000.0000 Revenue=1387815197.00000000
+2010-09-23 10:32:08,772 [4] INFO  Logger - Office TVL: TradingValue=1566004537200.0000 Revenue=2263918410.62000000
+2010-09-23 10:32:08,772 [4] INFO  Logger - Office LTT: TradingValue=500722730000.0000 Revenue=1020782047.00000000
+2010-09-23 10:32:08,772 [4] INFO  Logger - Office 3T2: TradingValue=67573421000.0000 Revenue=140122184.10000000
+2010-09-23 10:32:08,788 [4] DEBUG Logger - StoreCalculationData - ENTER
+2010-09-23 10:32:08,788 [4] INFO  Logger - Delete Result Data, id=201009
+2010-09-23 10:32:08,788 [4] INFO  Logger - Delete BrokerCalculationResult, count=313
+2010-09-23 10:32:08,788 [4] INFO  Logger - Delete OfficeCalculationResult, count=8
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000535 InsertedRecord=1
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000533 InsertedRecord=1
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000503 InsertedRecord=1
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000513 InsertedRecord=1
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000428 InsertedRecord=1
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000408 InsertedRecord=1
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000418 InsertedRecord=1
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000468 InsertedRecord=1
+2010-09-23 10:32:08,819 [4] DEBUG Logger - StoreCalculationData - BrokerID=000478 InsertedRecord=1
+2010-09-23 10:32:08,835 [4] DEBUG Logger - StoreCalculationData - BrokerID=000232 InsertedRecord=1
+2010-09-23 10:32:08,835 [4] DEBUG Logger - StoreCalculationData - BrokerID=000202 InsertedRecord=1
+2010-09-23 10:32:08,835 [4] DEBUG Logger - StoreCalculationData - BrokerID=000580 InsertedRecord=1
+2010-09-23 10:32:08,835 [4] DEBUG Logger - StoreCalculationData - BrokerID=000272 InsertedRecord=1
+2010-09-23 10:32:08,835 [4] DEBUG Logger - StoreCalculationData - BrokerID=000517 InsertedRecord=1
+2010-09-23 10:32:08,851 [4] DEBUG Logger - StoreCalculationData - BrokerID=000282 InsertedRecord=1
+2010-09-23 10:32:08,851 [4] DEBUG Logger - StoreCalculationData - BrokerID=000292 InsertedRecord=1
+2010-09-23 10:32:08,851 [4] DEBUG Logger - StoreCalculationData - BrokerID=000463 InsertedRecord=1
+2010-09-23 10:32:08,851 [4] DEBUG Logger - StoreCalculationData - BrokerID=000126 InsertedRecord=1
+2010-09-23 10:32:08,851 [4] DEBUG Logger - StoreCalculationData - BrokerID=000136 InsertedRecord=1
+2010-09-23 10:32:08,851 [4] DEBUG Logger - StoreCalculationData - BrokerID=000116 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000176 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000146 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000156 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000435 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000405 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000415 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000196 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000475 InsertedRecord=1
+2010-09-23 10:32:08,866 [4] DEBUG Logger - StoreCalculationData - BrokerID=000455 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000514 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000485 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000495 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000561 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000339 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000309 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000319 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000369 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000581 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000349 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000359 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000133 InsertedRecord=1
+2010-09-23 10:32:08,882 [4] DEBUG Logger - StoreCalculationData - BrokerID=000113 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000163 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000017 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_2 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000322 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000332 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000312 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000362 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000537 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000342 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000352 InsertedRecord=1
+2010-09-23 10:32:08,897 [4] DEBUG Logger - StoreCalculationData - BrokerID=000567 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000382 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000557 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000391 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000226 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000506 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000216 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000266 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000276 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000030 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000296 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000070 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000520 InsertedRecord=1
+2010-09-23 10:32:08,913 [4] DEBUG Logger - StoreCalculationData - BrokerID=000500 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000510 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000429 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000439 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000409 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000419 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000414 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000479 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000449 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000223 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000213 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000263 InsertedRecord=1
+2010-09-23 10:32:08,929 [4] DEBUG Logger - StoreCalculationData - BrokerID=000273 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000519 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000283 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000293 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000411 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000532 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000157 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000542 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000402 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000412 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000472 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000442 InsertedRecord=1
+2010-09-23 10:32:08,944 [4] DEBUG Logger - StoreCalculationData - BrokerID=000316 InsertedRecord=1
+2010-09-23 10:32:08,960 [4] DEBUG Logger - StoreCalculationData - BrokerID=000366 InsertedRecord=1
+2010-09-23 10:32:08,960 [4] DEBUG Logger - StoreCalculationData - BrokerID=000376 InsertedRecord=1
+2010-09-23 10:32:08,960 [4] DEBUG Logger - StoreCalculationData - BrokerID=000346 InsertedRecord=1
+2010-09-23 10:32:08,960 [4] DEBUG Logger - StoreCalculationData - BrokerID=000356 InsertedRecord=1
+2010-09-23 10:32:08,960 [4] DEBUG Logger - StoreCalculationData - BrokerID=000063 InsertedRecord=1
+2010-09-23 10:32:08,960 [4] DEBUG Logger - StoreCalculationData - BrokerID=000386 InsertedRecord=1
+2010-09-23 10:32:08,960 [4] DEBUG Logger - StoreCalculationData - BrokerID=000160 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_3 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000190 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000397 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000044 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000323 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000333 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000303 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000313 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000363 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000373 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000504 InsertedRecord=1
+2010-09-23 10:32:08,976 [4] DEBUG Logger - StoreCalculationData - BrokerID=000353 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000564 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000383 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000554 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000227 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000237 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000207 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000267 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000277 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000247 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000531 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000287 InsertedRecord=1
+2010-09-23 10:32:08,991 [4] DEBUG Logger - StoreCalculationData - BrokerID=000061 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000071 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000051 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000551 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000555 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000489 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000499 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000501 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000511 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000426 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000571 InsertedRecord=1
+2010-09-23 10:32:09,007 [4] DEBUG Logger - StoreCalculationData - BrokerID=000541 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000416 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000476 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000446 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000456 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000527 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000210 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000260 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000270 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000240 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000250 InsertedRecord=1
+2010-09-23 10:32:09,022 [4] DEBUG Logger - StoreCalculationData - BrokerID=000547 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000280 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000290 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000124 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000164 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000174 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000057 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000433 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000403 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000413 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000425 InsertedRecord=1
+2010-09-23 10:32:09,038 [4] DEBUG Logger - StoreCalculationData - BrokerID=000473 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000443 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000453 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000028 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000008 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000068 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000058 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000337 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000317 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000367 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000538 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000508 InsertedRecord=1
+2010-09-23 10:32:09,054 [4] DEBUG Logger - StoreCalculationData - BrokerID=000357 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000568 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000398 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000387 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000161 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000563 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000181 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000543 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000553 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000035 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000320 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000330 InsertedRecord=1
+2010-09-23 10:32:09,069 [4] DEBUG Logger - StoreCalculationData - BrokerID=000300 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000529 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000370 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000340 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000350 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000565 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000575 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000380 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000390 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000234 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000264 InsertedRecord=1
+2010-09-23 10:32:09,085 [4] DEBUG Logger - StoreCalculationData - BrokerID=000274 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000244 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000284 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000294 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000528 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000168 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000158 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000437 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000407 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000417 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000467 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000465 InsertedRecord=1
+2010-09-23 10:32:09,101 [4] DEBUG Logger - StoreCalculationData - BrokerID=000447 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000457 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000201 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000211 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000261 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG1 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000281 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000291 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000135 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000105 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000115 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000165 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000175 InsertedRecord=1
+2010-09-23 10:32:09,116 [4] DEBUG Logger - StoreCalculationData - BrokerID=000155 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000430 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000400 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000410 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000460 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000440 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000039 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000480 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000069 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000534 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000324 InsertedRecord=1
+2010-09-23 10:32:09,132 [4] DEBUG Logger - StoreCalculationData - BrokerID=000304 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000297 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000364 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000374 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000344 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000354 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000569 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000507 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000384 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000539 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000558 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000552 InsertedRecord=1
+2010-09-23 10:32:09,147 [4] DEBUG Logger - StoreCalculationData - BrokerID=000238 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000208 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000218 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000278 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000422 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000288 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000062 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000042 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000321 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000301 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000361 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000371 InsertedRecord=1
+2010-09-23 10:32:09,163 [4] DEBUG Logger - StoreCalculationData - BrokerID=000502 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000512 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000562 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000572 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000381 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000389 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000399 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000215 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000265 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000570 InsertedRecord=1
+2010-09-23 10:32:09,179 [4] DEBUG Logger - StoreCalculationData - BrokerID=000540 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000550 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000285 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_3T2 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000119 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000179 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000149 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000424 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000434 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000404 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000189 InsertedRecord=1
+2010-09-23 10:32:09,194 [4] DEBUG Logger - StoreCalculationData - BrokerID=000464 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000474 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000338 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000308 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000318 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000368 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000378 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000348 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000358 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000388 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000162 InsertedRecord=1
+2010-09-23 10:32:09,210 [4] DEBUG Logger - StoreCalculationData - BrokerID=000172 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000509 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000421 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000431 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000401 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000298 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000461 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000441 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000420 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000481 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000066 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000325 InsertedRecord=1
+2010-09-23 10:32:09,226 [4] DEBUG Logger - StoreCalculationData - BrokerID=000335 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000305 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000315 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000365 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000536 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000345 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000566 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000576 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000546 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000556 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000548 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=000229 InsertedRecord=1
+2010-09-23 10:32:09,241 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_THD InsertedRecord=1
+2010-09-23 10:32:09,257 [4] DEBUG Logger - StoreCalculationData - BrokerID=000209 InsertedRecord=1
+2010-09-23 10:32:09,257 [4] DEBUG Logger - StoreCalculationData - BrokerID=000219 InsertedRecord=1
+2010-09-23 10:32:09,257 [4] DEBUG Logger - StoreCalculationData - BrokerID=000269 InsertedRecord=1
+2010-09-23 10:32:09,257 [4] DEBUG Logger - StoreCalculationData - BrokerID=000279 InsertedRecord=1
+2010-09-23 10:32:09,257 [4] DEBUG Logger - StoreCalculationData - BrokerID=000023 InsertedRecord=1
+2010-09-23 10:32:09,257 [4] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN InsertedRecord=1
+2010-09-23 10:32:09,257 [4] DEBUG Logger - StoreCalculationData - BrokerID=000289 InsertedRecord=1
+2010-09-23 10:32:09,257 [4] DEBUG Logger - StoreCalculationData - BrokerID=000299 InsertedRecord=1
+2010-09-23 10:32:09,272 [4] DEBUG Logger - StoreCalculationData - OfficeID=THD InsertedRecord=1
+2010-09-23 10:32:09,272 [4] DEBUG Logger - StoreCalculationData - OfficeID=KL InsertedRecord=1
+2010-09-23 10:32:09,272 [4] DEBUG Logger - StoreCalculationData - OfficeID=BT InsertedRecord=1
+2010-09-23 10:32:09,272 [4] DEBUG Logger - StoreCalculationData - OfficeID=HCM InsertedRecord=1
+2010-09-23 10:32:09,272 [4] DEBUG Logger - StoreCalculationData - OfficeID=LH InsertedRecord=1
+2010-09-23 10:32:09,272 [4] DEBUG Logger - StoreCalculationData - OfficeID=TVL InsertedRecord=1
+2010-09-23 10:32:09,272 [4] DEBUG Logger - StoreCalculationData - OfficeID=LTT InsertedRecord=1
+2010-09-23 10:32:09,272 [4] DEBUG Logger - StoreCalculationData - OfficeID=3T2 InsertedRecord=1
+2010-09-23 10:32:09,288 [4] DEBUG Logger - StoreCalculationData - BranchID=HCM InsertedRecord=1
+2010-09-23 10:32:09,288 [4] DEBUG Logger - StoreCalculationData - BranchID=HN InsertedRecord=1
+2010-09-23 10:32:09,288 [4] DEBUG Logger - StoreCalculationData - LEAVE
+2010-09-23 10:32:09,288 [4] INFO  Logger - Calculate - LEAVE
+2010-09-23 10:32:09,429 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:32:13,226 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:32:20,867 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 10:33:58,824 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 11:09:03,029 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 11:09:03,029 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 11:09:03,201 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 11:09:05,639 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 13:49:35,883 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-23 13:49:35,883 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-23 13:49:36,070 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 13:49:40,367 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-23 13:49:44,305 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

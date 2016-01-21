@@ -1,0 +1,1394 @@
+2011-03-21 15:29:21,600 [4] DEBUG Logger - ------------- Application starts -------------
+2011-03-21 15:29:22,485 [4] INFO  Logger - User list load completed. Count=4
+2011-03-21 15:29:22,486 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2011-03-21 15:29:22,486 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2011-03-21 15:29:22,486 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2011-03-21 15:29:22,486 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2011-03-21 15:29:34,913 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2011-03-21 15:29:34,990 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2011-03-21 15:29:41,692 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:30:00,215 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:30:07,789 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:30:15,958 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:31:18,471 [10] INFO  Logger - Deleted count=346 - By hung.tq
+2011-03-21 15:31:19,586 [10] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:31:27,913 [12] INFO  Logger - Imported file uploaded to D:\internal project\HSCBrokerManagement\BrokerManager\Upload\BrokerListImport.xls - By: hung.tq
+2011-03-21 15:31:28,390 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,471 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,489 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,496 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,503 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,516 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,524 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,535 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,548 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,561 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,569 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,581 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,592 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,603 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,616 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,624 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,636 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,648 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,656 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,664 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,670 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,682 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,689 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,696 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,708 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,715 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,722 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,733 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,741 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,752 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,764 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,776 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,784 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,790 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,797 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,804 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,811 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,818 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,825 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,831 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,838 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,851 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,858 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,865 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,872 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,879 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,886 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,892 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,917 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,924 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,930 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,937 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,944 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,950 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,961 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,968 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,975 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,981 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,988 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:28,996 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,008 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,015 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,022 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,028 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,036 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,042 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,049 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,055 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,062 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,069 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,076 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,084 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,091 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,097 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,104 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,111 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,118 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,125 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,132 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,138 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,145 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,152 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,159 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,167 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,173 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,179 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,186 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,193 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,200 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,207 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,214 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,225 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,234 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,241 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,250 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,258 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,267 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,276 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,283 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,289 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,296 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,302 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,309 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,317 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,326 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,335 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,344 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,352 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,358 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,367 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,374 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,380 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,392 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,398 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,405 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,413 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,422 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,429 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,436 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,443 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,455 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,461 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,468 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,475 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,482 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,489 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,496 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,503 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,510 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,517 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,524 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,531 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,538 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,545 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,552 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,558 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,567 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,576 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,582 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,588 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,595 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,602 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,614 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,622 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,629 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,636 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,643 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,651 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,658 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,666 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,672 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,684 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,691 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,699 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,708 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,716 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,723 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,730 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,737 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,743 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,749 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,757 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,763 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,770 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,777 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,783 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,790 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,799 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,807 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,814 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,822 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,828 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,840 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,853 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,866 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,878 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,885 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,896 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,909 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,919 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,930 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,938 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,949 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,956 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,963 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,969 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,978 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,988 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:29,999 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,007 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,013 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,024 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,031 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,042 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,050 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,057 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,069 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,077 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,087 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,094 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,100 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,106 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,117 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,124 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,132 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,140 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,149 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,157 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,168 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,177 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,185 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,194 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,203 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,210 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,218 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,225 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,233 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,240 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,246 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,252 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,259 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,266 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,274 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,280 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,309 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,318 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,325 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,334 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,341 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,348 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,359 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,368 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,375 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,382 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,389 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,396 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,404 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,422 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,429 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,436 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,443 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,450 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,457 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,463 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,470 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,477 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,489 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,496 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,503 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,511 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,517 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,525 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,531 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,539 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,547 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,553 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,560 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,567 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,574 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,581 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,587 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,594 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,600 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,607 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,613 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,625 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,632 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,638 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,644 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,651 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,658 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,665 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,671 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,678 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,684 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,692 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,698 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,705 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,711 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,718 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,724 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,731 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,738 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,745 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,752 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,759 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,765 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,773 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,781 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,788 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,795 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,802 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,809 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,816 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,824 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,831 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,840 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,848 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,863 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,871 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,886 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,895 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,903 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,910 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,918 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,931 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,939 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,948 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,960 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,969 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,980 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:30,990 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,007 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,016 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,026 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,037 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,062 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,072 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,082 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,090 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,100 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,109 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,119 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,132 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,150 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,160 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,167 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,175 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,182 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,190 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,203 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,212 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,219 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,228 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,237 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,245 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,253 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,261 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,275 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,286 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,294 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,300 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,307 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,314 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,327 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,337 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,344 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,351 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,358 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,366 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,373 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,380 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,393 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,402 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,411 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,423 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,434 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,446 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,458 [12] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2011-03-21 15:31:31,458 [12] INFO  Logger - Data in file 'D:\internal project\HSCBrokerManagement\BrokerManager\Upload\BrokerListImport.xls' imported to DB by: hung.tq
+2011-03-21 15:31:32,522 [10] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:33:34,994 [10] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:33:43,695 [11] INFO  Logger - Imported file uploaded to D:\internal project\HSCBrokerManagement\BrokerManager\Upload\ClientTradeDataImport.xls - By: hung.tq
+2011-03-21 15:33:46,910 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:33:54,859 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000008 TradingValue=3870696000 Commission=8060160
+2011-03-21 15:33:54,866 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000008 TradingValue=0 Commission=0
+2011-03-21 15:33:54,871 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000017 TradingValue=36196955000 Commission=82032346
+2011-03-21 15:33:54,875 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000017 TradingValue=16605646000 Commission=45071127
+2011-03-21 15:33:54,880 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000023 TradingValue=14402801000 Commission=29155894
+2011-03-21 15:33:54,884 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000023 TradingValue=1893000000 Commission=2956503
+2011-03-21 15:33:54,889 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000030 TradingValue=0 Commission=0
+2011-03-21 15:33:54,894 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000030 TradingValue=8386691000 Commission=25262956
+2011-03-21 15:33:54,898 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000035 TradingValue=0 Commission=0
+2011-03-21 15:33:54,902 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000035 TradingValue=9990224000 Commission=26373796
+2011-03-21 15:33:54,905 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000039 TradingValue=13613269000 Commission=42281543
+2011-03-21 15:33:54,909 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000039 TradingValue=11053031000 Commission=24145146
+2011-03-21 15:33:54,912 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000042 TradingValue=24804428000 Commission=45042895
+2011-03-21 15:33:54,916 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000042 TradingValue=4180197000 Commission=10309112
+2011-03-21 15:33:54,919 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000044 TradingValue=31480026000 Commission=80652993
+2011-03-21 15:33:54,922 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000044 TradingValue=40749072000 Commission=98466390
+2011-03-21 15:33:54,926 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000057 TradingValue=0 Commission=0
+2011-03-21 15:33:54,930 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000057 TradingValue=21845861000 Commission=56819519
+2011-03-21 15:33:54,934 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000058 TradingValue=0 Commission=0
+2011-03-21 15:33:54,937 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000058 TradingValue=32965679000 Commission=70548687
+2011-03-21 15:33:54,941 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000061 TradingValue=0 Commission=0
+2011-03-21 15:33:54,944 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000061 TradingValue=1143250000 Commission=2626850
+2011-03-21 15:33:54,947 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000062 TradingValue=0 Commission=0
+2011-03-21 15:33:54,950 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000062 TradingValue=443714000 Commission=887428
+2011-03-21 15:33:54,954 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000066 TradingValue=4784492000 Commission=13995156
+2011-03-21 15:33:54,957 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000066 TradingValue=1714810000 Commission=5679906
+2011-03-21 15:33:54,961 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000068 TradingValue=0 Commission=0
+2011-03-21 15:33:54,964 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000068 TradingValue=1923214000 Commission=5997445
+2011-03-21 15:33:54,968 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000069 TradingValue=68436408000 Commission=134349629
+2011-03-21 15:33:54,971 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000069 TradingValue=6573883000 Commission=16487640
+2011-03-21 15:33:54,975 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000070 TradingValue=0 Commission=0
+2011-03-21 15:33:54,978 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000070 TradingValue=5311613000 Commission=13374990
+2011-03-21 15:33:54,982 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000071 TradingValue=0 Commission=0
+2011-03-21 15:33:54,985 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000071 TradingValue=14438235000 Commission=35443946
+2011-03-21 15:33:54,988 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000105 TradingValue=25451037000 Commission=54670100
+2011-03-21 15:33:54,992 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000105 TradingValue=5010615000 Commission=12218555
+2011-03-21 15:33:54,995 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000113 TradingValue=0 Commission=0
+2011-03-21 15:33:54,998 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000113 TradingValue=2815448000 Commission=5859098
+2011-03-21 15:33:55,037 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000115 TradingValue=0 Commission=0
+2011-03-21 15:33:55,073 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000115 TradingValue=6436116000 Commission=15997041
+2011-03-21 15:33:55,139 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000119 TradingValue=0 Commission=0
+2011-03-21 15:33:55,173 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000119 TradingValue=2959226000 Commission=9954463
+2011-03-21 15:33:55,180 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000123 TradingValue=0 Commission=0
+2011-03-21 15:33:55,185 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000123 TradingValue=3427978000 Commission=8517228
+2011-03-21 15:33:55,189 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000124 TradingValue=0 Commission=0
+2011-03-21 15:33:55,194 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000124 TradingValue=35060567000 Commission=63297323
+2011-03-21 15:33:55,200 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000126 TradingValue=0 Commission=0
+2011-03-21 15:33:55,207 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000126 TradingValue=12993590000 Commission=32995660
+2011-03-21 15:33:55,211 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000133 TradingValue=25649607300 Commission=53983392
+2011-03-21 15:33:55,216 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000133 TradingValue=13306839000 Commission=29623444
+2011-03-21 15:33:55,221 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000135 TradingValue=0 Commission=0
+2011-03-21 15:33:55,226 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000135 TradingValue=8941918000 Commission=24196283
+2011-03-21 15:33:55,229 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000146 TradingValue=0 Commission=0
+2011-03-21 15:33:55,233 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000146 TradingValue=17579310000 Commission=43605771
+2011-03-21 15:33:55,236 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000149 TradingValue=0 Commission=0
+2011-03-21 15:33:55,240 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000149 TradingValue=2096665000 Commission=6978828
+2011-03-21 15:33:55,243 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000155 TradingValue=0 Commission=0
+2011-03-21 15:33:55,247 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000155 TradingValue=7601650000 Commission=23255683
+2011-03-21 15:33:55,250 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000156 TradingValue=0 Commission=0
+2011-03-21 15:33:55,253 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000156 TradingValue=11534990000 Commission=30830686
+2011-03-21 15:33:55,257 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000157 TradingValue=0 Commission=0
+2011-03-21 15:33:55,261 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000157 TradingValue=4205070000 Commission=11075682
+2011-03-21 15:33:55,264 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000158 TradingValue=0 Commission=0
+2011-03-21 15:33:55,268 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000158 TradingValue=4022978000 Commission=12544659
+2011-03-21 15:33:55,272 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000160 TradingValue=0 Commission=0
+2011-03-21 15:33:55,275 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000160 TradingValue=5608174000 Commission=16340263
+2011-03-21 15:33:55,278 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000161 TradingValue=0 Commission=0
+2011-03-21 15:33:55,282 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000161 TradingValue=2395453000 Commission=7692488
+2011-03-21 15:33:55,286 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000162 TradingValue=0 Commission=0
+2011-03-21 15:33:55,289 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000162 TradingValue=4892836000 Commission=14788058
+2011-03-21 15:33:55,293 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000163 TradingValue=0 Commission=0
+2011-03-21 15:33:55,296 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000163 TradingValue=17437557000 Commission=33422463
+2011-03-21 15:33:55,300 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000164 TradingValue=5945474000 Commission=16455552
+2011-03-21 15:33:55,303 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000164 TradingValue=498840000 Commission=1685970
+2011-03-21 15:33:55,306 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000165 TradingValue=2773326000 Commission=8987110
+2011-03-21 15:33:55,310 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000165 TradingValue=1821405000 Commission=5704419
+2011-03-21 15:33:55,313 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000168 TradingValue=0 Commission=0
+2011-03-21 15:33:55,317 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000168 TradingValue=13112094000 Commission=37018205
+2011-03-21 15:33:55,320 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000172 TradingValue=0 Commission=0
+2011-03-21 15:33:55,324 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000172 TradingValue=9137924000 Commission=24484052
+2011-03-21 15:33:55,327 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000174 TradingValue=2577890000 Commission=8006016
+2011-03-21 15:33:55,330 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000174 TradingValue=10491938000 Commission=28315036
+2011-03-21 15:33:55,333 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000175 TradingValue=0 Commission=0
+2011-03-21 15:33:55,337 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000175 TradingValue=10228079000 Commission=28199839
+2011-03-21 15:33:55,341 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000176 TradingValue=0 Commission=0
+2011-03-21 15:33:55,345 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000176 TradingValue=12499631000 Commission=31924275
+2011-03-21 15:33:55,349 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000189 TradingValue=4163817000 Commission=7954321
+2011-03-21 15:33:55,352 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000189 TradingValue=7883284000 Commission=19143021
+2011-03-21 15:33:55,355 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000190 TradingValue=0 Commission=0
+2011-03-21 15:33:55,359 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000190 TradingValue=141330000 Commission=328905
+2011-03-21 15:33:55,362 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000196 TradingValue=0 Commission=0
+2011-03-21 15:33:55,365 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000196 TradingValue=18753849000 Commission=28557086
+2011-03-21 15:33:55,369 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000197 TradingValue=963003000 Commission=2910612
+2011-03-21 15:33:55,373 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000197 TradingValue=1041876000 Commission=3568257
+2011-03-21 15:33:55,376 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000201 TradingValue=0 Commission=0
+2011-03-21 15:33:55,379 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000201 TradingValue=10850193000 Commission=27935809
+2011-03-21 15:33:55,382 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000202 TradingValue=3454675000 Commission=8022421
+2011-03-21 15:33:55,386 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000202 TradingValue=22761905000 Commission=36871967
+2011-03-21 15:33:55,415 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000207 TradingValue=0 Commission=0
+2011-03-21 15:33:55,420 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000207 TradingValue=5744263000 Commission=15672337
+2011-03-21 15:33:55,423 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000208 TradingValue=0 Commission=0
+2011-03-21 15:33:55,427 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000208 TradingValue=8053228000 Commission=23550208
+2011-03-21 15:33:55,430 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000209 TradingValue=0 Commission=0
+2011-03-21 15:33:55,434 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000209 TradingValue=6424601000 Commission=21237712
+2011-03-21 15:33:55,437 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000210 TradingValue=1427772000 Commission=3915137
+2011-03-21 15:33:55,441 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000210 TradingValue=2739660000 Commission=7088141
+2011-03-21 15:33:55,445 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000211 TradingValue=0 Commission=0
+2011-03-21 15:33:55,448 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000211 TradingValue=13594027000 Commission=37409746
+2011-03-21 15:33:55,452 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000213 TradingValue=0 Commission=0
+2011-03-21 15:33:55,455 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000213 TradingValue=7039463000 Commission=20810832
+2011-03-21 15:33:55,458 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000215 TradingValue=0 Commission=0
+2011-03-21 15:33:55,461 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000215 TradingValue=5311259000 Commission=15681209
+2011-03-21 15:33:55,465 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000216 TradingValue=0 Commission=0
+2011-03-21 15:33:55,469 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000216 TradingValue=5956845000 Commission=18480391
+2011-03-21 15:33:55,472 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000219 TradingValue=1591567000 Commission=5052852
+2011-03-21 15:33:55,476 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000219 TradingValue=16809920000 Commission=31051088
+2011-03-21 15:33:55,479 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000223 TradingValue=0 Commission=0
+2011-03-21 15:33:55,482 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000223 TradingValue=3559248000 Commission=10407182
+2011-03-21 15:33:55,485 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000226 TradingValue=0 Commission=0
+2011-03-21 15:33:55,489 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000226 TradingValue=5101967000 Commission=15144057
+2011-03-21 15:33:55,492 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000229 TradingValue=3159000000 Commission=4738511
+2011-03-21 15:33:55,497 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000229 TradingValue=8421480000 Commission=21383491
+2011-03-21 15:33:55,500 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000232 TradingValue=0 Commission=0
+2011-03-21 15:33:55,504 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000232 TradingValue=5315251000 Commission=15177046
+2011-03-21 15:33:55,507 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000234 TradingValue=1165461000 Commission=1748192
+2011-03-21 15:33:55,510 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000234 TradingValue=14558131000 Commission=29018527
+2011-03-21 15:33:55,514 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000237 TradingValue=0 Commission=0
+2011-03-21 15:33:55,517 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000237 TradingValue=2348507000 Commission=7489883
+2011-03-21 15:33:55,521 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000238 TradingValue=0 Commission=0
+2011-03-21 15:33:55,524 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000238 TradingValue=7599783000 Commission=12401625
+2011-03-21 15:33:55,528 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000247 TradingValue=0 Commission=0
+2011-03-21 15:33:55,531 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000247 TradingValue=5619922000 Commission=17165003
+2011-03-21 15:33:55,535 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000250 TradingValue=0 Commission=0
+2011-03-21 15:33:55,538 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000250 TradingValue=3337564000 Commission=9052469
+2011-03-21 15:33:55,541 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000260 TradingValue=0 Commission=0
+2011-03-21 15:33:55,544 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000260 TradingValue=2804013000 Commission=7313220
+2011-03-21 15:33:55,548 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000261 TradingValue=0 Commission=0
+2011-03-21 15:33:55,551 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000261 TradingValue=2376318000 Commission=7421324
+2011-03-21 15:33:55,554 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000263 TradingValue=0 Commission=0
+2011-03-21 15:33:55,558 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000263 TradingValue=6935640000 Commission=17664764
+2011-03-21 15:33:55,561 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000264 TradingValue=141000 Commission=494
+2011-03-21 15:33:55,565 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000264 TradingValue=1789700000 Commission=5715715
+2011-03-21 15:33:55,568 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000265 TradingValue=3827022000 Commission=11075970
+2011-03-21 15:33:55,571 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000265 TradingValue=1578724000 Commission=5219073
+2011-03-21 15:33:55,574 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000266 TradingValue=422634000 Commission=1329800
+2011-03-21 15:33:55,577 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000266 TradingValue=1204539000 Commission=3922879
+2011-03-21 15:33:55,581 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000267 TradingValue=4120000 Commission=14420
+2011-03-21 15:33:55,584 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000267 TradingValue=3349806000 Commission=5692457
+2011-03-21 15:33:55,588 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000269 TradingValue=1657357000 Commission=4909919
+2011-03-21 15:33:55,591 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000269 TradingValue=5251873000 Commission=13217935
+2011-03-21 15:33:55,594 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000270 TradingValue=3586950000 Commission=10216279
+2011-03-21 15:33:55,598 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000270 TradingValue=1749510000 Commission=4361033
+2011-03-21 15:33:55,626 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000273 TradingValue=465301000 Commission=1628561
+2011-03-21 15:33:55,631 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000273 TradingValue=1947831000 Commission=6536325
+2011-03-21 15:33:55,634 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000276 TradingValue=330880000 Commission=1069641
+2011-03-21 15:33:55,638 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000276 TradingValue=5154559000 Commission=13978269
+2011-03-21 15:33:55,641 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000277 TradingValue=16636690000 Commission=41333254
+2011-03-21 15:33:55,644 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000277 TradingValue=2279192000 Commission=7218784
+2011-03-21 15:33:55,648 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000278 TradingValue=1074100000 Commission=3302100
+2011-03-21 15:33:55,651 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000278 TradingValue=7512217000 Commission=22900203
+2011-03-21 15:33:55,655 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000279 TradingValue=189400000 Commission=622100
+2011-03-21 15:33:55,658 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000279 TradingValue=12433339000 Commission=38275143
+2011-03-21 15:33:55,662 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000280 TradingValue=61051000 Commission=213680
+2011-03-21 15:33:55,666 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000280 TradingValue=6985413000 Commission=20161081
+2011-03-21 15:33:55,670 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000281 TradingValue=47235414000 Commission=92059917
+2011-03-21 15:33:55,673 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000281 TradingValue=4487866000 Commission=6384794
+2011-03-21 15:33:55,677 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000282 TradingValue=474570000 Commission=1596514
+2011-03-21 15:33:55,680 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000282 TradingValue=9780679000 Commission=23288953
+2011-03-21 15:33:55,684 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000283 TradingValue=0 Commission=0
+2011-03-21 15:33:55,687 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000283 TradingValue=14076395000 Commission=30149972
+2011-03-21 15:33:55,690 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000284 TradingValue=7264715000 Commission=21160382
+2011-03-21 15:33:55,693 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000284 TradingValue=7722104000 Commission=12984395
+2011-03-21 15:33:55,697 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000285 TradingValue=2022775000 Commission=6376736
+2011-03-21 15:33:55,701 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000285 TradingValue=2323114000 Commission=7661428
+2011-03-21 15:33:55,704 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000287 TradingValue=14638533000 Commission=30754748
+2011-03-21 15:33:55,708 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000287 TradingValue=20776139000 Commission=40349879
+2011-03-21 15:33:55,711 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000288 TradingValue=844052000 Commission=2939340
+2011-03-21 15:33:55,715 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000288 TradingValue=1240219000 Commission=3112020
+2011-03-21 15:33:55,718 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000289 TradingValue=0 Commission=0
+2011-03-21 15:33:55,722 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000289 TradingValue=8334658000 Commission=20137566
+2011-03-21 15:33:55,725 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000290 TradingValue=3568340000 Commission=10359993
+2011-03-21 15:33:55,728 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000290 TradingValue=1343069000 Commission=4563142
+2011-03-21 15:33:55,732 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000291 TradingValue=15831960000 Commission=31684396
+2011-03-21 15:33:55,735 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000291 TradingValue=1716689000 Commission=5560238
+2011-03-21 15:33:55,739 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000292 TradingValue=9772221000 Commission=14658336
+2011-03-21 15:33:55,747 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000292 TradingValue=9660692000 Commission=14715715
+2011-03-21 15:33:55,750 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000293 TradingValue=0 Commission=0
+2011-03-21 15:33:55,754 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000293 TradingValue=8644169000 Commission=15562269
+2011-03-21 15:33:55,757 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000294 TradingValue=0 Commission=0
+2011-03-21 15:33:55,760 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000294 TradingValue=7473934000 Commission=22274052
+2011-03-21 15:33:55,764 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000296 TradingValue=0 Commission=0
+2011-03-21 15:33:55,768 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000296 TradingValue=731784000 Commission=2561246
+2011-03-21 15:33:55,771 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000298 TradingValue=1428701000 Commission=4809406
+2011-03-21 15:33:55,774 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000298 TradingValue=895497000 Commission=2583251
+2011-03-21 15:33:55,777 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000299 TradingValue=0 Commission=0
+2011-03-21 15:33:55,781 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000299 TradingValue=120250000 Commission=420876
+2011-03-21 15:33:55,784 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000300 TradingValue=35700000 Commission=124952
+2011-03-21 15:33:55,787 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000300 TradingValue=3045204000 Commission=9705217
+2011-03-21 15:33:55,791 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000301 TradingValue=2640000 Commission=9240
+2011-03-21 15:33:55,795 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000301 TradingValue=1225876000 Commission=4063861
+2011-03-21 15:33:55,798 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000304 TradingValue=0 Commission=0
+2011-03-21 15:33:55,802 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000304 TradingValue=9254626000 Commission=27576189
+2011-03-21 15:33:55,805 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000305 TradingValue=851039000 Commission=2916267
+2011-03-21 15:33:55,808 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000305 TradingValue=9723770000 Commission=24249800
+2011-03-21 15:33:55,812 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000309 TradingValue=600000 Commission=2100
+2011-03-21 15:33:55,815 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000309 TradingValue=337700000 Commission=1126700
+2011-03-21 15:33:55,818 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000312 TradingValue=24240000 Commission=84842
+2011-03-21 15:33:55,839 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000312 TradingValue=4629915000 Commission=13650357
+2011-03-21 15:33:55,843 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000315 TradingValue=165600000 Commission=496800
+2011-03-21 15:33:55,847 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000315 TradingValue=2140740000 Commission=5440547
+2011-03-21 15:33:55,850 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000316 TradingValue=0 Commission=0
+2011-03-21 15:33:55,854 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000316 TradingValue=3911192800 Commission=12143318
+2011-03-21 15:33:55,857 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000317 TradingValue=11976391000 Commission=33016102
+2011-03-21 15:33:55,860 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000317 TradingValue=5693620000 Commission=14339967
+2011-03-21 15:33:55,879 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000318 TradingValue=1505648000 Commission=4123695
+2011-03-21 15:33:55,883 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000318 TradingValue=2048111000 Commission=6759929
+2011-03-21 15:33:55,886 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000319 TradingValue=8617783000 Commission=21159358
+2011-03-21 15:33:55,890 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000319 TradingValue=6604780000 Commission=12146474
+2011-03-21 15:33:55,893 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000320 TradingValue=710311000 Commission=2486089
+2011-03-21 15:33:55,897 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000320 TradingValue=8101581000 Commission=21413233
+2011-03-21 15:33:55,900 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000321 TradingValue=921083000 Commission=2464923
+2011-03-21 15:33:55,905 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000321 TradingValue=7691408000 Commission=18485677
+2011-03-21 15:33:55,909 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000322 TradingValue=1192050000 Commission=3895397
+2011-03-21 15:33:55,912 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000322 TradingValue=530763000 Commission=1803846
+2011-03-21 15:33:55,916 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000323 TradingValue=183166000 Commission=641081
+2011-03-21 15:33:55,935 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000323 TradingValue=6432563000 Commission=10635571
+2011-03-21 15:33:55,938 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000325 TradingValue=0 Commission=0
+2011-03-21 15:33:55,942 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000325 TradingValue=7643927000 Commission=20111999
+2011-03-21 15:33:55,945 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000330 TradingValue=112000000 Commission=336000
+2011-03-21 15:33:55,948 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000330 TradingValue=1041250000 Commission=2631575
+2011-03-21 15:33:55,952 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000333 TradingValue=631840000 Commission=1986591
+2011-03-21 15:33:55,955 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000333 TradingValue=4438116000 Commission=13869307
+2011-03-21 15:33:55,958 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000335 TradingValue=33373000 Commission=116806
+2011-03-21 15:33:55,962 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000335 TradingValue=522630000 Commission=1750205
+2011-03-21 15:33:55,965 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000338 TradingValue=5840000 Commission=20440
+2011-03-21 15:33:55,968 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000338 TradingValue=2158761000 Commission=6611824
+2011-03-21 15:33:55,971 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000339 TradingValue=0 Commission=0
+2011-03-21 15:33:55,975 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000339 TradingValue=3266015000 Commission=10126345
+2011-03-21 15:33:55,979 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000340 TradingValue=0 Commission=0
+2011-03-21 15:33:55,982 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000340 TradingValue=23761548000 Commission=73729953
+2011-03-21 15:33:55,985 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000342 TradingValue=0 Commission=0
+2011-03-21 15:33:55,988 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000342 TradingValue=2291325000 Commission=5923243
+2011-03-21 15:33:55,992 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000344 TradingValue=0 Commission=0
+2011-03-21 15:33:55,995 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000344 TradingValue=805630000 Commission=2760605
+2011-03-21 15:33:55,999 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000345 TradingValue=0 Commission=0
+2011-03-21 15:33:56,002 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000345 TradingValue=329986000 Commission=1154957
+2011-03-21 15:33:56,005 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000346 TradingValue=0 Commission=0
+2011-03-21 15:33:56,009 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000346 TradingValue=9074375000 Commission=27326813
+2011-03-21 15:33:56,012 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000349 TradingValue=0 Commission=0
+2011-03-21 15:33:56,015 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000349 TradingValue=2193440000 Commission=6382531
+2011-03-21 15:33:56,019 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000350 TradingValue=0 Commission=0
+2011-03-21 15:33:56,022 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000350 TradingValue=300794000 Commission=1052780
+2011-03-21 15:33:56,025 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000352 TradingValue=0 Commission=0
+2011-03-21 15:33:56,028 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000352 TradingValue=4419209000 Commission=14450006
+2011-03-21 15:33:56,032 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000354 TradingValue=0 Commission=0
+2011-03-21 15:33:56,035 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000354 TradingValue=852618000 Commission=2487071
+2011-03-21 15:33:56,038 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000356 TradingValue=0 Commission=0
+2011-03-21 15:33:56,041 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000356 TradingValue=254327000 Commission=890146
+2011-03-21 15:33:56,045 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000357 TradingValue=0 Commission=0
+2011-03-21 15:33:56,048 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000357 TradingValue=712524000 Commission=2493836
+2011-03-21 15:33:56,051 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000358 TradingValue=0 Commission=0
+2011-03-21 15:33:56,055 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000358 TradingValue=1158207000 Commission=3929429
+2011-03-21 15:33:56,058 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000359 TradingValue=0 Commission=0
+2011-03-21 15:33:56,061 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000359 TradingValue=6757003000 Commission=15892043
+2011-03-21 15:33:56,065 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000361 TradingValue=0 Commission=0
+2011-03-21 15:33:56,068 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000361 TradingValue=254032000 Commission=808612
+2011-03-21 15:33:56,072 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000362 TradingValue=0 Commission=0
+2011-03-21 15:33:56,075 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000362 TradingValue=3413936000 Commission=9619686
+2011-03-21 15:33:56,079 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000364 TradingValue=0 Commission=0
+2011-03-21 15:33:56,082 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000364 TradingValue=4718579000 Commission=10360388
+2011-03-21 15:33:56,086 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000365 TradingValue=0 Commission=0
+2011-03-21 15:33:56,089 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000365 TradingValue=5309743000 Commission=15188879
+2011-03-21 15:33:56,093 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000366 TradingValue=0 Commission=0
+2011-03-21 15:33:56,096 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000366 TradingValue=15178005000 Commission=46555461
+2011-03-21 15:33:56,099 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000367 TradingValue=0 Commission=0
+2011-03-21 15:33:56,103 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000367 TradingValue=1670734000 Commission=3772358
+2011-03-21 15:33:56,106 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000368 TradingValue=0 Commission=0
+2011-03-21 15:33:56,109 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000368 TradingValue=489558000 Commission=1713455
+2011-03-21 15:33:56,113 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000371 TradingValue=0 Commission=0
+2011-03-21 15:33:56,116 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000371 TradingValue=2191602000 Commission=7236633
+2011-03-21 15:33:56,120 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000373 TradingValue=0 Commission=0
+2011-03-21 15:33:56,123 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000373 TradingValue=128310000 Commission=449086
+2011-03-21 15:33:56,127 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000374 TradingValue=0 Commission=0
+2011-03-21 15:33:56,130 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000374 TradingValue=2530407000 Commission=7881225
+2011-03-21 15:33:56,134 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000376 TradingValue=0 Commission=0
+2011-03-21 15:33:56,137 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000376 TradingValue=11855246000 Commission=31608709
+2011-03-21 15:33:56,155 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000378 TradingValue=0 Commission=0
+2011-03-21 15:33:56,158 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000378 TradingValue=1329842000 Commission=4592898
+2011-03-21 15:33:56,162 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000380 TradingValue=0 Commission=0
+2011-03-21 15:33:56,166 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000380 TradingValue=5076176000 Commission=16978850
+2011-03-21 15:33:56,169 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000381 TradingValue=0 Commission=0
+2011-03-21 15:33:56,173 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000381 TradingValue=893520000 Commission=2932993
+2011-03-21 15:33:56,176 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000382 TradingValue=0 Commission=0
+2011-03-21 15:33:56,179 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000382 TradingValue=579188000 Commission=2027159
+2011-03-21 15:33:56,183 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000383 TradingValue=0 Commission=0
+2011-03-21 15:33:56,186 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000383 TradingValue=1723000000 Commission=5316102
+2011-03-21 15:33:56,189 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000384 TradingValue=0 Commission=0
+2011-03-21 15:33:56,192 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000384 TradingValue=3161190000 Commission=8992578
+2011-03-21 15:33:56,196 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000386 TradingValue=0 Commission=0
+2011-03-21 15:33:56,200 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000386 TradingValue=9133780000 Commission=26867610
+2011-03-21 15:33:56,203 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000387 TradingValue=0 Commission=0
+2011-03-21 15:33:56,207 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000387 TradingValue=3065938000 Commission=9037320
+2011-03-21 15:33:56,210 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000388 TradingValue=0 Commission=0
+2011-03-21 15:33:56,217 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000388 TradingValue=950115000 Commission=3121918
+2011-03-21 15:33:56,220 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000389 TradingValue=0 Commission=0
+2011-03-21 15:33:56,223 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000389 TradingValue=22532643000 Commission=40138018
+2011-03-21 15:33:56,226 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000391 TradingValue=0 Commission=0
+2011-03-21 15:33:56,229 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000391 TradingValue=1782481000 Commission=5623698
+2011-03-21 15:33:56,233 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000397 TradingValue=0 Commission=0
+2011-03-21 15:33:56,237 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000397 TradingValue=1735420000 Commission=5328393
+2011-03-21 15:33:56,240 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000398 TradingValue=0 Commission=0
+2011-03-21 15:33:56,244 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000398 TradingValue=10270379000 Commission=30435313
+2011-03-21 15:33:56,247 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000399 TradingValue=0 Commission=0
+2011-03-21 15:33:56,251 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000399 TradingValue=11783219000 Commission=34820201
+2011-03-21 15:33:56,254 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000400 TradingValue=0 Commission=0
+2011-03-21 15:33:56,258 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000400 TradingValue=8275555000 Commission=25769752
+2011-03-21 15:33:56,262 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000402 TradingValue=0 Commission=0
+2011-03-21 15:33:56,265 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000402 TradingValue=5850308000 Commission=18975844
+2011-03-21 15:33:56,268 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000403 TradingValue=0 Commission=0
+2011-03-21 15:33:56,272 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000403 TradingValue=750171000 Commission=2391239
+2011-03-21 15:33:56,275 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000404 TradingValue=0 Commission=0
+2011-03-21 15:33:56,278 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000404 TradingValue=2111977000 Commission=5902881
+2011-03-21 15:33:56,282 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000405 TradingValue=0 Commission=0
+2011-03-21 15:33:56,285 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000405 TradingValue=276075000 Commission=914465
+2011-03-21 15:33:56,288 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000407 TradingValue=0 Commission=0
+2011-03-21 15:33:56,291 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000407 TradingValue=22540066000 Commission=48610924
+2011-03-21 15:33:56,295 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000408 TradingValue=0 Commission=0
+2011-03-21 15:33:56,298 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000408 TradingValue=1092170000 Commission=3751101
+2011-03-21 15:33:56,301 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000409 TradingValue=0 Commission=0
+2011-03-21 15:33:56,305 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000409 TradingValue=5958737000 Commission=16703628
+2011-03-21 15:33:56,308 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000410 TradingValue=0 Commission=0
+2011-03-21 15:33:56,311 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000410 TradingValue=5352736000 Commission=17402734
+2011-03-21 15:33:56,314 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000411 TradingValue=0 Commission=0
+2011-03-21 15:33:56,318 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000411 TradingValue=3147617000 Commission=9434093
+2011-03-21 15:33:56,321 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000412 TradingValue=0 Commission=0
+2011-03-21 15:33:56,324 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000412 TradingValue=9604890000 Commission=26485657
+2011-03-21 15:33:56,328 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000413 TradingValue=0 Commission=0
+2011-03-21 15:33:56,331 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000413 TradingValue=1819431000 Commission=6119385
+2011-03-21 15:33:56,336 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000414 TradingValue=0 Commission=0
+2011-03-21 15:33:56,339 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000414 TradingValue=6144460000 Commission=13984368
+2011-03-21 15:33:56,342 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000415 TradingValue=0 Commission=0
+2011-03-21 15:33:56,346 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000415 TradingValue=2434284000 Commission=7979244
+2011-03-21 15:33:56,349 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000416 TradingValue=0 Commission=0
+2011-03-21 15:33:56,352 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000416 TradingValue=3565939000 Commission=11082626
+2011-03-21 15:33:56,356 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000417 TradingValue=0 Commission=0
+2011-03-21 15:33:56,359 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000417 TradingValue=2907790000 Commission=9878596
+2011-03-21 15:33:56,363 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000418 TradingValue=0 Commission=0
+2011-03-21 15:33:56,367 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000418 TradingValue=17086722000 Commission=47910517
+2011-03-21 15:33:56,370 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000419 TradingValue=0 Commission=0
+2011-03-21 15:33:56,373 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000419 TradingValue=10787254000 Commission=21757969
+2011-03-21 15:33:56,376 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000421 TradingValue=0 Commission=0
+2011-03-21 15:33:56,379 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000421 TradingValue=5930787000 Commission=15922039
+2011-03-21 15:33:56,383 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000422 TradingValue=0 Commission=0
+2011-03-21 15:33:56,386 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000422 TradingValue=17849791000 Commission=51885913
+2011-03-21 15:33:56,390 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000424 TradingValue=0 Commission=0
+2011-03-21 15:33:56,393 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000424 TradingValue=1459227000 Commission=4802147
+2011-03-21 15:33:56,396 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000425 TradingValue=0 Commission=0
+2011-03-21 15:33:56,399 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000425 TradingValue=16322468000 Commission=46916566
+2011-03-21 15:33:56,403 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000426 TradingValue=0 Commission=0
+2011-03-21 15:33:56,406 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000426 TradingValue=15641923000 Commission=37341580
+2011-03-21 15:33:56,409 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000428 TradingValue=0 Commission=0
+2011-03-21 15:33:56,412 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000428 TradingValue=6552128000 Commission=16603115
+2011-03-21 15:33:56,417 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000429 TradingValue=0 Commission=0
+2011-03-21 15:33:56,420 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000429 TradingValue=7163406000 Commission=17846208
+2011-03-21 15:33:56,423 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000430 TradingValue=0 Commission=0
+2011-03-21 15:33:56,427 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000430 TradingValue=21741340000 Commission=53710227
+2011-03-21 15:33:56,430 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000433 TradingValue=0 Commission=0
+2011-03-21 15:33:56,433 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000433 TradingValue=3910234000 Commission=10709566
+2011-03-21 15:33:56,436 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000434 TradingValue=0 Commission=0
+2011-03-21 15:33:56,440 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000434 TradingValue=8940623000 Commission=25301738
+2011-03-21 15:33:56,443 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000435 TradingValue=0 Commission=0
+2011-03-21 15:33:56,446 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000435 TradingValue=1769248000 Commission=5705226
+2011-03-21 15:33:56,450 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000437 TradingValue=0 Commission=0
+2011-03-21 15:33:56,453 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000437 TradingValue=34934742000 Commission=58139321
+2011-03-21 15:33:56,457 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000439 TradingValue=0 Commission=0
+2011-03-21 15:33:56,460 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000439 TradingValue=13268509000 Commission=31910592
+2011-03-21 15:33:56,463 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000440 TradingValue=0 Commission=0
+2011-03-21 15:33:56,466 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000440 TradingValue=4678614000 Commission=13289089
+2011-03-21 15:33:56,470 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000441 TradingValue=0 Commission=0
+2011-03-21 15:33:56,473 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000441 TradingValue=1537916000 Commission=4653068
+2011-03-21 15:33:56,476 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000442 TradingValue=0 Commission=0
+2011-03-21 15:33:56,480 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000442 TradingValue=12714995000 Commission=17800993
+2011-03-21 15:33:56,483 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000443 TradingValue=0 Commission=0
+2011-03-21 15:33:56,487 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000443 TradingValue=20848101000 Commission=59155172
+2011-03-21 15:33:56,491 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000446 TradingValue=461890000 Commission=1555365
+2011-03-21 15:33:56,494 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000446 TradingValue=338316000 Commission=1184108
+2011-03-21 15:33:56,497 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000447 TradingValue=0 Commission=0
+2011-03-21 15:33:56,501 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000447 TradingValue=2796407000 Commission=8125357
+2011-03-21 15:33:56,504 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000456 TradingValue=1065711000 Commission=3303340
+2011-03-21 15:33:56,508 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000456 TradingValue=4917971000 Commission=11433724
+2011-03-21 15:33:56,511 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000457 TradingValue=2800447000 Commission=9236450
+2011-03-21 15:33:56,514 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000457 TradingValue=672224000 Commission=2289711
+2011-03-21 15:33:56,518 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000460 TradingValue=0 Commission=0
+2011-03-21 15:33:56,521 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000460 TradingValue=5178834000 Commission=13549461
+2011-03-21 15:33:56,525 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000463 TradingValue=0 Commission=0
+2011-03-21 15:33:56,528 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000463 TradingValue=402300000 Commission=1256850
+2011-03-21 15:33:56,540 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000467 TradingValue=496300000 Commission=1306251
+2011-03-21 15:33:56,544 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000467 TradingValue=1436431000 Commission=3779550
+2011-03-21 15:33:56,547 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000468 TradingValue=0 Commission=0
+2011-03-21 15:33:56,550 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000468 TradingValue=222920000 Commission=780220
+2011-03-21 15:33:56,554 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000475 TradingValue=1579870000 Commission=4732416
+2011-03-21 15:33:56,557 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000475 TradingValue=2458451000 Commission=5075093
+2011-03-21 15:33:56,560 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000481 TradingValue=0 Commission=0
+2011-03-21 15:33:56,563 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000481 TradingValue=1293680000 Commission=4332769
+2011-03-21 15:33:56,566 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000495 TradingValue=0 Commission=0
+2011-03-21 15:33:56,570 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000495 TradingValue=1988340000 Commission=5065342
+2011-03-21 15:33:56,573 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000500 TradingValue=0 Commission=0
+2011-03-21 15:33:56,576 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000500 TradingValue=5397725000 Commission=17490615
+2011-03-21 15:33:56,580 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000502 TradingValue=0 Commission=0
+2011-03-21 15:33:56,583 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000502 TradingValue=468150000 Commission=1546835
+2011-03-21 15:33:56,586 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000504 TradingValue=0 Commission=0
+2011-03-21 15:33:56,589 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000504 TradingValue=640410000 Commission=2076685
+2011-03-21 15:33:56,593 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000507 TradingValue=0 Commission=0
+2011-03-21 15:33:56,596 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000507 TradingValue=194521000 Commission=603006
+2011-03-21 15:33:56,600 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000510 TradingValue=0 Commission=0
+2011-03-21 15:33:56,603 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000510 TradingValue=8955556000 Commission=16700713
+2011-03-21 15:33:56,606 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000512 TradingValue=0 Commission=0
+2011-03-21 15:33:56,610 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000512 TradingValue=817408000 Commission=2334140
+2011-03-21 15:33:56,613 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000513 TradingValue=0 Commission=0
+2011-03-21 15:33:56,616 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000513 TradingValue=9104528000 Commission=22949254
+2011-03-21 15:33:56,620 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000514 TradingValue=0 Commission=0
+2011-03-21 15:33:56,623 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000514 TradingValue=4078438000 Commission=12595254
+2011-03-21 15:33:56,626 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000519 TradingValue=0 Commission=0
+2011-03-21 15:33:56,629 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000519 TradingValue=4648411000 Commission=12678285
+2011-03-21 15:33:56,632 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000532 TradingValue=0 Commission=0
+2011-03-21 15:33:56,636 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000532 TradingValue=52500000 Commission=183750
+2011-03-21 15:33:56,640 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000533 TradingValue=0 Commission=0
+2011-03-21 15:33:56,644 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000533 TradingValue=100796000 Commission=352786
+2011-03-21 15:33:56,647 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000534 TradingValue=0 Commission=0
+2011-03-21 15:33:56,651 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000534 TradingValue=1170692000 Commission=3712112
+2011-03-21 15:33:56,655 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000537 TradingValue=0 Commission=0
+2011-03-21 15:33:56,658 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000537 TradingValue=2636432000 Commission=7526564
+2011-03-21 15:33:56,661 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000539 TradingValue=0 Commission=0
+2011-03-21 15:33:56,665 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000539 TradingValue=463270000 Commission=1543796
+2011-03-21 15:33:56,668 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000541 TradingValue=0 Commission=0
+2011-03-21 15:33:56,671 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000541 TradingValue=77470000 Commission=271145
+2011-03-21 15:33:56,675 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000542 TradingValue=3664535000 Commission=8962513
+2011-03-21 15:33:56,678 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000542 TradingValue=944585000 Commission=2900325
+2011-03-21 15:33:56,682 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000546 TradingValue=0 Commission=0
+2011-03-21 15:33:56,685 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000546 TradingValue=4755732000 Commission=13818284
+2011-03-21 15:33:56,688 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000550 TradingValue=0 Commission=0
+2011-03-21 15:33:56,691 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000550 TradingValue=1672926000 Commission=5498166
+2011-03-21 15:33:56,695 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000553 TradingValue=0 Commission=0
+2011-03-21 15:33:56,698 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000553 TradingValue=2272204000 Commission=7155036
+2011-03-21 15:33:56,701 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000554 TradingValue=0 Commission=0
+2011-03-21 15:33:56,705 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000554 TradingValue=1539972000 Commission=4411739
+2011-03-21 15:33:56,709 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000555 TradingValue=0 Commission=0
+2011-03-21 15:33:56,713 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000555 TradingValue=199730000 Commission=699055
+2011-03-21 15:33:56,716 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000556 TradingValue=0 Commission=0
+2011-03-21 15:33:56,720 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000556 TradingValue=702270000 Commission=2392246
+2011-03-21 15:33:56,723 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000557 TradingValue=0 Commission=0
+2011-03-21 15:33:56,726 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000557 TradingValue=133400000 Commission=466900
+2011-03-21 15:33:56,730 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000558 TradingValue=0 Commission=0
+2011-03-21 15:33:56,733 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000558 TradingValue=2704614000 Commission=8542282
+2011-03-21 15:33:56,736 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000564 TradingValue=0 Commission=0
+2011-03-21 15:33:56,739 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000564 TradingValue=2999239000 Commission=9209892
+2011-03-21 15:33:56,743 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000565 TradingValue=0 Commission=0
+2011-03-21 15:33:56,746 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000565 TradingValue=4094167000 Commission=10224508
+2011-03-21 15:33:56,750 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000569 TradingValue=619968000 Commission=1709685
+2011-03-21 15:33:56,753 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000569 TradingValue=829092000 Commission=2548256
+2011-03-21 15:33:56,757 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000570 TradingValue=603770000 Commission=2003360
+2011-03-21 15:33:56,760 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000570 TradingValue=1184473000 Commission=3578657
+2011-03-21 15:33:56,763 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000571 TradingValue=0 Commission=0
+2011-03-21 15:33:56,766 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000571 TradingValue=3417831000 Commission=11645076
+2011-03-21 15:33:56,769 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000575 TradingValue=0 Commission=0
+2011-03-21 15:33:56,773 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000575 TradingValue=337420000 Commission=1180970
+2011-03-21 15:33:56,776 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000576 TradingValue=0 Commission=0
+2011-03-21 15:33:56,779 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000576 TradingValue=34074960000 Commission=64631715
+2011-03-21 15:33:56,783 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000585 TradingValue=0 Commission=0
+2011-03-21 15:33:56,786 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000585 TradingValue=34200000 Commission=119700
+2011-03-21 15:33:56,790 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000586 TradingValue=0 Commission=0
+2011-03-21 15:33:56,793 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000586 TradingValue=294293000 Commission=1030026
+2011-03-21 15:33:56,797 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000588 TradingValue=4773348000 Commission=10061347
+2011-03-21 15:33:56,800 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000588 TradingValue=2549480000 Commission=7466131
+2011-03-21 15:33:56,803 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000589 TradingValue=1136016000 Commission=3496470
+2011-03-21 15:33:56,806 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000589 TradingValue=1891216000 Commission=5417626
+2011-03-21 15:33:56,810 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000590 TradingValue=2078310000 Commission=5967195
+2011-03-21 15:33:56,813 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000590 TradingValue=589250000 Commission=1528896
+2011-03-21 15:33:56,817 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000591 TradingValue=272235000 Commission=952823
+2011-03-21 15:33:56,821 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000591 TradingValue=3587280000 Commission=10521737
+2011-03-21 15:33:56,824 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000592 TradingValue=0 Commission=0
+2011-03-21 15:33:56,827 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000592 TradingValue=19540000 Commission=68391
+2011-03-21 15:33:56,831 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000598 TradingValue=0 Commission=0
+2011-03-21 15:33:56,834 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000598 TradingValue=300108000 Commission=1050379
+2011-03-21 15:33:56,838 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000599 TradingValue=0 Commission=0
+2011-03-21 15:33:56,841 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000599 TradingValue=3056730000 Commission=10033211
+2011-03-21 15:33:56,844 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000602 TradingValue=0 Commission=0
+2011-03-21 15:33:56,848 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000602 TradingValue=325495000 Commission=1139234
+2011-03-21 15:33:56,851 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000603 TradingValue=141350000 Commission=494725
+2011-03-21 15:33:56,855 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000603 TradingValue=2338204000 Commission=7552221
+2011-03-21 15:33:56,858 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000605 TradingValue=0 Commission=0
+2011-03-21 15:33:56,861 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000605 TradingValue=163880000 Commission=573580
+2011-03-21 15:33:56,865 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000606 TradingValue=0 Commission=0
+2011-03-21 15:33:56,868 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000606 TradingValue=830410000 Commission=2660980
+2011-03-21 15:33:56,872 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000607 TradingValue=1548590000 Commission=4620115
+2011-03-21 15:33:56,876 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000607 TradingValue=5737258000 Commission=15226704
+2011-03-21 15:33:56,880 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000608 TradingValue=262915000 Commission=920203
+2011-03-21 15:33:56,883 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000608 TradingValue=5979368000 Commission=9366734
+2011-03-21 15:33:56,887 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000609 TradingValue=0 Commission=0
+2011-03-21 15:33:56,891 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000609 TradingValue=373172000 Commission=1306108
+2011-03-21 15:33:56,894 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000611 TradingValue=255465000 Commission=894130
+2011-03-21 15:33:56,898 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000611 TradingValue=1008835000 Commission=1513253
+2011-03-21 15:33:56,902 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000612 TradingValue=0 Commission=0
+2011-03-21 15:33:56,906 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000612 TradingValue=8339417000 Commission=21142193
+2011-03-21 15:33:56,909 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000613 TradingValue=600953000 Commission=1985309
+2011-03-21 15:33:56,912 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000613 TradingValue=55972000 Commission=195902
+2011-03-21 15:33:56,915 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000614 TradingValue=0 Commission=0
+2011-03-21 15:33:56,918 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000614 TradingValue=289968000 Commission=952838
+2011-03-21 15:33:56,922 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000615 TradingValue=0 Commission=0
+2011-03-21 15:33:56,925 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000615 TradingValue=35100000 Commission=122850
+2011-03-21 15:33:56,929 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000618 TradingValue=359030000 Commission=1063730
+2011-03-21 15:33:56,932 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000618 TradingValue=1884669000 Commission=6190083
+2011-03-21 15:33:56,936 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000620 TradingValue=0 Commission=0
+2011-03-21 15:33:56,939 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000620 TradingValue=438250000 Commission=1533877
+2011-03-21 15:33:56,942 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000623 TradingValue=0 Commission=0
+2011-03-21 15:33:56,945 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000623 TradingValue=572800000 Commission=1872601
+2011-03-21 15:33:56,949 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000624 TradingValue=0 Commission=0
+2011-03-21 15:33:56,952 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000624 TradingValue=14992810000 Commission=29819762
+2011-03-21 15:33:56,956 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000625 TradingValue=0 Commission=0
+2011-03-21 15:33:56,959 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000625 TradingValue=2082115000 Commission=6270312
+2011-03-21 15:33:56,962 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000626 TradingValue=0 Commission=0
+2011-03-21 15:33:56,966 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000626 TradingValue=35610000 Commission=124635
+2011-03-21 15:33:56,969 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000627 TradingValue=0 Commission=0
+2011-03-21 15:33:56,973 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000627 TradingValue=4349990000 Commission=12996341
+2011-03-21 15:33:56,976 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000628 TradingValue=0 Commission=0
+2011-03-21 15:33:56,979 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000628 TradingValue=203754000 Commission=713142
+2011-03-21 15:33:56,982 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000630 TradingValue=188300000 Commission=659050
+2011-03-21 15:33:56,986 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000630 TradingValue=5155612000 Commission=14926414
+2011-03-21 15:33:56,989 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000631 TradingValue=0 Commission=0
+2011-03-21 15:33:56,992 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000631 TradingValue=1225784000 Commission=3665345
+2011-03-21 15:33:56,995 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000634 TradingValue=0 Commission=0
+2011-03-21 15:33:56,999 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000634 TradingValue=2874501000 Commission=9138292
+2011-03-21 15:33:57,002 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000636 TradingValue=64935000 Commission=227274
+2011-03-21 15:33:57,006 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000636 TradingValue=294730000 Commission=1031557
+2011-03-21 15:33:57,009 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000637 TradingValue=129260000 Commission=452410
+2011-03-21 15:33:57,012 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000637 TradingValue=15182521000 Commission=25621200
+2011-03-21 15:33:57,016 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000638 TradingValue=0 Commission=0
+2011-03-21 15:33:57,019 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000638 TradingValue=439400000 Commission=1237636
+2011-03-21 15:33:57,022 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000639 TradingValue=39630000 Commission=138705
+2011-03-21 15:33:57,026 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000639 TradingValue=7903170000 Commission=23985336
+2011-03-21 15:33:57,029 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000640 TradingValue=217350000 Commission=760726
+2011-03-21 15:33:57,032 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000640 TradingValue=1939506000 Commission=5024920
+2011-03-21 15:33:57,036 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000642 TradingValue=0 Commission=0
+2011-03-21 15:33:57,039 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000642 TradingValue=1366828000 Commission=4352778
+2011-03-21 15:33:57,042 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000643 TradingValue=0 Commission=0
+2011-03-21 15:33:57,046 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000643 TradingValue=3137628000 Commission=9027165
+2011-03-21 15:33:57,050 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000644 TradingValue=0 Commission=0
+2011-03-21 15:33:57,054 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000644 TradingValue=2128505000 Commission=7010989
+2011-03-21 15:33:57,057 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000645 TradingValue=0 Commission=0
+2011-03-21 15:33:57,061 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000645 TradingValue=3317231000 Commission=10956558
+2011-03-21 15:33:57,064 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000646 TradingValue=0 Commission=0
+2011-03-21 15:33:57,067 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000646 TradingValue=574700000 Commission=1377650
+2011-03-21 15:33:57,070 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000647 TradingValue=0 Commission=0
+2011-03-21 15:33:57,073 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000647 TradingValue=774660000 Commission=2555070
+2011-03-21 15:33:57,077 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000648 TradingValue=0 Commission=0
+2011-03-21 15:33:57,080 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000648 TradingValue=116680000 Commission=408380
+2011-03-21 15:33:57,083 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000650 TradingValue=0 Commission=0
+2011-03-21 15:33:57,086 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000650 TradingValue=11280460000 Commission=23318444
+2011-03-21 15:33:57,090 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000651 TradingValue=0 Commission=0
+2011-03-21 15:33:57,093 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000651 TradingValue=9448028000 Commission=16400679
+2011-03-21 15:33:57,096 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000654 TradingValue=0 Commission=0
+2011-03-21 15:33:57,099 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000654 TradingValue=17872367000 Commission=41536750
+2011-03-21 15:33:57,102 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000657 TradingValue=0 Commission=0
+2011-03-21 15:33:57,106 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000657 TradingValue=962951000 Commission=3224293
+2011-03-21 15:33:57,109 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000658 TradingValue=0 Commission=0
+2011-03-21 15:33:57,112 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000658 TradingValue=688250000 Commission=2268725
+2011-03-21 15:33:57,116 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000659 TradingValue=0 Commission=0
+2011-03-21 15:33:57,120 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000659 TradingValue=393394000 Commission=1303729
+2011-03-21 15:33:57,123 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000660 TradingValue=0 Commission=0
+2011-03-21 15:33:57,127 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000660 TradingValue=644827000 Commission=2159135
+2011-03-21 15:33:57,130 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000663 TradingValue=0 Commission=0
+2011-03-21 15:33:57,133 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000663 TradingValue=2820000 Commission=9870
+2011-03-21 15:33:57,136 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000669 TradingValue=0 Commission=0
+2011-03-21 15:33:57,139 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000669 TradingValue=1477799000 Commission=4780213
+2011-03-21 15:33:57,142 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000672 TradingValue=0 Commission=0
+2011-03-21 15:33:57,146 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000672 TradingValue=813600000 Commission=2578600
+2011-03-21 15:33:57,149 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000674 TradingValue=0 Commission=0
+2011-03-21 15:33:57,153 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000674 TradingValue=4683749000 Commission=12322694
+2011-03-21 15:33:57,156 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000676 TradingValue=0 Commission=0
+2011-03-21 15:33:57,159 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000676 TradingValue=15775485000 Commission=28602631
+2011-03-21 15:33:57,163 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000678 TradingValue=0 Commission=0
+2011-03-21 15:33:57,166 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000678 TradingValue=3200645000 Commission=7101091
+2011-03-21 15:33:57,170 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000681 TradingValue=0 Commission=0
+2011-03-21 15:33:57,173 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000681 TradingValue=70734000 Commission=247570
+2011-03-21 15:33:57,176 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000682 TradingValue=1558694000 Commission=4824375
+2011-03-21 15:33:57,179 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000682 TradingValue=448472000 Commission=1569654
+2011-03-21 15:33:57,183 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000683 TradingValue=127316000 Commission=445606
+2011-03-21 15:33:57,186 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000683 TradingValue=372994000 Commission=745988
+2011-03-21 15:33:57,190 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000684 TradingValue=0 Commission=0
+2011-03-21 15:33:57,193 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000684 TradingValue=214690000 Commission=751416
+2011-03-21 15:33:57,196 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000687 TradingValue=0 Commission=0
+2011-03-21 15:33:57,199 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000687 TradingValue=663445000 Commission=2139458
+2011-03-21 15:33:57,203 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000689 TradingValue=0 Commission=0
+2011-03-21 15:33:57,206 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000689 TradingValue=685520000 Commission=2399320
+2011-03-21 15:33:57,209 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000691 TradingValue=0 Commission=0
+2011-03-21 15:33:57,212 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000691 TradingValue=297258000 Commission=1040412
+2011-03-21 15:33:57,216 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000692 TradingValue=0 Commission=0
+2011-03-21 15:33:57,219 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000692 TradingValue=6500000 Commission=22750
+2011-03-21 15:33:57,222 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000693 TradingValue=0 Commission=0
+2011-03-21 15:33:57,226 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000693 TradingValue=70000000 Commission=245000
+2011-03-21 15:33:57,229 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000703 TradingValue=0 Commission=0
+2011-03-21 15:33:57,233 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000703 TradingValue=170900000 Commission=598150
+2011-03-21 15:33:57,236 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000713 TradingValue=0 Commission=0
+2011-03-21 15:33:57,240 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000713 TradingValue=3201160000 Commission=9079551
+2011-03-21 15:33:57,269 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=000715 TradingValue=5827142000 Commission=6992570
+2011-03-21 15:33:57,273 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=000715 TradingValue=0 Commission=0
+2011-03-21 15:33:57,276 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=CG_3T2 TradingValue=0 Commission=0
+2011-03-21 15:33:57,280 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=CG_3T2 TradingValue=138227000 Commission=483798
+2011-03-21 15:33:57,285 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=CG_HN TradingValue=0 Commission=0
+2011-03-21 15:33:57,289 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=CG_HN TradingValue=5739210000 Commission=17064813
+2011-03-21 15:33:57,294 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=CG_HN_2 TradingValue=0 Commission=0
+2011-03-21 15:33:57,297 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=CG_HN_2 TradingValue=9042563000 Commission=27454012
+2011-03-21 15:33:57,301 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=CG_HN_3 TradingValue=0 Commission=0
+2011-03-21 15:33:57,304 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=CG_HN_3 TradingValue=1028341000 Commission=3599196
+2011-03-21 15:33:57,307 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=CG_HN_4 TradingValue=0 Commission=0
+2011-03-21 15:33:57,311 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=CG_HN_4 TradingValue=768120000 Commission=2625602
+2011-03-21 15:33:57,314 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=CG_LL TradingValue=0 Commission=0
+2011-03-21 15:33:57,317 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=CG_LL TradingValue=4840000 Commission=16940
+2011-03-21 15:33:57,321 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=CG_THD TradingValue=0 Commission=0
+2011-03-21 15:33:57,325 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=CG_THD TradingValue=190170000 Commission=665596
+2011-03-21 15:33:57,330 [6] DEBUG Logger - Inserted=1 - ClientType=1 BrokerID=CG1 TradingValue=13906265000 Commission=44636592
+2011-03-21 15:33:57,334 [6] DEBUG Logger - Inserted=1 - ClientType=2 BrokerID=CG1 TradingValue=190777698000 Commission=330801501
+2011-03-21 15:34:00,512 [11] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:34:07,943 [10] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-03-21 15:34:14,089 [5] INFO  Logger - Calculate - ENTER
+2011-03-21 15:34:14,191 [5] INFO  Logger - Data object link completed
+2011-03-21 15:34:14,201 [5] INFO  Logger - ClientTradeData data load completed. Count=622
+2011-03-21 15:34:14,214 [5] INFO  Logger - Office LH: TradingValue=361727954000.0000 Revenue=762807035.40000000
+2011-03-21 15:34:14,216 [5] INFO  Logger - Office BT: TradingValue=198983504000.0000 Revenue=494138936.40000000
+2011-03-21 15:34:14,216 [5] INFO  Logger - Office KL: TradingValue=82025931000.0000 Revenue=203097241.60000000
+2011-03-21 15:34:14,216 [5] INFO  Logger - Office LL: TradingValue=372764496000.0000 Revenue=700004985.60000000
+2011-03-21 15:34:14,216 [5] INFO  Logger - Office 3T2: TradingValue=76391184000.0000 Revenue=167517597.40000000
+2011-03-21 15:34:14,216 [5] INFO  Logger - Office TVL: TradingValue=449895724000.0000 Revenue=805854128.40000000
+2011-03-21 15:34:14,216 [5] INFO  Logger - Office THD: TradingValue=222925086100.0000 Revenue=487537934.56000000
+2011-03-21 15:34:14,216 [5] INFO  Logger - Office HCM: TradingValue=204683963000.0000 Revenue=293564507.80000000
+2011-03-21 15:34:14,216 [5] INFO  Logger - Office LTT: TradingValue=348963642000.0000 Revenue=725655211.20000000
+2011-03-21 15:34:14,218 [5] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000218
+2011-03-21 15:34:14,218 [5] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000041
+2011-03-21 15:34:14,219 [5] DEBUG Logger - StoreCalculationData - ENTER
+2011-03-21 15:34:14,219 [5] INFO  Logger - Delete Result Data, id=201103
+2011-03-21 15:34:14,226 [5] INFO  Logger - Delete BrokerCalculationResult, count=0
+2011-03-21 15:34:14,271 [5] INFO  Logger - Delete OfficeCalculationResult, count=0
+2011-03-21 15:34:14,361 [5] DEBUG Logger - StoreCalculationData - BrokerID=000631 InsertedRecord=1
+2011-03-21 15:34:14,377 [5] DEBUG Logger - StoreCalculationData - BrokerID=000601 InsertedRecord=1
+2011-03-21 15:34:14,389 [5] DEBUG Logger - StoreCalculationData - BrokerID=000611 InsertedRecord=1
+2011-03-21 15:34:14,400 [5] DEBUG Logger - StoreCalculationData - BrokerID=000671 InsertedRecord=1
+2011-03-21 15:34:14,408 [5] DEBUG Logger - StoreCalculationData - BrokerID=000641 InsertedRecord=1
+2011-03-21 15:34:14,417 [5] DEBUG Logger - StoreCalculationData - BrokerID=000651 InsertedRecord=1
+2011-03-21 15:34:14,425 [5] DEBUG Logger - StoreCalculationData - BrokerID=000463 InsertedRecord=1
+2011-03-21 15:34:14,440 [5] DEBUG Logger - StoreCalculationData - BrokerID=000039 InsertedRecord=1
+2011-03-21 15:34:14,448 [5] DEBUG Logger - StoreCalculationData - BrokerID=000264 InsertedRecord=1
+2011-03-21 15:34:14,456 [5] DEBUG Logger - StoreCalculationData - BrokerID=000691 InsertedRecord=1
+2011-03-21 15:34:14,464 [5] DEBUG Logger - StoreCalculationData - BrokerID=000069 InsertedRecord=1
+2011-03-21 15:34:14,473 [5] DEBUG Logger - StoreCalculationData - BrokerID=000284 InsertedRecord=1
+2011-03-21 15:34:14,482 [5] DEBUG Logger - StoreCalculationData - BrokerID=000294 InsertedRecord=1
+2011-03-21 15:34:14,490 [5] DEBUG Logger - StoreCalculationData - BrokerID=000422 InsertedRecord=1
+2011-03-21 15:34:14,498 [5] DEBUG Logger - StoreCalculationData - BrokerID=000402 InsertedRecord=1
+2011-03-21 15:34:14,505 [5] DEBUG Logger - StoreCalculationData - BrokerID=000442 InsertedRecord=1
+2011-03-21 15:34:14,513 [5] DEBUG Logger - StoreCalculationData - BrokerID=000323 InsertedRecord=1
+2011-03-21 15:34:14,521 [5] DEBUG Logger - StoreCalculationData - BrokerID=000333 InsertedRecord=1
+2011-03-21 15:34:14,529 [5] DEBUG Logger - StoreCalculationData - BrokerID=000541 InsertedRecord=1
+2011-03-21 15:34:14,537 [5] DEBUG Logger - StoreCalculationData - BrokerID=000373 InsertedRecord=1
+2011-03-21 15:34:14,545 [5] DEBUG Logger - StoreCalculationData - BrokerID=000164 InsertedRecord=1
+2011-03-21 15:34:14,553 [5] DEBUG Logger - StoreCalculationData - BrokerID=000591 InsertedRecord=1
+2011-03-21 15:34:14,561 [5] DEBUG Logger - StoreCalculationData - BrokerID=000383 InsertedRecord=1
+2011-03-21 15:34:14,569 [5] DEBUG Logger - StoreCalculationData - BrokerID=000663 InsertedRecord=1
+2011-03-21 15:34:14,578 [5] DEBUG Logger - StoreCalculationData - BrokerID=000643 InsertedRecord=1
+2011-03-21 15:34:14,587 [5] DEBUG Logger - StoreCalculationData - BrokerID=000407 InsertedRecord=1
+2011-03-21 15:34:14,595 [5] DEBUG Logger - StoreCalculationData - BrokerID=000683 InsertedRecord=1
+2011-03-21 15:34:14,604 [5] DEBUG Logger - StoreCalculationData - BrokerID=000467 InsertedRecord=1
+2011-03-21 15:34:14,613 [5] DEBUG Logger - StoreCalculationData - BrokerID=000238 InsertedRecord=1
+2011-03-21 15:34:14,631 [5] DEBUG Logger - StoreCalculationData - BrokerID=000223 InsertedRecord=1
+2011-03-21 15:34:14,641 [5] DEBUG Logger - StoreCalculationData - BrokerID=000213 InsertedRecord=1
+2011-03-21 15:34:14,649 [5] DEBUG Logger - StoreCalculationData - BrokerID=000263 InsertedRecord=1
+2011-03-21 15:34:14,656 [5] DEBUG Logger - StoreCalculationData - BrokerID=000273 InsertedRecord=1
+2011-03-21 15:34:14,665 [5] DEBUG Logger - StoreCalculationData - BrokerID=000044 InsertedRecord=1
+2011-03-21 15:34:14,673 [5] DEBUG Logger - StoreCalculationData - BrokerID=000283 InsertedRecord=1
+2011-03-21 15:34:14,681 [5] DEBUG Logger - StoreCalculationData - BrokerID=000293 InsertedRecord=1
+2011-03-21 15:34:14,689 [5] DEBUG Logger - StoreCalculationData - BrokerID=000123 InsertedRecord=1
+2011-03-21 15:34:14,696 [5] DEBUG Logger - StoreCalculationData - BrokerID=000133 InsertedRecord=1
+2011-03-21 15:34:14,704 [5] DEBUG Logger - StoreCalculationData - BrokerID=000113 InsertedRecord=1
+2011-03-21 15:34:14,712 [5] DEBUG Logger - StoreCalculationData - BrokerID=000163 InsertedRecord=1
+2011-03-21 15:34:14,721 [5] DEBUG Logger - StoreCalculationData - BrokerID=000424 InsertedRecord=1
+2011-03-21 15:34:14,730 [5] DEBUG Logger - StoreCalculationData - BrokerID=000434 InsertedRecord=1
+2011-03-21 15:34:14,738 [5] DEBUG Logger - StoreCalculationData - BrokerID=000404 InsertedRecord=1
+2011-03-21 15:34:14,745 [5] DEBUG Logger - StoreCalculationData - BrokerID=000710 InsertedRecord=1
+2011-03-21 15:34:14,754 [5] DEBUG Logger - StoreCalculationData - BrokerID=000023 InsertedRecord=1
+2011-03-21 15:34:14,783 [5] DEBUG Logger - StoreCalculationData - BrokerID=000319 InsertedRecord=1
+2011-03-21 15:34:14,791 [5] DEBUG Logger - StoreCalculationData - BrokerID=000063 InsertedRecord=1
+2011-03-21 15:34:14,820 [5] DEBUG Logger - StoreCalculationData - BrokerID=000675 InsertedRecord=1
+2011-03-21 15:34:14,831 [5] DEBUG Logger - StoreCalculationData - BrokerID=000685 InsertedRecord=1
+2011-03-21 15:34:14,841 [5] DEBUG Logger - StoreCalculationData - BrokerID=000726 InsertedRecord=1
+2011-03-21 15:34:14,849 [5] DEBUG Logger - StoreCalculationData - BrokerID=000716 InsertedRecord=1
+2011-03-21 15:34:14,858 [5] DEBUG Logger - StoreCalculationData - BrokerID=000626 InsertedRecord=1
+2011-03-21 15:34:14,870 [5] DEBUG Logger - StoreCalculationData - BrokerID=000636 InsertedRecord=1
+2011-03-21 15:34:14,879 [5] DEBUG Logger - StoreCalculationData - BrokerID=000606 InsertedRecord=1
+2011-03-21 15:34:14,891 [5] DEBUG Logger - StoreCalculationData - BrokerID=000428 InsertedRecord=1
+2011-03-21 15:34:14,906 [5] DEBUG Logger - StoreCalculationData - BrokerID=000676 InsertedRecord=1
+2011-03-21 15:34:14,915 [5] DEBUG Logger - StoreCalculationData - BrokerID=000646 InsertedRecord=1
+2011-03-21 15:34:14,926 [5] DEBUG Logger - StoreCalculationData - BrokerID=000418 InsertedRecord=1
+2011-03-21 15:34:14,938 [5] DEBUG Logger - StoreCalculationData - BrokerID=000468 InsertedRecord=1
+2011-03-21 15:34:14,949 [5] DEBUG Logger - StoreCalculationData - BrokerID=000696 InsertedRecord=1
+2011-03-21 15:34:14,958 [5] DEBUG Logger - StoreCalculationData - BrokerID=000416 InsertedRecord=1
+2011-03-21 15:34:14,969 [5] DEBUG Logger - StoreCalculationData - BrokerID=CG_3T2 InsertedRecord=1
+2011-03-21 15:34:14,980 [5] DEBUG Logger - StoreCalculationData - BrokerID=000712 InsertedRecord=1
+2011-03-21 15:34:15,021 [5] DEBUG Logger - StoreCalculationData - BrokerID=000725 InsertedRecord=1
+2011-03-21 15:34:15,087 [5] DEBUG Logger - StoreCalculationData - BrokerID=000715 InsertedRecord=1
+2011-03-21 15:34:15,154 [5] DEBUG Logger - StoreCalculationData - BrokerID=000576 InsertedRecord=1
+2011-03-21 15:34:15,191 [5] DEBUG Logger - StoreCalculationData - BrokerID=000546 InsertedRecord=1
+2011-03-21 15:34:15,199 [5] DEBUG Logger - StoreCalculationData - BrokerID=000556 InsertedRecord=1
+2011-03-21 15:34:15,211 [5] DEBUG Logger - StoreCalculationData - BrokerID=000368 InsertedRecord=1
+2011-03-21 15:34:15,221 [5] DEBUG Logger - StoreCalculationData - BrokerID=000378 InsertedRecord=1
+2011-03-21 15:34:15,229 [5] DEBUG Logger - StoreCalculationData - BrokerID=000586 InsertedRecord=1
+2011-03-21 15:34:15,237 [5] DEBUG Logger - StoreCalculationData - BrokerID=000358 InsertedRecord=1
+2011-03-21 15:34:15,244 [5] DEBUG Logger - StoreCalculationData - BrokerID=000388 InsertedRecord=1
+2011-03-21 15:34:15,253 [5] DEBUG Logger - StoreCalculationData - BrokerID=000398 InsertedRecord=1
+2011-03-21 15:34:15,263 [5] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_3 InsertedRecord=1
+2011-03-21 15:34:15,273 [5] DEBUG Logger - StoreCalculationData - BrokerID=000625 InsertedRecord=1
+2011-03-21 15:34:15,299 [5] DEBUG Logger - StoreCalculationData - BrokerID=000605 InsertedRecord=1
+2011-03-21 15:34:15,308 [5] DEBUG Logger - StoreCalculationData - BrokerID=000615 InsertedRecord=1
+2011-03-21 15:34:15,317 [5] DEBUG Logger - StoreCalculationData - BrokerID=000437 InsertedRecord=1
+2011-03-21 15:34:15,325 [5] DEBUG Logger - StoreCalculationData - BrokerID=000645 InsertedRecord=1
+2011-03-21 15:34:15,334 [5] DEBUG Logger - StoreCalculationData - BrokerID=000417 InsertedRecord=1
+2011-03-21 15:34:15,343 [5] DEBUG Logger - StoreCalculationData - BrokerID=000208 InsertedRecord=1
+2011-03-21 15:34:15,351 [5] DEBUG Logger - StoreCalculationData - BrokerID=000218 InsertedRecord=1
+2011-03-21 15:34:15,360 [5] DEBUG Logger - StoreCalculationData - BrokerID=000447 InsertedRecord=1
+2011-03-21 15:34:15,369 [5] DEBUG Logger - StoreCalculationData - BrokerID=000278 InsertedRecord=1
+2011-03-21 15:34:15,379 [5] DEBUG Logger - StoreCalculationData - BrokerID=000682 InsertedRecord=1
+2011-03-21 15:34:15,387 [5] DEBUG Logger - StoreCalculationData - BrokerID=000692 InsertedRecord=1
+2011-03-21 15:34:15,395 [5] DEBUG Logger - StoreCalculationData - BrokerID=000288 InsertedRecord=1
+2011-03-21 15:34:15,404 [5] DEBUG Logger - StoreCalculationData - BrokerID=000298 InsertedRecord=1
+2011-03-21 15:34:15,412 [5] DEBUG Logger - StoreCalculationData - BrokerID=000720 InsertedRecord=1
+2011-03-21 15:34:15,421 [5] DEBUG Logger - StoreCalculationData - BrokerID=000700 InsertedRecord=1
+2011-03-21 15:34:15,429 [5] DEBUG Logger - StoreCalculationData - BrokerID=000124 InsertedRecord=1
+2011-03-21 15:34:15,438 [5] DEBUG Logger - StoreCalculationData - BrokerID=000565 InsertedRecord=1
+2011-03-21 15:34:15,445 [5] DEBUG Logger - StoreCalculationData - BrokerID=000575 InsertedRecord=1
+2011-03-21 15:34:15,454 [5] DEBUG Logger - StoreCalculationData - BrokerID=000408 InsertedRecord=1
+2011-03-21 15:34:15,465 [5] DEBUG Logger - StoreCalculationData - BrokerID=000317 InsertedRecord=1
+2011-03-21 15:34:15,474 [5] DEBUG Logger - StoreCalculationData - BrokerID=000367 InsertedRecord=1
+2011-03-21 15:34:15,483 [5] DEBUG Logger - StoreCalculationData - BrokerID=000168 InsertedRecord=1
+2011-03-21 15:34:15,490 [5] DEBUG Logger - StoreCalculationData - BrokerID=000357 InsertedRecord=1
+2011-03-21 15:34:15,500 [5] DEBUG Logger - StoreCalculationData - BrokerID=000158 InsertedRecord=1
+2011-03-21 15:34:15,509 [5] DEBUG Logger - StoreCalculationData - BrokerID=000387 InsertedRecord=1
+2011-03-21 15:34:15,517 [5] DEBUG Logger - StoreCalculationData - BrokerID=000397 InsertedRecord=1
+2011-03-21 15:34:15,544 [5] DEBUG Logger - StoreCalculationData - BrokerID=000620 InsertedRecord=1
+2011-03-21 15:34:15,554 [5] DEBUG Logger - StoreCalculationData - BrokerID=000630 InsertedRecord=1
+2011-03-21 15:34:15,563 [5] DEBUG Logger - StoreCalculationData - BrokerID=000660 InsertedRecord=1
+2011-03-21 15:34:15,571 [5] DEBUG Logger - StoreCalculationData - BrokerID=000670 InsertedRecord=1
+2011-03-21 15:34:15,579 [5] DEBUG Logger - StoreCalculationData - BrokerID=000227 InsertedRecord=1
+2011-03-21 15:34:15,587 [5] DEBUG Logger - StoreCalculationData - BrokerID=000412 InsertedRecord=1
+2011-03-21 15:34:15,595 [5] DEBUG Logger - StoreCalculationData - BrokerID=000028 InsertedRecord=1
+2011-03-21 15:34:15,604 [5] DEBUG Logger - StoreCalculationData - BrokerID=000699 InsertedRecord=1
+2011-03-21 15:34:15,612 [5] DEBUG Logger - StoreCalculationData - BrokerID=000008 InsertedRecord=1
+2011-03-21 15:34:15,621 [5] DEBUG Logger - StoreCalculationData - BrokerID=000277 InsertedRecord=1
+2011-03-21 15:34:15,629 [5] DEBUG Logger - StoreCalculationData - BrokerID=000068 InsertedRecord=1
+2011-03-21 15:34:15,637 [5] DEBUG Logger - StoreCalculationData - BrokerID=000058 InsertedRecord=1
+2011-03-21 15:34:15,645 [5] DEBUG Logger - StoreCalculationData - BrokerID=000287 InsertedRecord=1
+2011-03-21 15:34:15,654 [5] DEBUG Logger - StoreCalculationData - BrokerID=000340 InsertedRecord=1
+2011-03-21 15:34:15,662 [5] DEBUG Logger - StoreCalculationData - BrokerID=000350 InsertedRecord=1
+2011-03-21 15:34:15,672 [5] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_4 InsertedRecord=1
+2011-03-21 15:34:15,680 [5] DEBUG Logger - StoreCalculationData - BrokerID=000500 InsertedRecord=1
+2011-03-21 15:34:15,688 [5] DEBUG Logger - StoreCalculationData - BrokerID=000510 InsertedRecord=1
+2011-03-21 15:34:15,696 [5] DEBUG Logger - StoreCalculationData - BrokerID=000322 InsertedRecord=1
+2011-03-21 15:34:15,705 [5] DEBUG Logger - StoreCalculationData - BrokerID=000570 InsertedRecord=1
+2011-03-21 15:34:15,713 [5] DEBUG Logger - StoreCalculationData - BrokerID=000312 InsertedRecord=1
+2011-03-21 15:34:15,722 [5] DEBUG Logger - StoreCalculationData - BrokerID=000362 InsertedRecord=1
+2011-03-21 15:34:15,730 [5] DEBUG Logger - StoreCalculationData - BrokerID=000342 InsertedRecord=1
+2011-03-21 15:34:15,738 [5] DEBUG Logger - StoreCalculationData - BrokerID=000590 InsertedRecord=1
+2011-03-21 15:34:15,746 [5] DEBUG Logger - StoreCalculationData - BrokerID=000157 InsertedRecord=1
+2011-03-21 15:34:15,754 [5] DEBUG Logger - StoreCalculationData - BrokerID=000382 InsertedRecord=1
+2011-03-21 15:34:15,762 [5] DEBUG Logger - StoreCalculationData - BrokerID=000349 InsertedRecord=1
+2011-03-21 15:34:15,771 [5] DEBUG Logger - StoreCalculationData - BrokerID=000197 InsertedRecord=1
+2011-03-21 15:34:15,779 [5] DEBUG Logger - StoreCalculationData - BrokerID=000126 InsertedRecord=1
+2011-03-21 15:34:15,787 [5] DEBUG Logger - StoreCalculationData - BrokerID=000136 InsertedRecord=1
+2011-03-21 15:34:15,796 [5] DEBUG Logger - StoreCalculationData - BrokerID=000421 InsertedRecord=1
+2011-03-21 15:34:15,805 [5] DEBUG Logger - StoreCalculationData - BrokerID=000232 InsertedRecord=1
+2011-03-21 15:34:15,813 [5] DEBUG Logger - StoreCalculationData - BrokerID=000202 InsertedRecord=1
+2011-03-21 15:34:15,821 [5] DEBUG Logger - StoreCalculationData - BrokerID=000441 InsertedRecord=1
+2011-03-21 15:34:15,830 [5] DEBUG Logger - StoreCalculationData - BrokerID=000017 InsertedRecord=1
+2011-03-21 15:34:15,838 [5] DEBUG Logger - StoreCalculationData - BrokerID=000481 InsertedRecord=1
+2011-03-21 15:34:15,847 [5] DEBUG Logger - StoreCalculationData - BrokerID=000057 InsertedRecord=1
+2011-03-21 15:34:15,855 [5] DEBUG Logger - StoreCalculationData - BrokerID=000282 InsertedRecord=1
+2011-03-21 15:34:15,863 [5] DEBUG Logger - StoreCalculationData - BrokerID=000292 InsertedRecord=1
+2011-03-21 15:34:15,874 [5] DEBUG Logger - StoreCalculationData - BrokerID=000411 InsertedRecord=1
+2011-03-21 15:34:15,883 [5] DEBUG Logger - StoreCalculationData - BrokerID=000321 InsertedRecord=1
+2011-03-21 15:34:15,891 [5] DEBUG Logger - StoreCalculationData - BrokerID=000301 InsertedRecord=1
+2011-03-21 15:34:15,912 [5] DEBUG Logger - StoreCalculationData - BrokerID=000361 InsertedRecord=1
+2011-03-21 15:34:15,921 [5] DEBUG Logger - StoreCalculationData - BrokerID=000332 InsertedRecord=1
+2011-03-21 15:34:15,929 [5] DEBUG Logger - StoreCalculationData - BrokerID=000162 InsertedRecord=1
+2011-03-21 15:34:15,936 [5] DEBUG Logger - StoreCalculationData - BrokerID=000172 InsertedRecord=1
+2011-03-21 15:34:15,945 [5] DEBUG Logger - StoreCalculationData - BrokerID=000381 InsertedRecord=1
+2011-03-21 15:34:15,953 [5] DEBUG Logger - StoreCalculationData - BrokerID=000352 InsertedRecord=1
+2011-03-21 15:34:15,960 [5] DEBUG Logger - StoreCalculationData - BrokerID=000237 InsertedRecord=1
+2011-03-21 15:34:15,968 [5] DEBUG Logger - StoreCalculationData - BrokerID=000207 InsertedRecord=1
+2011-03-21 15:34:15,976 [5] DEBUG Logger - StoreCalculationData - BrokerID=000267 InsertedRecord=1
+2011-03-21 15:34:15,984 [5] DEBUG Logger - StoreCalculationData - BrokerID=000247 InsertedRecord=1
+2011-03-21 15:34:15,992 [5] DEBUG Logger - StoreCalculationData - BrokerID=000201 InsertedRecord=1
+2011-03-21 15:34:16,000 [5] DEBUG Logger - StoreCalculationData - BrokerID=000211 InsertedRecord=1
+2011-03-21 15:34:16,008 [5] DEBUG Logger - StoreCalculationData - BrokerID=000261 InsertedRecord=1
+2011-03-21 15:34:16,017 [5] DEBUG Logger - StoreCalculationData - BrokerID=000062 InsertedRecord=1
+2011-03-21 15:34:16,026 [5] DEBUG Logger - StoreCalculationData - BrokerID=000042 InsertedRecord=1
+2011-03-21 15:34:16,034 [5] DEBUG Logger - StoreCalculationData - BrokerID=000281 InsertedRecord=1
+2011-03-21 15:34:16,042 [5] DEBUG Logger - StoreCalculationData - BrokerID=000291 InsertedRecord=1
+2011-03-21 15:34:16,050 [5] DEBUG Logger - StoreCalculationData - BrokerID=000709 InsertedRecord=1
+2011-03-21 15:34:16,057 [5] DEBUG Logger - StoreCalculationData - BrokerID=000457 InsertedRecord=1
+2011-03-21 15:34:16,066 [5] DEBUG Logger - StoreCalculationData - BrokerID=000161 InsertedRecord=1
+2011-03-21 15:34:16,074 [5] DEBUG Logger - StoreCalculationData - BrokerID=000433 InsertedRecord=1
+2011-03-21 15:34:16,082 [5] DEBUG Logger - StoreCalculationData - BrokerID=000403 InsertedRecord=1
+2011-03-21 15:34:16,090 [5] DEBUG Logger - StoreCalculationData - BrokerID=000413 InsertedRecord=1
+2011-03-21 15:34:16,098 [5] DEBUG Logger - StoreCalculationData - BrokerID=000181 InsertedRecord=1
+2011-03-21 15:34:16,107 [5] DEBUG Logger - StoreCalculationData - BrokerID=000443 InsertedRecord=1
+2011-03-21 15:34:16,136 [5] DEBUG Logger - StoreCalculationData - BrokerID=000639 InsertedRecord=1
+2011-03-21 15:34:16,144 [5] DEBUG Logger - StoreCalculationData - BrokerID=000609 InsertedRecord=1
+2011-03-21 15:34:16,152 [5] DEBUG Logger - StoreCalculationData - BrokerID=000669 InsertedRecord=1
+2011-03-21 15:34:16,160 [5] DEBUG Logger - StoreCalculationData - BrokerID=000649 InsertedRecord=1
+2011-03-21 15:34:16,169 [5] DEBUG Logger - StoreCalculationData - BrokerID=000659 InsertedRecord=1
+2011-03-21 15:34:16,177 [5] DEBUG Logger - StoreCalculationData - BrokerID=000689 InsertedRecord=1
+2011-03-21 15:34:16,185 [5] DEBUG Logger - StoreCalculationData - BrokerID=000354 InsertedRecord=1
+2011-03-21 15:34:16,193 [5] DEBUG Logger - StoreCalculationData - BrokerID=000061 InsertedRecord=1
+2011-03-21 15:34:16,200 [5] DEBUG Logger - StoreCalculationData - BrokerID=000071 InsertedRecord=1
+2011-03-21 15:34:16,209 [5] DEBUG Logger - StoreCalculationData - BrokerID=000041 InsertedRecord=1
+2011-03-21 15:34:16,218 [5] DEBUG Logger - StoreCalculationData - BrokerID=000051 InsertedRecord=1
+2011-03-21 15:34:16,227 [5] DEBUG Logger - StoreCalculationData - BrokerID=000724 InsertedRecord=1
+2011-03-21 15:34:16,234 [5] DEBUG Logger - StoreCalculationData - BrokerID=000539 InsertedRecord=1
+2011-03-21 15:34:16,242 [5] DEBUG Logger - StoreCalculationData - BrokerID=000519 InsertedRecord=1
+2011-03-21 15:34:16,251 [5] DEBUG Logger - StoreCalculationData - BrokerID=000569 InsertedRecord=1
+2011-03-21 15:34:16,259 [5] DEBUG Logger - StoreCalculationData - BrokerID=000585 InsertedRecord=1
+2011-03-21 15:34:16,267 [5] DEBUG Logger - StoreCalculationData - BrokerID=000589 InsertedRecord=1
+2011-03-21 15:34:16,275 [5] DEBUG Logger - StoreCalculationData - BrokerID=000599 InsertedRecord=1
+2011-03-21 15:34:16,282 [5] DEBUG Logger - StoreCalculationData - BrokerID=000624 InsertedRecord=1
+2011-03-21 15:34:16,290 [5] DEBUG Logger - StoreCalculationData - BrokerID=000634 InsertedRecord=1
+2011-03-21 15:34:16,298 [5] DEBUG Logger - StoreCalculationData - BrokerID=000614 InsertedRecord=1
+2011-03-21 15:34:16,307 [5] DEBUG Logger - StoreCalculationData - BrokerID=000426 InsertedRecord=1
+2011-03-21 15:34:16,314 [5] DEBUG Logger - StoreCalculationData - BrokerID=000674 InsertedRecord=1
+2011-03-21 15:34:16,322 [5] DEBUG Logger - StoreCalculationData - BrokerID=000644 InsertedRecord=1
+2011-03-21 15:34:16,330 [5] DEBUG Logger - StoreCalculationData - BrokerID=000654 InsertedRecord=1
+2011-03-21 15:34:16,339 [5] DEBUG Logger - StoreCalculationData - BrokerID=000405 InsertedRecord=1
+2011-03-21 15:34:16,348 [5] DEBUG Logger - StoreCalculationData - BrokerID=000446 InsertedRecord=1
+2011-03-21 15:34:16,356 [5] DEBUG Logger - StoreCalculationData - BrokerID=000456 InsertedRecord=1
+2011-03-21 15:34:16,363 [5] DEBUG Logger - StoreCalculationData - BrokerID=000475 InsertedRecord=1
+2011-03-21 15:34:16,372 [5] DEBUG Logger - StoreCalculationData - BrokerID=000711 InsertedRecord=1
+2011-03-21 15:34:16,379 [5] DEBUG Logger - StoreCalculationData - BrokerID=000677 InsertedRecord=1
+2011-03-21 15:34:16,389 [5] DEBUG Logger - StoreCalculationData - BrokerID=CG1 InsertedRecord=1
+2011-03-21 15:34:16,397 [5] DEBUG Logger - StoreCalculationData - BrokerID=000316 InsertedRecord=1
+2011-03-21 15:34:16,406 [5] DEBUG Logger - StoreCalculationData - BrokerID=000703 InsertedRecord=1
+2011-03-21 15:34:16,414 [5] DEBUG Logger - StoreCalculationData - BrokerID=000534 InsertedRecord=1
+2011-03-21 15:34:16,423 [5] DEBUG Logger - StoreCalculationData - BrokerID=000504 InsertedRecord=1
+2011-03-21 15:34:16,431 [5] DEBUG Logger - StoreCalculationData - BrokerID=000514 InsertedRecord=1
+2011-03-21 15:34:16,439 [5] DEBUG Logger - StoreCalculationData - BrokerID=000564 InsertedRecord=1
+2011-03-21 15:34:16,447 [5] DEBUG Logger - StoreCalculationData - BrokerID=000642 InsertedRecord=1
+2011-03-21 15:34:16,456 [5] DEBUG Logger - StoreCalculationData - BrokerID=000554 InsertedRecord=1
+2011-03-21 15:34:16,463 [5] DEBUG Logger - StoreCalculationData - BrokerID=000366 InsertedRecord=1
+2011-03-21 15:34:16,471 [5] DEBUG Logger - StoreCalculationData - BrokerID=000376 InsertedRecord=1
+2011-03-21 15:34:16,479 [5] DEBUG Logger - StoreCalculationData - BrokerID=000346 InsertedRecord=1
+2011-03-21 15:34:16,488 [5] DEBUG Logger - StoreCalculationData - BrokerID=000356 InsertedRecord=1
+2011-03-21 15:34:16,527 [5] DEBUG Logger - StoreCalculationData - BrokerID=000386 InsertedRecord=1
+2011-03-21 15:34:16,548 [5] DEBUG Logger - StoreCalculationData - BrokerID=000623 InsertedRecord=1
+2011-03-21 15:34:16,564 [5] DEBUG Logger - StoreCalculationData - BrokerID=000603 InsertedRecord=1
+2011-03-21 15:34:16,575 [5] DEBUG Logger - StoreCalculationData - BrokerID=000613 InsertedRecord=1
+2011-03-21 15:34:16,586 [5] DEBUG Logger - StoreCalculationData - BrokerID=000425 InsertedRecord=1
+2011-03-21 15:34:16,597 [5] DEBUG Logger - StoreCalculationData - BrokerID=000435 InsertedRecord=1
+2011-03-21 15:34:16,605 [5] DEBUG Logger - StoreCalculationData - BrokerID=000226 InsertedRecord=1
+2011-03-21 15:34:16,612 [5] DEBUG Logger - StoreCalculationData - BrokerID=000415 InsertedRecord=1
+2011-03-21 15:34:16,620 [5] DEBUG Logger - StoreCalculationData - BrokerID=000465 InsertedRecord=1
+2011-03-21 15:34:16,628 [5] DEBUG Logger - StoreCalculationData - BrokerID=000216 InsertedRecord=1
+2011-03-21 15:34:16,637 [5] DEBUG Logger - StoreCalculationData - BrokerID=000266 InsertedRecord=1
+2011-03-21 15:34:16,645 [5] DEBUG Logger - StoreCalculationData - BrokerID=000276 InsertedRecord=1
+2011-03-21 15:34:16,653 [5] DEBUG Logger - StoreCalculationData - BrokerID=000495 InsertedRecord=1
+2011-03-21 15:34:16,661 [5] DEBUG Logger - StoreCalculationData - BrokerID=000296 InsertedRecord=1
+2011-03-21 15:34:16,669 [5] DEBUG Logger - StoreCalculationData - BrokerID=000533 InsertedRecord=1
+2011-03-21 15:34:16,678 [5] DEBUG Logger - StoreCalculationData - BrokerID=000513 InsertedRecord=1
+2011-03-21 15:34:16,686 [5] DEBUG Logger - StoreCalculationData - BrokerID=000325 InsertedRecord=1
+2011-03-21 15:34:16,694 [5] DEBUG Logger - StoreCalculationData - BrokerID=000335 InsertedRecord=1
+2011-03-21 15:34:16,703 [5] DEBUG Logger - StoreCalculationData - BrokerID=000305 InsertedRecord=1
+2011-03-21 15:34:16,710 [5] DEBUG Logger - StoreCalculationData - BrokerID=000553 InsertedRecord=1
+2011-03-21 15:34:16,719 [5] DEBUG Logger - StoreCalculationData - BrokerID=000365 InsertedRecord=1
+2011-03-21 15:34:16,726 [5] DEBUG Logger - StoreCalculationData - BrokerID=000116 InsertedRecord=1
+2011-03-21 15:34:16,734 [5] DEBUG Logger - StoreCalculationData - BrokerID=000345 InsertedRecord=1
+2011-03-21 15:34:16,742 [5] DEBUG Logger - StoreCalculationData - BrokerID=000176 InsertedRecord=1
+2011-03-21 15:34:16,750 [5] DEBUG Logger - StoreCalculationData - BrokerID=000146 InsertedRecord=1
+2011-03-21 15:34:16,758 [5] DEBUG Logger - StoreCalculationData - BrokerID=000156 InsertedRecord=1
+2011-03-21 15:34:16,765 [5] DEBUG Logger - StoreCalculationData - BrokerID=000196 InsertedRecord=1
+2011-03-21 15:34:16,773 [5] DEBUG Logger - StoreCalculationData - BrokerID=000338 InsertedRecord=1
+2011-03-21 15:34:16,781 [5] DEBUG Logger - StoreCalculationData - BrokerID=000308 InsertedRecord=1
+2011-03-21 15:34:16,788 [5] DEBUG Logger - StoreCalculationData - BrokerID=000318 InsertedRecord=1
+2011-03-21 15:34:16,796 [5] DEBUG Logger - StoreCalculationData - BrokerID=000571 InsertedRecord=1
+2011-03-21 15:34:16,804 [5] DEBUG Logger - StoreCalculationData - BrokerID=000440 InsertedRecord=1
+2011-03-21 15:34:16,811 [5] DEBUG Logger - StoreCalculationData - BrokerID=000684 InsertedRecord=1
+2011-03-21 15:34:16,819 [5] DEBUG Logger - StoreCalculationData - BrokerID=000430 InsertedRecord=1
+2011-03-21 15:34:16,828 [5] DEBUG Logger - StoreCalculationData - BrokerID=000400 InsertedRecord=1
+2011-03-21 15:34:16,836 [5] DEBUG Logger - StoreCalculationData - BrokerID=000410 InsertedRecord=1
+2011-03-21 15:34:16,844 [5] DEBUG Logger - StoreCalculationData - BrokerID=000460 InsertedRecord=1
+2011-03-21 15:34:16,852 [5] DEBUG Logger - StoreCalculationData - BrokerID=000215 InsertedRecord=1
+2011-03-21 15:34:16,860 [5] DEBUG Logger - StoreCalculationData - BrokerID=000265 InsertedRecord=1
+2011-03-21 15:34:16,870 [5] DEBUG Logger - StoreCalculationData - BrokerID=000066 InsertedRecord=1
+2011-03-21 15:34:16,878 [5] DEBUG Logger - StoreCalculationData - BrokerID=000285 InsertedRecord=1
+2011-03-21 15:34:16,885 [5] DEBUG Logger - StoreCalculationData - BrokerID=000640 InsertedRecord=1
+2011-03-21 15:34:16,893 [5] DEBUG Logger - StoreCalculationData - BrokerID=000650 InsertedRecord=1
+2011-03-21 15:34:16,901 [5] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_2 InsertedRecord=1
+2011-03-21 15:34:16,909 [5] DEBUG Logger - StoreCalculationData - BrokerID=000210 InsertedRecord=1
+2011-03-21 15:34:16,917 [5] DEBUG Logger - StoreCalculationData - BrokerID=000320 InsertedRecord=1
+2011-03-21 15:34:16,925 [5] DEBUG Logger - StoreCalculationData - BrokerID=000330 InsertedRecord=1
+2011-03-21 15:34:16,935 [5] DEBUG Logger - StoreCalculationData - BrokerID=000300 InsertedRecord=1
+2011-03-21 15:34:16,942 [5] DEBUG Logger - StoreCalculationData - BrokerID=000135 InsertedRecord=1
+2011-03-21 15:34:16,950 [5] DEBUG Logger - StoreCalculationData - BrokerID=000105 InsertedRecord=1
+2011-03-21 15:34:16,958 [5] DEBUG Logger - StoreCalculationData - BrokerID=000115 InsertedRecord=1
+2011-03-21 15:34:16,965 [5] DEBUG Logger - StoreCalculationData - BrokerID=000165 InsertedRecord=1
+2011-03-21 15:34:16,973 [5] DEBUG Logger - StoreCalculationData - BrokerID=000175 InsertedRecord=1
+2011-03-21 15:34:16,981 [5] DEBUG Logger - StoreCalculationData - BrokerID=000155 InsertedRecord=1
+2011-03-21 15:34:16,989 [5] DEBUG Logger - StoreCalculationData - BrokerID=000380 InsertedRecord=1
+2011-03-21 15:34:16,998 [5] DEBUG Logger - StoreCalculationData - BrokerID=000409 InsertedRecord=1
+2011-03-21 15:34:17,006 [5] DEBUG Logger - StoreCalculationData - BrokerID=000419 InsertedRecord=1
+2011-03-21 15:34:17,014 [5] DEBUG Logger - StoreCalculationData - BrokerID=CG_THD InsertedRecord=1
+2011-03-21 15:34:17,023 [5] DEBUG Logger - StoreCalculationData - BrokerID=000035 InsertedRecord=1
+2011-03-21 15:34:17,031 [5] DEBUG Logger - StoreCalculationData - BrokerID=000260 InsertedRecord=1
+2011-03-21 15:34:17,039 [5] DEBUG Logger - StoreCalculationData - BrokerID=000270 InsertedRecord=1
+2011-03-21 15:34:17,047 [5] DEBUG Logger - StoreCalculationData - BrokerID=000250 InsertedRecord=1
+2011-03-21 15:34:17,055 [5] DEBUG Logger - StoreCalculationData - BrokerID=000280 InsertedRecord=1
+2011-03-21 15:34:17,064 [5] DEBUG Logger - StoreCalculationData - BrokerID=000290 InsertedRecord=1
+2011-03-21 15:34:17,073 [5] DEBUG Logger - StoreCalculationData - BrokerID=000174 InsertedRecord=1
+2011-03-21 15:34:17,081 [5] DEBUG Logger - StoreCalculationData - BrokerID=000728 InsertedRecord=1
+2011-03-21 15:34:17,090 [5] DEBUG Logger - StoreCalculationData - BrokerID=000708 InsertedRecord=1
+2011-03-21 15:34:17,097 [5] DEBUG Logger - StoreCalculationData - BrokerID=000555 InsertedRecord=1
+2011-03-21 15:34:17,106 [5] DEBUG Logger - StoreCalculationData - BrokerID=000371 InsertedRecord=1
+2011-03-21 15:34:17,114 [5] DEBUG Logger - StoreCalculationData - BrokerID=000160 InsertedRecord=1
+2011-03-21 15:34:17,125 [5] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN InsertedRecord=1
+2011-03-21 15:34:17,134 [5] DEBUG Logger - StoreCalculationData - BrokerID=000391 InsertedRecord=1
+2011-03-21 15:34:17,141 [5] DEBUG Logger - StoreCalculationData - BrokerID=000723 InsertedRecord=1
+2011-03-21 15:34:17,150 [5] DEBUG Logger - StoreCalculationData - BrokerID=000190 InsertedRecord=1
+2011-03-21 15:34:17,160 [5] DEBUG Logger - StoreCalculationData - BrokerID=000713 InsertedRecord=1
+2011-03-21 15:34:17,169 [5] DEBUG Logger - StoreCalculationData - BrokerID=000628 InsertedRecord=1
+2011-03-21 15:34:17,177 [5] DEBUG Logger - StoreCalculationData - BrokerID=000638 InsertedRecord=1
+2011-03-21 15:34:17,186 [5] DEBUG Logger - StoreCalculationData - BrokerID=000608 InsertedRecord=1
+2011-03-21 15:34:17,194 [5] DEBUG Logger - StoreCalculationData - BrokerID=000618 InsertedRecord=1
+2011-03-21 15:34:17,202 [5] DEBUG Logger - StoreCalculationData - BrokerID=000668 InsertedRecord=1
+2011-03-21 15:34:17,210 [5] DEBUG Logger - StoreCalculationData - BrokerID=000678 InsertedRecord=1
+2011-03-21 15:34:17,218 [5] DEBUG Logger - StoreCalculationData - BrokerID=000648 InsertedRecord=1
+2011-03-21 15:34:17,227 [5] DEBUG Logger - StoreCalculationData - BrokerID=000658 InsertedRecord=1
+2011-03-21 15:34:17,235 [5] DEBUG Logger - StoreCalculationData - BrokerID=000688 InsertedRecord=1
+2011-03-21 15:34:17,243 [5] DEBUG Logger - StoreCalculationData - BrokerID=000698 InsertedRecord=1
+2011-03-21 15:34:17,251 [5] DEBUG Logger - StoreCalculationData - BrokerID=000030 InsertedRecord=1
+2011-03-21 15:34:17,260 [5] DEBUG Logger - StoreCalculationData - BrokerID=000070 InsertedRecord=1
+2011-03-21 15:34:17,267 [5] DEBUG Logger - StoreCalculationData - BrokerID=000727 InsertedRecord=1
+2011-03-21 15:34:17,277 [5] DEBUG Logger - StoreCalculationData - BrokerID=000717 InsertedRecord=1
+2011-03-21 15:34:17,285 [5] DEBUG Logger - StoreCalculationData - BrokerID=000558 InsertedRecord=1
+2011-03-21 15:34:17,293 [5] DEBUG Logger - StoreCalculationData - BrokerID=000588 InsertedRecord=1
+2011-03-21 15:34:17,302 [5] DEBUG Logger - StoreCalculationData - BrokerID=000598 InsertedRecord=1
+2011-03-21 15:34:17,309 [5] DEBUG Logger - StoreCalculationData - BrokerID=000627 InsertedRecord=1
+2011-03-21 15:34:17,318 [5] DEBUG Logger - StoreCalculationData - BrokerID=000637 InsertedRecord=1
+2011-03-21 15:34:17,326 [5] DEBUG Logger - StoreCalculationData - BrokerID=000607 InsertedRecord=1
+2011-03-21 15:34:17,334 [5] DEBUG Logger - StoreCalculationData - BrokerID=000617 InsertedRecord=1
+2011-03-21 15:34:17,343 [5] DEBUG Logger - StoreCalculationData - BrokerID=000429 InsertedRecord=1
+2011-03-21 15:34:17,352 [5] DEBUG Logger - StoreCalculationData - BrokerID=000439 InsertedRecord=1
+2011-03-21 15:34:17,361 [5] DEBUG Logger - StoreCalculationData - BrokerID=000647 InsertedRecord=1
+2011-03-21 15:34:17,369 [5] DEBUG Logger - StoreCalculationData - BrokerID=000657 InsertedRecord=1
+2011-03-21 15:34:17,378 [5] DEBUG Logger - StoreCalculationData - BrokerID=000687 InsertedRecord=1
+2011-03-21 15:34:17,386 [5] DEBUG Logger - StoreCalculationData - BrokerID=000234 InsertedRecord=1
+2011-03-21 15:34:17,395 [5] DEBUG Logger - StoreCalculationData - BrokerID=000722 InsertedRecord=1
+2011-03-21 15:34:17,403 [5] DEBUG Logger - StoreCalculationData - BrokerID=000550 InsertedRecord=1
+2011-03-21 15:34:17,410 [5] DEBUG Logger - StoreCalculationData - BrokerID=000702 InsertedRecord=1
+2011-03-21 15:34:17,418 [5] DEBUG Logger - StoreCalculationData - BrokerID=000537 InsertedRecord=1
+2011-03-21 15:34:17,427 [5] DEBUG Logger - StoreCalculationData - BrokerID=000507 InsertedRecord=1
+2011-03-21 15:34:17,435 [5] DEBUG Logger - StoreCalculationData - BrokerID=000339 InsertedRecord=1
+2011-03-21 15:34:17,443 [5] DEBUG Logger - StoreCalculationData - BrokerID=000309 InsertedRecord=1
+2011-03-21 15:34:17,452 [5] DEBUG Logger - StoreCalculationData - BrokerID=000557 InsertedRecord=1
+2011-03-21 15:34:17,461 [5] DEBUG Logger - StoreCalculationData - BrokerID=000119 InsertedRecord=1
+2011-03-21 15:34:17,470 [5] DEBUG Logger - StoreCalculationData - BrokerID=000693 InsertedRecord=1
+2011-03-21 15:34:17,478 [5] DEBUG Logger - StoreCalculationData - BrokerID=000179 InsertedRecord=1
+2011-03-21 15:34:17,486 [5] DEBUG Logger - StoreCalculationData - BrokerID=000359 InsertedRecord=1
+2011-03-21 15:34:17,494 [5] DEBUG Logger - StoreCalculationData - BrokerID=000389 InsertedRecord=1
+2011-03-21 15:34:17,502 [5] DEBUG Logger - StoreCalculationData - BrokerID=000399 InsertedRecord=1
+2011-03-21 15:34:17,511 [5] DEBUG Logger - StoreCalculationData - BrokerID=000719 InsertedRecord=1
+2011-03-21 15:34:17,519 [5] DEBUG Logger - StoreCalculationData - BrokerID=CG_LL InsertedRecord=1
+2011-03-21 15:34:17,527 [5] DEBUG Logger - StoreCalculationData - BrokerID=000602 InsertedRecord=1
+2011-03-21 15:34:17,535 [5] DEBUG Logger - StoreCalculationData - BrokerID=000612 InsertedRecord=1
+2011-03-21 15:34:17,544 [5] DEBUG Logger - StoreCalculationData - BrokerID=000662 InsertedRecord=1
+2011-03-21 15:34:17,553 [5] DEBUG Logger - StoreCalculationData - BrokerID=000672 InsertedRecord=1
+2011-03-21 15:34:17,561 [5] DEBUG Logger - StoreCalculationData - BrokerID=000229 InsertedRecord=1
+2011-03-21 15:34:17,570 [5] DEBUG Logger - StoreCalculationData - BrokerID=000414 InsertedRecord=1
+2011-03-21 15:34:17,579 [5] DEBUG Logger - StoreCalculationData - BrokerID=000209 InsertedRecord=1
+2011-03-21 15:34:17,586 [5] DEBUG Logger - StoreCalculationData - BrokerID=000219 InsertedRecord=1
+2011-03-21 15:34:17,594 [5] DEBUG Logger - StoreCalculationData - BrokerID=000269 InsertedRecord=1
+2011-03-21 15:34:17,602 [5] DEBUG Logger - StoreCalculationData - BrokerID=000279 InsertedRecord=1
+2011-03-21 15:34:17,610 [5] DEBUG Logger - StoreCalculationData - BrokerID=000289 InsertedRecord=1
+2011-03-21 15:34:17,618 [5] DEBUG Logger - StoreCalculationData - BrokerID=000299 InsertedRecord=1
+2011-03-21 15:34:17,627 [5] DEBUG Logger - StoreCalculationData - BrokerID=000315 InsertedRecord=1
+2011-03-21 15:34:17,635 [5] DEBUG Logger - StoreCalculationData - BrokerID=000721 InsertedRecord=1
+2011-03-21 15:34:17,643 [5] DEBUG Logger - StoreCalculationData - BrokerID=000532 InsertedRecord=1
+2011-03-21 15:34:17,652 [5] DEBUG Logger - StoreCalculationData - BrokerID=000502 InsertedRecord=1
+2011-03-21 15:34:17,660 [5] DEBUG Logger - StoreCalculationData - BrokerID=000512 InsertedRecord=1
+2011-03-21 15:34:17,697 [5] DEBUG Logger - StoreCalculationData - BrokerID=000681 InsertedRecord=1
+2011-03-21 15:34:17,717 [5] DEBUG Logger - StoreCalculationData - BrokerID=000304 InsertedRecord=1
+2011-03-21 15:34:17,748 [5] DEBUG Logger - StoreCalculationData - BrokerID=000552 InsertedRecord=1
+2011-03-21 15:34:17,760 [5] DEBUG Logger - StoreCalculationData - BrokerID=000364 InsertedRecord=1
+2011-03-21 15:34:17,771 [5] DEBUG Logger - StoreCalculationData - BrokerID=000374 InsertedRecord=1
+2011-03-21 15:34:17,781 [5] DEBUG Logger - StoreCalculationData - BrokerID=000344 InsertedRecord=1
+2011-03-21 15:34:17,791 [5] DEBUG Logger - StoreCalculationData - BrokerID=000592 InsertedRecord=1
+2011-03-21 15:34:17,799 [5] DEBUG Logger - StoreCalculationData - BrokerID=000149 InsertedRecord=1
+2011-03-21 15:34:17,807 [5] DEBUG Logger - StoreCalculationData - BrokerID=000384 InsertedRecord=1
+2011-03-21 15:34:17,815 [5] DEBUG Logger - StoreCalculationData - BrokerID=000189 InsertedRecord=1
+2011-03-21 15:34:17,825 [5] DEBUG Logger - StoreCalculationData - BrokerID=000542 InsertedRecord=1
+2011-03-21 15:34:17,843 [5] DEBUG Logger - StoreCalculationData - OfficeID=LH InsertedRecord=1
+2011-03-21 15:34:17,852 [5] DEBUG Logger - StoreCalculationData - OfficeID=BT InsertedRecord=1
+2011-03-21 15:34:17,860 [5] DEBUG Logger - StoreCalculationData - OfficeID=KL InsertedRecord=1
+2011-03-21 15:34:17,867 [5] DEBUG Logger - StoreCalculationData - OfficeID=LL InsertedRecord=1
+2011-03-21 15:34:17,906 [5] DEBUG Logger - StoreCalculationData - OfficeID=3T2 InsertedRecord=1
+2011-03-21 15:34:17,915 [5] DEBUG Logger - StoreCalculationData - OfficeID=TVL InsertedRecord=1
+2011-03-21 15:34:17,923 [5] DEBUG Logger - StoreCalculationData - OfficeID=THD InsertedRecord=1
+2011-03-21 15:34:17,931 [5] DEBUG Logger - StoreCalculationData - OfficeID=HCM InsertedRecord=1
+2011-03-21 15:34:17,940 [5] DEBUG Logger - StoreCalculationData - OfficeID=LTT InsertedRecord=1
+2011-03-21 15:34:17,958 [5] DEBUG Logger - StoreCalculationData - BranchID=HN InsertedRecord=1
+2011-03-21 15:34:17,970 [5] DEBUG Logger - StoreCalculationData - BranchID=HCM InsertedRecord=1
+2011-03-21 15:34:17,970 [5] DEBUG Logger - StoreCalculationData - LEAVE
+2011-03-21 15:34:17,970 [5] INFO  Logger - Calculate - LEAVE
+2011-03-21 15:34:21,108 [12] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

@@ -1,0 +1,56 @@
+﻿body {
+	font-size: 10pt;
+	font-family: Arial;
+}
+
+td
+{
+	font-size: 10pt;
+	font-family: Arial;
+}
+.header 
+{
+    background-color: #EBEBEB;
+    border: 0px;
+    height: 50px;
+    /*
+    font-size: .9em;
+	  font-weight: bold;
+	  color: #ffff;
+  	margin: 3em auto 5em;
+	  padding: 0 1em;
+	  border: 1px solid #03c;
+	  border-width: 1px 0;
+	  width: 48em;	*/
+}
+.footerStyle
+{
+	margin-top:50px;
+	text-align:center;
+	font-weight:bold;
+	color:Green;
+	background-color:#EBEBEB;
+	height: 45px;
+}
+.error_message
+{
+    color:Red;
+    text-align: left;
+    font-size:10pt;
+    font-weight:bold;
+    padding-left:3px;
+    padding-top:3px;	
+}
+.infor_message
+{
+    color: blue;
+    font-size:10pt;
+    text-align:left;
+    font-weight:bold;
+    padding-left:3px;
+    padding-top:3px;
+}
+.numberData
+{
+	text-align : right;
+}

@@ -1,0 +1,81 @@
+2010-08-09 16:27:59,782 [4] DEBUG Logger - ------------- Application starts -------------
+2010-08-09 16:28:00,157 [4] INFO  Logger - User list load completed. Count=4
+2010-08-09 16:28:00,157 [4] INFO  Logger - ClientType data load completed. Count=2
+2010-08-09 16:28:00,173 [4] INFO  Logger - BrokerType data load completed. Count=4
+2010-08-09 16:28:00,173 [4] INFO  Logger - Branch data load completed. Count=2
+2010-08-09 16:28:00,188 [4] INFO  Logger - Office data load completed. Count=8
+2010-08-09 16:28:00,313 [4] ERROR Logger - DB Modal data loading error: System.Data.SqlClient.SqlException: Invalid column name 'Code'.
+Invalid column name 'SystemUserID'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 111
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.BrokerDAL.GetAllBroker() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\BrokerDAL.cs:line 31
+   at BrokerManager.DataObjects.Broker.GetAllBroker() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\Broker.cs:line 20
+   at ASP.global_asax.LoadDBModalData() in d:\internal project\HSCBrokerManagement\BrokerManager\Global.asax:line 58
+2010-08-09 16:28:00,313 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-08-09 16:28:00,313 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-08-09 16:28:00,313 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-08-09 16:28:00,313 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-08-09 16:28:02,970 [8] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-09 16:28:03,032 [8] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-09 16:28:05,985 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-09 16:28:59,668 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-09 16:29:28,619 [4] DEBUG Logger - ------------- Application starts -------------
+2010-08-09 16:29:28,666 [4] INFO  Logger - User list load completed. Count=4
+2010-08-09 16:29:28,666 [4] INFO  Logger - ClientType data load completed. Count=2
+2010-08-09 16:29:28,666 [4] INFO  Logger - BrokerType data load completed. Count=4
+2010-08-09 16:29:28,666 [4] INFO  Logger - Branch data load completed. Count=2
+2010-08-09 16:29:28,682 [4] INFO  Logger - Office data load completed. Count=8
+2010-08-09 16:29:28,697 [4] ERROR Logger - DB Modal data loading error: System.Data.SqlClient.SqlException: Invalid column name 'Code'.
+Invalid column name 'SystemUserID'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 111
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.BrokerDAL.GetAllBroker() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\BrokerDAL.cs:line 31
+   at BrokerManager.DataObjects.Broker.GetAllBroker() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\Broker.cs:line 20
+   at ASP.global_asax.LoadDBModalData() in d:\internal project\HSCBrokerManagement\BrokerManager\Global.asax:line 58
+2010-08-09 16:29:28,697 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-08-09 16:29:28,697 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-08-09 16:29:28,697 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-08-09 16:29:28,697 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-08-09 16:29:30,603 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-09 16:29:30,619 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-09 16:29:33,384 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-09 16:29:36,869 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-09 16:29:53,055 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-09 16:31:12,221 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-09 16:32:24,606 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-09 16:32:24,606 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-09 16:32:24,731 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-09 16:32:27,871 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-09 16:33:02,618 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

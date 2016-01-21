@@ -1,0 +1,86 @@
+2012-06-06 09:36:48,991 [219] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-06-06 09:36:48,994 [219] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-06-06 09:36:49,046 [220] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:36:49,067 [220] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:40:04,983 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:40:04,999 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:42:15,239 [218] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:42:15,257 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:42:20,987 [218] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:42:21,003 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:42:27,221 [139] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:42:27,238 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:42:29,359 [139] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:42:29,398 [139] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:52:53,933 [135] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:52:53,954 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:57:21,599 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:57:21,622 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:57:26,296 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:57:26,324 [137] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:57:27,870 [137] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 09:57:27,903 [221] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:05:13,497 [140] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:05:27,809 [133] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:05:27,830 [135] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:06:16,214 [140] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:06:29,689 [133] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:06:29,714 [137] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:06:33,123 [133] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:06:33,137 [135] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:06:59,769 [135] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:06:59,785 [135] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:07:03,817 [135] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:07:03,835 [137] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:51:59,929 [229] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-06-06 10:51:59,929 [229] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-06-06 10:52:00,004 [229] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:52:00,023 [224] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:52:01,447 [229] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:56:44,226 [228] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:56:46,698 [228] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:56:48,500 [226] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 10:56:49,231 [226] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:03:06,328 [230] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:03,893 [225] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:03,914 [230] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:05,640 [230] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:06,560 [230] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:06,583 [230] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:07,438 [230] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:07,459 [230] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:08,627 [225] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:05:08,650 [225] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:06:00,028 [226] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:06:00,042 [228] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:06:01,662 [230] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:06:02,834 [227] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 11:06:02,857 [228] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 12:57:47,813 [241] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-06-06 12:57:47,813 [241] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-06-06 12:57:48,040 [240] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 12:57:48,054 [240] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 12:57:49,942 [241] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 12:57:54,297 [241] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-06-06 12:57:54,297 [241] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-06-06 12:57:54,385 [241] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 12:57:54,415 [241] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 12:57:56,367 [241] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 12:57:56,389 [247] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:05,527 [247] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:13,382 [116] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:13,417 [113] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:21,583 [113] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:21,618 [113] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:23,756 [113] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:23,787 [116] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:38,139 [113] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:38,164 [240] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:42,590 [240] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 13:03:42,612 [240] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 14:11:04,246 [118] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-06-06 14:11:04,246 [118] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-06-06 14:11:04,293 [239] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 14:11:04,317 [237] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 14:11:05,548 [239] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-06 14:11:05,578 [239] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

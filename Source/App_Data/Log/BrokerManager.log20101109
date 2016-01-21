@@ -1,0 +1,29 @@
+2010-11-09 16:47:29,372 [4] DEBUG Logger - ------------- Application starts -------------
+2010-11-09 16:47:44,470 [4] ERROR Logger - User loading error: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BrokerManager.DataAccess.SQLServerDataAccess.OpenConnection() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 85
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 106
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.UserDAL.GetAllUser() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 24
+   at BrokerManager.DataAccess.UserDAL.GetAllUserInformation() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 49
+   at BrokerManager.DataObjects.UserDTO.GetGlobalUserData() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\User.cs:line 59
+   at ASP.global_asax.LoadUserData() in d:\internal project\HSCBrokerManagement\BrokerManager\Global.asax:line 33
+2010-11-09 16:47:44,471 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-11-09 16:47:44,471 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-11-09 16:47:44,471 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-11-09 16:47:44,471 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-11-09 16:47:51,845 [6] WARN  Logger - Login - User login authentication fail. Username=hung.tq Password=password

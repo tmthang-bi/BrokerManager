@@ -1,0 +1,255 @@
+2012-05-22 11:42:07,577 [5] DEBUG Logger - ------------- Application starts -------------
+2012-05-22 11:42:08,354 [5] ERROR Logger - User loading error: System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSni(DbAsyncResult asyncResult, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.ReadBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.ReadByte()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BrokerManager.DataAccess.SQLServerDataAccess.OpenConnection() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 85
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 106
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.UserDAL.GetAllUser() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 24
+   at BrokerManager.DataAccess.UserDAL.GetAllUserInformation() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 49
+   at BrokerManager.DataObjects.UserDTO.GetGlobalUserData() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\User.cs:line 59
+   at ASP.global_asax.LoadUserData() in d:\Work\HSCBrokerManagement\BrokerManager\Global.asax:line 33
+2012-05-22 11:42:08,354 [5] DEBUG Logger - Configured cache refresh interval (sec): -180
+2012-05-22 11:42:08,354 [5] INFO  Logger - Configured cache refresh interval parsing valid
+2012-05-22 11:42:08,355 [5] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2012-05-22 11:42:08,355 [5] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2012-05-22 11:42:09,105 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 12:59:43,370 [35] WARN  Logger - Login - User login authentication fail. Username=test Password=1234
+2012-05-22 12:59:52,612 [31] WARN  Logger - Login - User login authentication fail. Username=test Password=1234
+2012-05-22 13:00:07,154 [31] WARN  Logger - Login - User login authentication fail. Username=hung.tq Password=1234
+2012-05-22 13:35:20,976 [43] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 13:35:55,307 [47] WARN  Logger - Login - User login authentication fail. Username=test Password=1234
+2012-05-22 13:44:11,005 [43] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 13:45:00,137 [43] WARN  Logger - Login - User login authentication fail. Username=test Password=1234
+2012-05-22 13:46:14,881 [49] WARN  Logger - Login - User login authentication fail. Username=test Password=1234
+2012-05-22 13:46:56,666 [43] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 13:48:49,016 [43] DEBUG Logger - ------------- Application starts -------------
+2012-05-22 13:49:22,319 [43] ERROR Logger - User loading error: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'brokermanager'.
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BrokerManager.DataAccess.SQLServerDataAccess.OpenConnection() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 85
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 106
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.UserDAL.GetAllUser() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 24
+   at BrokerManager.DataAccess.UserDAL.GetAllUserInformation() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 49
+   at BrokerManager.DataObjects.UserDTO.GetGlobalUserData() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\User.cs:line 59
+   at ASP.global_asax.LoadUserData() in d:\Work\HSCBrokerManagement\BrokerManager\Global.asax:line 34
+2012-05-22 13:49:22,320 [43] DEBUG Logger - Configured cache refresh interval (sec): -180
+2012-05-22 13:49:22,320 [43] INFO  Logger - Configured cache refresh interval parsing valid
+2012-05-22 13:49:22,320 [43] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2012-05-22 13:49:22,320 [43] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2012-05-22 13:49:22,361 [43] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 14:16:28,582 [48] WARN  Logger - Login - User login authentication fail. Username=test Password=1234
+2012-05-22 14:43:21,637 [38] WARN  Logger - Login - User login authentication fail. Username=thang.tm Password=loveyou@86
+2012-05-22 14:43:28,602 [38] WARN  Logger - Login - User login authentication fail. Username=thang.tm Password=loveyou@86
+2012-05-22 14:44:32,247 [37] WARN  Logger - Login - User login authentication fail. Username=thang.tm Password=loveyou@86
+2012-05-22 14:44:51,265 [37] WARN  Logger - Login - User login authentication fail. Username=hung.tq Password=password
+2012-05-22 14:45:03,698 [37] WARN  Logger - Login - User login authentication fail. Username=hsc\hung.tq Password=password\
+2012-05-22 14:47:03,226 [38] DEBUG Logger - ------------- Application starts -------------
+2012-05-22 14:47:03,327 [38] ERROR Logger - User loading error: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'brokermanager'.
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BrokerManager.DataAccess.SQLServerDataAccess.OpenConnection() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 85
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 106
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.UserDAL.GetAllUser() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 24
+   at BrokerManager.DataAccess.UserDAL.GetAllUserInformation() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 49
+   at BrokerManager.DataObjects.UserDTO.GetGlobalUserData() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\User.cs:line 59
+   at ASP.global_asax.LoadUserData() in d:\Work\HSCBrokerManagement\BrokerManager\Global.asax:line 34
+2012-05-22 14:47:03,328 [38] DEBUG Logger - Configured cache refresh interval (sec): -180
+2012-05-22 14:47:03,328 [38] INFO  Logger - Configured cache refresh interval parsing valid
+2012-05-22 14:47:03,328 [38] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2012-05-22 14:47:03,328 [38] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2012-05-22 14:47:03,412 [38] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 14:47:11,503 [38] WARN  Logger - Login - User login authentication fail. Username=thang.tm Password=loveyou@86
+2012-05-22 14:49:47,597 [38] DEBUG Logger - ------------- Application starts -------------
+2012-05-22 14:58:21,034 [38] ERROR Logger - User loading error: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'brokermanager'.
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BrokerManager.DataAccess.SQLServerDataAccess.OpenConnection() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 85
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 106
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.UserDAL.GetAllUser() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 24
+   at BrokerManager.DataAccess.UserDAL.GetAllUserInformation() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 49
+   at BrokerManager.DataObjects.UserDTO.GetGlobalUserData() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\User.cs:line 59
+   at ASP.global_asax.LoadUserData() in d:\Work\HSCBrokerManagement\BrokerManager\Global.asax:line 33
+2012-05-22 14:58:21,035 [38] DEBUG Logger - Configured cache refresh interval (sec): -180
+2012-05-22 14:58:21,035 [38] INFO  Logger - Configured cache refresh interval parsing valid
+2012-05-22 14:58:21,035 [38] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2012-05-22 14:58:21,035 [38] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2012-05-22 14:58:21,097 [38] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 14:58:41,943 [38] DEBUG Logger - ------------- Application starts -------------
+2012-05-22 14:58:48,450 [38] ERROR Logger - User loading error: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'brokermanager'.
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BrokerManager.DataAccess.SQLServerDataAccess.OpenConnection() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 85
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 106
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.UserDAL.GetAllUser() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 24
+   at BrokerManager.DataAccess.UserDAL.GetAllUserInformation() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 49
+   at BrokerManager.DataObjects.UserDTO.GetGlobalUserData() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\User.cs:line 59
+   at ASP.global_asax.LoadUserData() in d:\Work\HSCBrokerManagement\BrokerManager\Global.asax:line 33
+2012-05-22 14:58:48,451 [38] DEBUG Logger - Configured cache refresh interval (sec): -180
+2012-05-22 14:58:48,451 [38] INFO  Logger - Configured cache refresh interval parsing valid
+2012-05-22 14:58:48,451 [38] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2012-05-22 14:58:48,451 [38] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2012-05-22 14:58:48,539 [38] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 14:58:59,630 [39] WARN  Logger - Login - User login authentication fail. Username=hung.tq Password=password
+2012-05-22 14:59:22,108 [39] WARN  Logger - Login - User login authentication fail. Username=hung.tq Password=password
+2012-05-22 14:59:47,921 [38] DEBUG Logger - ------------- Application starts -------------
+2012-05-22 15:02:11,223 [38] ERROR Logger - User loading error: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'brokermanager'.
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BrokerManager.DataAccess.SQLServerDataAccess.OpenConnection() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 85
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 106
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.UserDAL.GetAllUser() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 24
+   at BrokerManager.DataAccess.UserDAL.GetAllUserInformation() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\UserDAL.cs:line 49
+   at BrokerManager.DataObjects.UserDTO.GetGlobalUserData() in d:\Work\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\User.cs:line 59
+   at ASP.global_asax.LoadUserData() in d:\Work\HSCBrokerManagement\BrokerManager\Global.asax:line 33
+2012-05-22 15:02:11,224 [38] DEBUG Logger - Configured cache refresh interval (sec): -180
+2012-05-22 15:02:11,224 [38] INFO  Logger - Configured cache refresh interval parsing valid
+2012-05-22 15:02:11,224 [38] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2012-05-22 15:02:11,224 [38] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2012-05-22 15:02:11,292 [38] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:02:19,822 [36] DEBUG Logger - ------------- Application starts -------------
+2012-05-22 15:02:25,452 [36] INFO  Logger - User list load completed. Count=5
+2012-05-22 15:02:25,453 [36] DEBUG Logger - Configured cache refresh interval (sec): -180
+2012-05-22 15:02:25,453 [36] INFO  Logger - Configured cache refresh interval parsing valid
+2012-05-22 15:02:25,453 [36] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2012-05-22 15:02:25,453 [36] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2012-05-22 15:02:35,315 [39] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2012-05-22 15:02:35,345 [39] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-05-22 15:02:37,457 [36] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:02:37,670 [36] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:02:50,988 [36] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-05-22 15:02:51,002 [36] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-05-22 15:02:51,325 [39] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:02:51,360 [39] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:26:35,304 [43] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-05-22 15:26:35,304 [43] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-05-22 15:26:35,830 [44] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:26:35,913 [44] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:00,630 [46] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:00,657 [42] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:01,857 [46] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:01,885 [43] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:02,554 [42] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:02,596 [46] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:03,761 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:14,652 [46] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:16,656 [42] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:16,684 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:25,980 [44] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:35:29,894 [42] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:36:27,982 [45] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:36:28,024 [45] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:36:45,283 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:36:45,322 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:36:49,520 [43] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:36:49,562 [44] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:36:53,940 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:36:57,989 [46] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:37:01,230 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:37:04,659 [43] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:37:04,688 [46] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 15:37:08,469 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 16:37:56,383 [33] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-05-22 16:37:56,383 [33] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-05-22 16:37:56,487 [35] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 16:37:56,518 [35] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 16:38:00,939 [33] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 16:38:00,981 [35] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 16:38:03,856 [33] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 16:38:03,891 [33] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 16:38:07,808 [33] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-05-22 16:38:07,849 [35] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

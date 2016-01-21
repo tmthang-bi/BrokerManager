@@ -1,0 +1,25 @@
+2011-05-04 15:40:59,106 [4] DEBUG Logger - ------------- Application starts -------------
+2011-05-04 15:41:01,329 [4] INFO  Logger - User list load completed. Count=4
+2011-05-04 15:41:01,330 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2011-05-04 15:41:01,330 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2011-05-04 15:41:01,330 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2011-05-04 15:41:01,330 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2011-05-04 15:41:07,923 [5] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2011-05-04 15:41:07,972 [5] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2011-05-04 15:41:19,785 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:41:22,070 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:41:36,740 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:41:48,218 [9] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:41:50,291 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:42:02,937 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:42:14,177 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:42:16,219 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:42:21,753 [5] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:42:29,292 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:42:31,348 [9] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:42:36,818 [13] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:42:38,830 [11] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:43:12,742 [13] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:43:14,774 [11] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:43:20,098 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2011-05-04 15:43:22,158 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

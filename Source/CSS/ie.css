@@ -1,0 +1,54 @@
+﻿#nav {
+	CLEAR: both
+}
+.chead {
+	HEIGHT: 1%
+}
+.cglob {
+	HEIGHT: 1%
+}
+.navig {
+	HEIGHT: 1%
+}
+.postmeta {
+	HEIGHT: 1%
+}
+.photo P {
+	HEIGHT: 1%
+}
+.chead {
+	HEIGHT: 70px
+}
+.navig LI LI {
+	WHITE-SPACE: nowrap
+}
+.navig LI.twolevelhover UL {
+	Z-INDEX: 100; VISIBILITY: visible
+}
+.navig UL {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 12px; PADDING-BOTTOM: 0.5em; ; WIDTH: expression((this.parentNode.parentNode.offsetWidth - parseInt(this.currentStyle.paddingLeft) - parseInt(this.currentStyle.paddingRight)) + 'px'); PADDING-TOP: 0.5em
+}
+.navig LI.twolevelhover {
+	BACKGROUND: #930
+}
+.navig LI.twolevelhover UL {
+	BACKGROUND: #930
+}
+.navig .slc {
+	BACKGROUND: #693
+}
+.navig LI.slc LI.twolevelhover {
+	BACKGROUND: #693
+}
+.navig .slc UL {
+	BACKGROUND: #693
+}
+.photo {
+	WIDTH: 500px
+}
+.magnolia-byline {
+	POSITION: relative
+}
+.download {
+	MARGIN-LEFT: 10px; MARGIN-RIGHT: 0.25em
+}

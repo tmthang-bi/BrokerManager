@@ -1,0 +1,3 @@
+http://his-rs.hsc.com.vn:8080/HIS/Pages/Report.aspx?ItemPath=%2fBI%2fBOM%2fMarketShare-ClientType
+
+Tinh tu 21 thang truoc den 20 thang nay

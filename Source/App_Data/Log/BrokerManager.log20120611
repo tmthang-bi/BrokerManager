@@ -1,0 +1,4 @@
+2012-06-11 13:13:40,018 [163] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2012-06-11 13:13:40,286 [163] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2012-06-11 13:13:44,548 [163] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2012-06-11 13:13:45,206 [164] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

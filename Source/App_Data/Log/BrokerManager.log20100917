@@ -1,0 +1,44 @@
+2010-09-17 14:41:07,960 [4] DEBUG Logger - ------------- Application starts -------------
+2010-09-17 14:41:08,147 [4] INFO  Logger - User list load completed. Count=4
+2010-09-17 14:41:08,147 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-09-17 14:41:08,147 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-09-17 14:41:08,147 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-09-17 14:41:08,147 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-09-17 14:41:10,601 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-17 14:41:10,726 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-17 14:41:12,398 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 14:41:19,413 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 14:59:57,022 [4] DEBUG Logger - ------------- Application starts -------------
+2010-09-17 14:59:57,069 [4] INFO  Logger - User list load completed. Count=4
+2010-09-17 14:59:57,069 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-09-17 14:59:57,069 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-09-17 14:59:57,069 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-09-17 14:59:57,069 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-09-17 15:02:14,603 [8] DEBUG Logger - ------------- Application starts -------------
+2010-09-17 15:02:14,635 [8] INFO  Logger - User list load completed. Count=4
+2010-09-17 15:02:14,635 [8] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-09-17 15:02:14,635 [8] INFO  Logger - Configured cache refresh interval parsing valid
+2010-09-17 15:02:14,635 [8] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-09-17 15:02:14,635 [8] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-09-17 15:02:15,213 [8] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-17 15:02:15,213 [8] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-17 15:02:17,869 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 15:02:28,541 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:09:38,326 [8] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-17 16:09:38,341 [8] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-17 16:09:38,482 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:09:42,888 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:09:51,732 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:09:54,139 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:09:58,404 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:10:02,029 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:15:20,227 [8] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-17 16:15:20,243 [8] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-17 16:15:20,368 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:15:23,025 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:15:24,916 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:15:32,510 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:17:23,415 [8] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-09-17 16:17:23,431 [8] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-09-17 16:17:23,540 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-09-17 16:17:26,681 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

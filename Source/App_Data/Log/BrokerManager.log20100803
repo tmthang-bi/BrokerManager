@@ -1,0 +1,15 @@
+2010-08-03 14:07:06,212 [4] DEBUG Logger - ------------- Application starts -------------
+2010-08-03 14:07:06,352 [4] INFO  Logger - User list load completed. Count=4
+2010-08-03 14:07:06,384 [4] INFO  Logger - ClientType data load completed. Count=2
+2010-08-03 14:07:06,399 [4] INFO  Logger - BrokerType data load completed. Count=4
+2010-08-03 14:07:06,399 [4] INFO  Logger - Branch data load completed. Count=2
+2010-08-03 14:07:06,399 [4] INFO  Logger - Office data load completed. Count=8
+2010-08-03 14:07:06,462 [4] INFO  Logger - Broker data load completed. Count=316
+2010-08-03 14:07:06,462 [4] INFO  Logger - DB Global data load completed
+2010-08-03 14:07:06,462 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-08-03 14:07:06,462 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-08-03 14:07:06,462 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-08-03 14:07:06,462 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-08-03 14:07:14,242 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-03 14:07:14,320 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-03 14:07:17,226 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

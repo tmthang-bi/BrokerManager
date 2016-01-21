@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode>
+    <siteMapNode url="~/Report/Default.aspx"  title="Commission Reports" description="View reports" >
+      <siteMapNode url="~/Report/AEReport.aspx" title="Account Executive"  description="AE commission reports" />
+      <siteMapNode url="~/Report/SupervisorReport.aspx" title="Supervisor"  description="Supervisor commission reports" />
+      <siteMapNode url="~/Report/ManagerReport.aspx" title="Manager"  description="Manager reports" />
+      <siteMapNode url="~/Report/MDReport.aspx" title="Managing Director"  description="Managing Director reports" />
+    </siteMapNode>
+		<siteMapNode url="~/BrokerManagement/Default.aspx"  title="Commission Calculation" description="Everything for commission calculation" >
+      <siteMapNode url="~/Calculation/CommissionCalculation.aspx" title="Commission Calculation"  description="Calculate broker commission" />
+      <siteMapNode url="~/ClientTradeData/ImportTradeData.aspx" title="Import Trading Data"  description="Import/Delete client's trading data" />
+      <siteMapNode url="~/BrokerManagement/BrokerList.aspx" title="Broker List"  description="Broker infomation" />
+      <siteMapNode url="~/CalculationResult/BrokerCalculationResult.aspx" title="Result"  description="View/edit all broker calculation results" />
+		</siteMapNode>
+		<siteMapNode url="~/MasterDataManagement/Default.aspx" title="Management"  description="Master Data Setting" >
+			<siteMapNode url="~/BrokerManagement/BrokerListModification.aspx" title="Broker"  description="Modify broker infomation" />
+      <siteMapNode url="~/BrokerManagement/ImportBrokerList.aspx" title="Import Broker"  description="Import Broker infomation" />
+      <siteMapNode url="~/MasterDataManagement/CommissionRate.aspx" title="Commission Rate"  description="Setup commission rate" />
+      <siteMapNode url="~/MasterDataManagement/BrokerType.aspx" title="Broker Type"  description="Broker Type Mapping" />
+		</siteMapNode>
+		<siteMapNode url="~/Logout.aspx"  title="Logout" description="Sign out current user" >
+		</siteMapNode>
+	</siteMapNode>
+</siteMap>

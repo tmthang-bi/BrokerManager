@@ -1,0 +1,204 @@
+2010-08-06 08:59:36,726 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 08:59:36,773 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 08:59:36,930 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:06:42,428 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:13:05,205 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:13:05,252 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:13:05,455 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:13:11,034 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:14:31,896 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:17:35,277 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:17:35,277 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:17:35,386 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:17:39,261 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:18:33,732 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:20:04,375 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:20:04,375 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:20:04,438 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:20:11,344 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:20:15,938 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:20:25,188 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:20:42,954 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:20:49,783 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:20:56,283 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:20:59,252 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:25:30,167 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:26:10,434 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:26:10,434 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:26:10,512 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:26:16,153 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:26:20,387 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:33:21,916 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:33:21,948 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:33:22,057 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:33:26,698 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:33:36,698 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:33:59,386 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:34:07,340 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:34:12,433 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:42:48,184 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:42:48,184 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:42:48,341 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:42:52,716 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:42:55,888 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:44:10,249 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:44:10,265 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:44:10,375 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:44:15,062 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:48:21,289 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:48:21,304 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:48:21,445 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:48:25,117 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:49:02,337 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:50:56,747 [6] DEBUG Logger - ------------- Application starts -------------
+2010-08-06 09:50:56,809 [6] INFO  Logger - User list load completed. Count=4
+2010-08-06 09:50:56,809 [6] INFO  Logger - ClientType data load completed. Count=2
+2010-08-06 09:50:56,809 [6] INFO  Logger - BrokerType data load completed. Count=4
+2010-08-06 09:50:56,809 [6] INFO  Logger - Branch data load completed. Count=2
+2010-08-06 09:50:56,809 [6] INFO  Logger - Office data load completed. Count=8
+2010-08-06 09:50:56,934 [6] ERROR Logger - DB Modal data loading error: System.Data.SqlClient.SqlException: Invalid column name 'Code'.
+Invalid column name 'SystemUserID'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 111
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.BrokerDAL.GetAllBroker() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\BrokerDAL.cs:line 31
+   at BrokerManager.DataObjects.Broker.GetAllBroker() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\Broker.cs:line 20
+   at ASP.global_asax.LoadDBModalData() in d:\internal project\HSCBrokerManagement\BrokerManager\Global.asax:line 58
+2010-08-06 09:50:56,934 [6] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-08-06 09:50:56,934 [6] INFO  Logger - Configured cache refresh interval parsing valid
+2010-08-06 09:50:56,934 [6] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-08-06 09:50:56,934 [6] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-08-06 09:50:58,278 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:50:58,294 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:50:58,669 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:51:03,747 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:51:21,748 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:51:25,920 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:51:25,935 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:51:26,013 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:51:29,248 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:51:48,670 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:52:45,844 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:54:19,644 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 09:54:19,660 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 09:54:19,738 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 09:54:23,722 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:01:08,532 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:01:36,502 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:01:58,049 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:05:08,118 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 10:05:08,118 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 10:05:08,227 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:05:14,009 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:06:23,730 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:10:08,940 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 10:10:08,956 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 10:10:09,081 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:10:13,096 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:10:46,722 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:11:12,395 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:11:21,989 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:11:29,724 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:12:03,850 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:12:27,601 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:12:41,632 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:12:50,055 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:12:53,789 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:12:59,727 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:13:07,743 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:20:01,725 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 10:20:01,740 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 10:20:01,865 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:20:05,553 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:20:16,741 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:20:23,366 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:21:50,494 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:22:08,572 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:22:17,948 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:22:24,917 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:22:42,823 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:23:05,215 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:23:14,481 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:23:20,153 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:23:22,950 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:23:43,138 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:38:33,385 [6] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 10:38:33,401 [6] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 10:38:33,526 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:38:36,620 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:40:17,404 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 10:40:27,764 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:08:08,879 [4] DEBUG Logger - ------------- Application starts -------------
+2010-08-06 11:08:08,926 [4] INFO  Logger - User list load completed. Count=4
+2010-08-06 11:08:08,926 [4] INFO  Logger - ClientType data load completed. Count=2
+2010-08-06 11:08:08,926 [4] INFO  Logger - BrokerType data load completed. Count=4
+2010-08-06 11:08:08,926 [4] INFO  Logger - Branch data load completed. Count=2
+2010-08-06 11:08:08,942 [4] INFO  Logger - Office data load completed. Count=8
+2010-08-06 11:08:08,973 [4] ERROR Logger - DB Modal data loading error: System.Data.SqlClient.SqlException: Invalid column name 'Code'.
+Invalid column name 'SystemUserID'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 111
+   at BrokerManager.DataAccess.SQLServerDataAccess.ExecuteQuery(String query) in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\SQLServerDataAccess.cs:line 125
+   at BrokerManager.DataAccess.BrokerDAL.GetAllBroker() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataAccess\BrokerDAL.cs:line 31
+   at BrokerManager.DataObjects.Broker.GetAllBroker() in d:\internal project\HSCBrokerManagement\BrokerManager\App_Code\DataObjects\Broker.cs:line 20
+   at ASP.global_asax.LoadDBModalData() in d:\internal project\HSCBrokerManagement\BrokerManager\Global.asax:line 58
+2010-08-06 11:08:08,973 [4] DEBUG Logger - Configured cache refresh interval (sec): -180
+2010-08-06 11:08:08,973 [4] INFO  Logger - Configured cache refresh interval parsing valid
+2010-08-06 11:08:08,973 [4] DEBUG Logger - Number value for cache refresh interval (sec): -180
+2010-08-06 11:08:08,973 [4] INFO  Logger - INVALID Interval, Schedule work is DISABLED
+2010-08-06 11:08:11,411 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 11:08:11,426 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 11:08:14,192 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:08:18,442 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:08:24,724 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:08:30,068 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:11:21,245 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 11:11:21,261 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 11:11:21,308 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:11:24,933 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:11:31,730 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:11:42,621 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:11:47,168 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:11:53,512 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:19:15,323 [4] INFO  Logger - Login - User login authentication success. Username=hung.tq
+2010-08-06 11:19:15,338 [4] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2010-08-06 11:19:15,448 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:19:20,401 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:19:25,479 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:19:32,245 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:19:39,823 [6] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:19:47,777 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:20:24,716 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:20:26,075 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:20:43,513 [4] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2010-08-06 11:20:47,623 [8] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs

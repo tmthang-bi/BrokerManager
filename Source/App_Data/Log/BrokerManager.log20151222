@@ -1,0 +1,1021 @@
+2015-12-22 09:09:10,946 [155] INFO  Logger - Login - User login authentication success. Username=thang.tm
+2015-12-22 09:09:10,971 [155] WARN  Logger - Login - Redirect causing ThreadAbortException: Thread was being aborted.
+2015-12-22 09:09:11,688 [147] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:14:48,920 [163] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:15:50,997 [165] INFO  Logger - Imported file uploaded to C:\Work\BrokerManager\Source\Upload\Confirm Sup - 12.2015.xlsx - By: thang.tm
+2015-12-22 09:15:51,149 [165] INFO  Logger - Data in file 'C:\Work\BrokerManager\Source\Upload\Confirm Sup - 12.2015.xlsx' imported to DB by: thang.tm
+2015-12-22 09:15:51,547 [165] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:15:55,245 [165] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:16:06,163 [276] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:16:07,217 [270] INFO  Logger - Deleted count=472 - By thang.tm
+2015-12-22 09:16:07,788 [162] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:16:48,612 [270] INFO  Logger - Imported file uploaded to C:\Work\BrokerManager\Source\Upload\Confirm Sup - 12.2015.xlsx - By: thang.tm
+2015-12-22 09:16:48,724 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,733 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,741 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,750 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,761 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,769 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,779 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,787 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,796 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,804 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,812 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,819 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,827 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,835 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,843 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,851 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,858 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,865 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,871 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,879 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,886 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,893 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,900 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,908 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,914 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,922 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,928 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,936 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,944 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,952 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,959 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,967 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,974 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,980 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,986 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,992 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:48,999 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,006 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,013 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,019 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,027 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,033 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,040 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,047 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,054 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,063 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,069 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,076 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,083 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,091 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,098 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,105 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,112 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,120 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,126 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,135 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,142 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,149 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,155 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,162 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,168 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,175 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,183 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,190 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,198 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,206 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,218 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,226 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,231 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,240 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,247 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,256 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,263 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,270 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,277 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,283 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,295 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,313 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,324 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,335 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,344 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,352 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,360 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,370 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,376 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,382 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,389 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,398 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,404 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,411 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,417 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,423 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,431 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,438 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,445 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,452 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,460 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,468 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,476 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,483 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,491 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,497 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,505 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,512 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,519 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,525 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,532 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,539 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,545 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,552 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,559 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,565 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,572 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,579 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,587 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,593 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,599 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,607 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,616 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,624 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,634 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,642 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,650 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,656 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,663 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,669 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,676 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,682 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,688 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,695 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,702 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,708 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,714 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,721 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,727 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,734 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,741 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,748 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,754 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,761 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,768 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,774 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,780 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,787 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,792 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,800 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,806 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,813 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,819 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,826 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,833 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,841 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,848 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,855 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,862 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,868 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,874 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,881 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,888 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,895 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,902 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,908 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,915 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,922 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,929 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,935 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,941 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,948 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,957 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,963 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,969 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,976 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,983 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,990 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:49,997 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,004 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,012 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,017 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,025 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,031 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,040 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,046 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,053 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,059 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,065 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,072 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,080 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,086 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,092 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,098 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,106 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,112 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,119 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,127 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,137 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,144 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,150 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,156 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,163 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,170 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,176 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,182 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,188 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,196 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,203 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,209 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,216 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,223 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,230 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,237 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,244 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,250 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,258 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,264 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,271 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,277 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,284 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,291 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,298 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,304 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,310 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,317 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,323 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,330 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,336 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,348 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,357 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,366 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,376 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,386 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,396 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,403 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,410 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,416 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,423 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,431 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,439 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,446 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,452 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,459 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,465 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,473 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,479 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,486 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,492 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,498 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,505 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,511 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,518 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,524 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,534 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,541 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,547 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,553 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,559 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,566 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,572 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,580 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,586 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,591 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,599 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,605 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,612 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,619 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,626 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,633 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,639 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,645 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,651 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,658 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,664 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,670 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,677 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,684 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,691 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,697 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,703 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,709 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,715 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,721 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,727 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,733 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,739 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,752 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,759 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,770 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,779 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,789 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,804 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,814 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,821 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,827 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,833 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,840 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,846 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,853 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,858 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,864 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,870 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,878 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,884 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,891 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,897 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,903 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,910 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,916 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,922 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,928 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,935 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,941 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,948 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,953 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,959 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,966 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,973 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,979 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,984 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,991 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:50,998 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,005 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,011 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,017 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,023 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,030 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,036 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,042 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,048 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,055 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,061 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,077 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,087 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,096 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,107 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,113 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,121 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,127 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,136 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,150 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,157 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,163 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,169 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,180 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,187 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,193 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,199 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,205 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,218 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,225 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,231 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,237 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,243 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,249 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,255 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,261 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,267 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,274 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,280 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,286 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,292 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,299 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,306 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,312 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,319 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,326 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,334 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,345 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,353 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,359 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,366 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,372 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,378 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,384 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,395 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,403 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,412 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,418 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,425 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,432 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,439 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,445 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,451 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,458 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,471 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,478 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,485 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,492 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,501 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,507 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,513 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,521 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,527 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,533 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,539 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,547 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,553 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,559 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,565 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,571 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,579 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,585 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,592 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,599 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,605 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,612 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,618 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,624 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,630 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,637 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,645 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,652 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,658 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,665 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,672 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,679 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,685 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,691 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,698 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,706 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,712 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,718 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,724 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,731 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,737 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,744 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,749 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,756 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,762 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,769 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,776 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,782 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,788 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,795 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,801 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,807 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,812 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,818 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,826 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,832 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,839 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,845 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,852 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,859 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,865 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,871 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,877 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,885 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,893 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,900 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,906 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,912 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,919 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,926 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,932 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,938 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,947 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,953 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,959 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,965 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,971 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,978 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,984 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,990 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:51,996 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,002 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,009 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,016 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,022 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,029 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,037 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,044 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,054 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,060 [270] DEBUG Logger - Inserted=1 - BrokerManager.DataObjects.Broker
+2015-12-22 09:16:52,060 [270] INFO  Logger - Data in file 'C:\Work\BrokerManager\Source\Upload\Confirm Sup - 12.2015.xlsx' imported to DB by: thang.tm
+2015-12-22 09:16:52,467 [151] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:17:03,314 [276] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:17:11,179 [276] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
+2015-12-22 09:17:13,546 [276] INFO  Logger - Calculate - ENTER
+2015-12-22 09:17:13,609 [276] INFO  Logger - Data object link completed
+2015-12-22 09:17:13,624 [276] INFO  Logger - ClientTradeData data load completed. Count=810
+2015-12-22 09:17:13,627 [276] ERROR Logger - CalculateSupervisor - rate4NewClient not found. BrokerID=JR
+2015-12-22 09:17:13,627 [276] ERROR Logger - CalculateSupervisor - rate4OldClient not found. BrokerID=JR
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office NVT2: TradingValue=51764543400.0000 Revenue=84419259.64000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office KL: TradingValue=0 Revenue=0
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office LL: TradingValue=0 Revenue=0
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office LH: TradingValue=0 Revenue=0
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office 3T2: TradingValue=0 Revenue=0
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office HCM: TradingValue=0 Revenue=0
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office CL: TradingValue=1290694994700.0000 Revenue=1651830462.12000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office BT: TradingValue=311585939200.0000 Revenue=537635446.32000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office LL1: TradingValue=888070208900.0000 Revenue=1331158190.44000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office LH1: TradingValue=618444503700.0000 Revenue=931137498.52000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office THD: TradingValue=752636030900.0000 Revenue=1221402080.64000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office TVL: TradingValue=884433741400.0000 Revenue=1316213575.44000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office NVT: TradingValue=392769161200.0000 Revenue=548863758.52000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office LL2: TradingValue=377905327200.0000 Revenue=602142414.12000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office LH2: TradingValue=478406583800.0000 Revenue=644139257.48000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office LTT: TradingValue=775846834400.0000 Revenue=1135150114.24000000
+2015-12-22 09:17:13,628 [276] INFO  Logger - Office DT: TradingValue=0 Revenue=0
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000044
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=001583
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000063
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000218
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000008
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000042
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=001038
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000041
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000051
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000136
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000179
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=000146
+2015-12-22 09:17:13,628 [276] ERROR Logger - CalculateManager - rate4OldClient not found. BrokerID=001386
+2015-12-22 09:17:13,628 [276] DEBUG Logger - StoreCalculationData - ENTER
+2015-12-22 09:17:13,628 [276] INFO  Logger - Delete Result Data, id=201512
+2015-12-22 09:17:13,638 [276] INFO  Logger - Delete BrokerCalculationResult, count=472
+2015-12-22 09:17:13,643 [276] INFO  Logger - Delete OfficeCalculationResult, count=17
+2015-12-22 09:17:13,665 [276] DEBUG Logger - StoreCalculationData - BrokerID=001599 InsertedRecord=1
+2015-12-22 09:17:13,673 [276] DEBUG Logger - StoreCalculationData - BrokerID=000631 InsertedRecord=1
+2015-12-22 09:17:13,680 [276] DEBUG Logger - StoreCalculationData - BrokerID=000234 InsertedRecord=1
+2015-12-22 09:17:13,690 [276] DEBUG Logger - StoreCalculationData - BrokerID=000681 InsertedRecord=1
+2015-12-22 09:17:13,698 [276] DEBUG Logger - StoreCalculationData - BrokerID=000069 InsertedRecord=1
+2015-12-22 09:17:13,708 [276] DEBUG Logger - StoreCalculationData - BrokerID=001692 InsertedRecord=1
+2015-12-22 09:17:13,717 [276] DEBUG Logger - StoreCalculationData - BrokerID=001624 InsertedRecord=1
+2015-12-22 09:17:13,726 [276] DEBUG Logger - StoreCalculationData - BrokerID=001634 InsertedRecord=1
+2015-12-22 09:17:13,734 [276] DEBUG Logger - StoreCalculationData - BrokerID=000294 InsertedRecord=1
+2015-12-22 09:17:13,741 [276] DEBUG Logger - StoreCalculationData - BrokerID=001231 InsertedRecord=1
+2015-12-22 09:17:13,751 [276] DEBUG Logger - StoreCalculationData - BrokerID=001409 InsertedRecord=1
+2015-12-22 09:17:13,760 [276] DEBUG Logger - StoreCalculationData - BrokerID=001419 InsertedRecord=1
+2015-12-22 09:17:13,767 [276] DEBUG Logger - StoreCalculationData - BrokerID=001654 InsertedRecord=1
+2015-12-22 09:17:13,774 [276] DEBUG Logger - StoreCalculationData - BrokerID=001449 InsertedRecord=1
+2015-12-22 09:17:13,783 [276] DEBUG Logger - StoreCalculationData - BrokerID=001684 InsertedRecord=1
+2015-12-22 09:17:13,790 [276] DEBUG Logger - StoreCalculationData - BrokerID=001694 InsertedRecord=1
+2015-12-22 09:17:13,798 [276] DEBUG Logger - StoreCalculationData - BrokerID=001489 InsertedRecord=1
+2015-12-22 09:17:13,805 [276] DEBUG Logger - StoreCalculationData - BrokerID=001499 InsertedRecord=1
+2015-12-22 09:17:13,813 [276] DEBUG Logger - StoreCalculationData - BrokerID=001429 InsertedRecord=1
+2015-12-22 09:17:13,820 [276] DEBUG Logger - StoreCalculationData - BrokerID=000892 InsertedRecord=1
+2015-12-22 09:17:13,828 [276] DEBUG Logger - StoreCalculationData - BrokerID=000333 InsertedRecord=1
+2015-12-22 09:17:13,836 [276] DEBUG Logger - StoreCalculationData - BrokerID=001057 InsertedRecord=1
+2015-12-22 09:17:13,844 [276] DEBUG Logger - StoreCalculationData - BrokerID=001544 InsertedRecord=1
+2015-12-22 09:17:13,851 [276] DEBUG Logger - StoreCalculationData - BrokerID=000591 InsertedRecord=1
+2015-12-22 09:17:13,859 [276] DEBUG Logger - StoreCalculationData - BrokerID=001723 InsertedRecord=1
+2015-12-22 09:17:13,866 [276] DEBUG Logger - StoreCalculationData - BrokerID=001661 InsertedRecord=1
+2015-12-22 09:17:13,875 [276] DEBUG Logger - StoreCalculationData - BrokerID=001524 InsertedRecord=1
+2015-12-22 09:17:13,882 [276] DEBUG Logger - StoreCalculationData - BrokerID=001713 InsertedRecord=1
+2015-12-22 09:17:13,891 [276] DEBUG Logger - StoreCalculationData - BrokerID=001260 InsertedRecord=1
+2015-12-22 09:17:13,900 [276] DEBUG Logger - StoreCalculationData - BrokerID=001574 InsertedRecord=1
+2015-12-22 09:17:13,910 [276] DEBUG Logger - StoreCalculationData - BrokerID=001369 InsertedRecord=1
+2015-12-22 09:17:13,918 [276] DEBUG Logger - StoreCalculationData - BrokerID=000961 InsertedRecord=1
+2015-12-22 09:17:13,925 [276] DEBUG Logger - StoreCalculationData - BrokerID=001359 InsertedRecord=1
+2015-12-22 09:17:13,932 [276] DEBUG Logger - StoreCalculationData - BrokerID=001594 InsertedRecord=1
+2015-12-22 09:17:13,941 [276] DEBUG Logger - StoreCalculationData - BrokerID=000044 InsertedRecord=1
+2015-12-22 09:17:13,948 [276] DEBUG Logger - StoreCalculationData - BrokerID=001623 InsertedRecord=1
+2015-12-22 09:17:13,956 [276] DEBUG Logger - StoreCalculationData - BrokerID=000283 InsertedRecord=1
+2015-12-22 09:17:13,965 [276] DEBUG Logger - StoreCalculationData - BrokerID=001374 InsertedRecord=1
+2015-12-22 09:17:13,972 [276] DEBUG Logger - StoreCalculationData - BrokerID=001434 InsertedRecord=1
+2015-12-22 09:17:13,979 [276] DEBUG Logger - StoreCalculationData - BrokerID=001404 InsertedRecord=1
+2015-12-22 09:17:13,986 [276] DEBUG Logger - StoreCalculationData - BrokerID=001414 InsertedRecord=1
+2015-12-22 09:17:13,994 [276] DEBUG Logger - StoreCalculationData - BrokerID=001643 InsertedRecord=1
+2015-12-22 09:17:14,003 [276] DEBUG Logger - StoreCalculationData - BrokerID=001219 InsertedRecord=1
+2015-12-22 09:17:14,010 [276] DEBUG Logger - StoreCalculationData - BrokerID=001444 InsertedRecord=1
+2015-12-22 09:17:14,018 [276] DEBUG Logger - StoreCalculationData - BrokerID=JR InsertedRecord=1
+2015-12-22 09:17:14,025 [276] DEBUG Logger - StoreCalculationData - BrokerID=000851 InsertedRecord=1
+2015-12-22 09:17:14,035 [276] DEBUG Logger - StoreCalculationData - BrokerID=001289 InsertedRecord=1
+2015-12-22 09:17:14,043 [276] DEBUG Logger - StoreCalculationData - BrokerID=001501 InsertedRecord=1
+2015-12-22 09:17:14,050 [276] DEBUG Logger - StoreCalculationData - BrokerID=001613 InsertedRecord=1
+2015-12-22 09:17:14,059 [276] DEBUG Logger - StoreCalculationData - BrokerID=000123 InsertedRecord=1
+2015-12-22 09:17:14,067 [276] DEBUG Logger - StoreCalculationData - BrokerID=001625 InsertedRecord=1
+2015-12-22 09:17:14,075 [276] DEBUG Logger - StoreCalculationData - BrokerID=001523 InsertedRecord=1
+2015-12-22 09:17:14,084 [276] DEBUG Logger - StoreCalculationData - BrokerID=001533 InsertedRecord=1
+2015-12-22 09:17:14,092 [276] DEBUG Logger - StoreCalculationData - BrokerID=001324 InsertedRecord=1
+2015-12-22 09:17:14,110 [276] DEBUG Logger - StoreCalculationData - BrokerID=001334 InsertedRecord=1
+2015-12-22 09:17:14,133 [276] DEBUG Logger - StoreCalculationData - BrokerID=001573 InsertedRecord=1
+2015-12-22 09:17:14,149 [276] DEBUG Logger - StoreCalculationData - BrokerID=001364 InsertedRecord=1
+2015-12-22 09:17:14,157 [276] DEBUG Logger - StoreCalculationData - BrokerID=001119 InsertedRecord=1
+2015-12-22 09:17:14,165 [276] DEBUG Logger - StoreCalculationData - BrokerID=001344 InsertedRecord=1
+2015-12-22 09:17:14,173 [276] DEBUG Logger - StoreCalculationData - BrokerID=001583 InsertedRecord=1
+2015-12-22 09:17:14,181 [276] DEBUG Logger - StoreCalculationData - BrokerID=001159 InsertedRecord=1
+2015-12-22 09:17:14,189 [276] DEBUG Logger - StoreCalculationData - BrokerID=001384 InsertedRecord=1
+2015-12-22 09:17:14,197 [276] DEBUG Logger - StoreCalculationData - BrokerID=001665 InsertedRecord=1
+2015-12-22 09:17:14,206 [276] DEBUG Logger - StoreCalculationData - BrokerID=001738 InsertedRecord=1
+2015-12-22 09:17:14,214 [276] DEBUG Logger - StoreCalculationData - BrokerID=000023 InsertedRecord=1
+2015-12-22 09:17:14,224 [276] DEBUG Logger - StoreCalculationData - BrokerID=000063 InsertedRecord=1
+2015-12-22 09:17:14,233 [276] DEBUG Logger - StoreCalculationData - BrokerID=001423 InsertedRecord=1
+2015-12-22 09:17:14,242 [276] DEBUG Logger - StoreCalculationData - BrokerID=001403 InsertedRecord=1
+2015-12-22 09:17:14,251 [276] DEBUG Logger - StoreCalculationData - BrokerID=001413 InsertedRecord=1
+2015-12-22 09:17:14,259 [276] DEBUG Logger - StoreCalculationData - BrokerID=001214 InsertedRecord=1
+2015-12-22 09:17:14,269 [276] DEBUG Logger - StoreCalculationData - BrokerID=001443 InsertedRecord=1
+2015-12-22 09:17:14,277 [276] DEBUG Logger - StoreCalculationData - BrokerID=001254 InsertedRecord=1
+2015-12-22 09:17:14,285 [276] DEBUG Logger - StoreCalculationData - BrokerID=001493 InsertedRecord=1
+2015-12-22 09:17:14,294 [276] DEBUG Logger - StoreCalculationData - BrokerID=001555 InsertedRecord=1
+2015-12-22 09:17:14,302 [276] DEBUG Logger - StoreCalculationData - BrokerID=001022 InsertedRecord=1
+2015-12-22 09:17:14,310 [276] DEBUG Logger - StoreCalculationData - BrokerID=001528 InsertedRecord=1
+2015-12-22 09:17:14,318 [276] DEBUG Logger - StoreCalculationData - BrokerID=001663 InsertedRecord=1
+2015-12-22 09:17:14,327 [276] DEBUG Logger - StoreCalculationData - BrokerID=001333 InsertedRecord=1
+2015-12-22 09:17:14,335 [276] DEBUG Logger - StoreCalculationData - BrokerID=001303 InsertedRecord=1
+2015-12-22 09:17:14,343 [276] DEBUG Logger - StoreCalculationData - BrokerID=001373 InsertedRecord=1
+2015-12-22 09:17:14,352 [276] DEBUG Logger - StoreCalculationData - BrokerID=001633 InsertedRecord=1
+2015-12-22 09:17:14,361 [276] DEBUG Logger - StoreCalculationData - BrokerID=001383 InsertedRecord=1
+2015-12-22 09:17:14,369 [276] DEBUG Logger - StoreCalculationData - BrokerID=001393 InsertedRecord=1
+2015-12-22 09:17:14,377 [276] DEBUG Logger - StoreCalculationData - BrokerID=001184 InsertedRecord=1
+2015-12-22 09:17:14,384 [276] DEBUG Logger - StoreCalculationData - BrokerID=001194 InsertedRecord=1
+2015-12-22 09:17:14,394 [276] DEBUG Logger - StoreCalculationData - BrokerID=000646 InsertedRecord=1
+2015-12-22 09:17:14,402 [276] DEBUG Logger - StoreCalculationData - BrokerID=000418 InsertedRecord=1
+2015-12-22 09:17:14,410 [276] DEBUG Logger - StoreCalculationData - BrokerID=001717 InsertedRecord=1
+2015-12-22 09:17:14,417 [276] DEBUG Logger - StoreCalculationData - BrokerID=001203 InsertedRecord=1
+2015-12-22 09:17:14,426 [276] DEBUG Logger - StoreCalculationData - BrokerID=001034 InsertedRecord=1
+2015-12-22 09:17:14,435 [276] DEBUG Logger - StoreCalculationData - BrokerID=001004 InsertedRecord=1
+2015-12-22 09:17:14,443 [276] DEBUG Logger - StoreCalculationData - BrokerID=001014 InsertedRecord=1
+2015-12-22 09:17:14,451 [276] DEBUG Logger - StoreCalculationData - BrokerID=001064 InsertedRecord=1
+2015-12-22 09:17:14,460 [276] DEBUG Logger - StoreCalculationData - BrokerID=001044 InsertedRecord=1
+2015-12-22 09:17:14,468 [276] DEBUG Logger - StoreCalculationData - BrokerID=001293 InsertedRecord=1
+2015-12-22 09:17:14,475 [276] DEBUG Logger - StoreCalculationData - BrokerID=001445 InsertedRecord=1
+2015-12-22 09:17:14,483 [276] DEBUG Logger - StoreCalculationData - BrokerID=000546 InsertedRecord=1
+2015-12-22 09:17:14,490 [276] DEBUG Logger - StoreCalculationData - BrokerID=001603 InsertedRecord=1
+2015-12-22 09:17:14,498 [276] DEBUG Logger - StoreCalculationData - BrokerID=000785 InsertedRecord=1
+2015-12-22 09:17:14,505 [276] DEBUG Logger - StoreCalculationData - BrokerID=001728 InsertedRecord=1
+2015-12-22 09:17:14,514 [276] DEBUG Logger - StoreCalculationData - BrokerID=000388 InsertedRecord=1
+2015-12-22 09:17:14,522 [276] DEBUG Logger - StoreCalculationData - BrokerID=000352 InsertedRecord=1
+2015-12-22 09:17:14,530 [276] DEBUG Logger - StoreCalculationData - BrokerID=001382 InsertedRecord=1
+2015-12-22 09:17:14,538 [276] DEBUG Logger - StoreCalculationData - BrokerID=001748 InsertedRecord=1
+2015-12-22 09:17:14,545 [276] DEBUG Logger - StoreCalculationData - BrokerID=001731 InsertedRecord=1
+2015-12-22 09:17:14,553 [276] DEBUG Logger - StoreCalculationData - BrokerID=001123 InsertedRecord=1
+2015-12-22 09:17:14,561 [276] DEBUG Logger - StoreCalculationData - BrokerID=001163 InsertedRecord=1
+2015-12-22 09:17:14,568 [276] DEBUG Logger - StoreCalculationData - BrokerID=001667 InsertedRecord=1
+2015-12-22 09:17:14,576 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_3 InsertedRecord=1
+2015-12-22 09:17:14,583 [276] DEBUG Logger - StoreCalculationData - BrokerID=001183 InsertedRecord=1
+2015-12-22 09:17:14,591 [276] DEBUG Logger - StoreCalculationData - BrokerID=000437 InsertedRecord=1
+2015-12-22 09:17:14,598 [276] DEBUG Logger - StoreCalculationData - BrokerID=000645 InsertedRecord=1
+2015-12-22 09:17:14,606 [276] DEBUG Logger - StoreCalculationData - BrokerID=000208 InsertedRecord=1
+2015-12-22 09:17:14,613 [276] DEBUG Logger - StoreCalculationData - BrokerID=000218 InsertedRecord=1
+2015-12-22 09:17:14,620 [276] DEBUG Logger - StoreCalculationData - BrokerID=000685 InsertedRecord=1
+2015-12-22 09:17:14,628 [276] DEBUG Logger - StoreCalculationData - BrokerID=001638 InsertedRecord=1
+2015-12-22 09:17:14,636 [276] DEBUG Logger - StoreCalculationData - BrokerID=001618 InsertedRecord=1
+2015-12-22 09:17:14,646 [276] DEBUG Logger - StoreCalculationData - BrokerID=001641 InsertedRecord=1
+2015-12-22 09:17:14,653 [276] DEBUG Logger - StoreCalculationData - BrokerID=001678 InsertedRecord=1
+2015-12-22 09:17:14,661 [276] DEBUG Logger - StoreCalculationData - BrokerID=001648 InsertedRecord=1
+2015-12-22 09:17:14,670 [276] DEBUG Logger - StoreCalculationData - BrokerID=000967 InsertedRecord=1
+2015-12-22 09:17:14,677 [276] DEBUG Logger - StoreCalculationData - BrokerID=000425 InsertedRecord=1
+2015-12-22 09:17:14,685 [276] DEBUG Logger - StoreCalculationData - BrokerID=001688 InsertedRecord=1
+2015-12-22 09:17:14,692 [276] DEBUG Logger - StoreCalculationData - BrokerID=001498 InsertedRecord=1
+2015-12-22 09:17:14,701 [276] DEBUG Logger - StoreCalculationData - BrokerID=001063 InsertedRecord=1
+2015-12-22 09:17:14,708 [276] DEBUG Logger - StoreCalculationData - BrokerID=000730 InsertedRecord=1
+2015-12-22 09:17:14,717 [276] DEBUG Logger - StoreCalculationData - BrokerID=001370 InsertedRecord=1
+2015-12-22 09:17:14,727 [276] DEBUG Logger - StoreCalculationData - BrokerID=000760 InsertedRecord=1
+2015-12-22 09:17:14,735 [276] DEBUG Logger - StoreCalculationData - BrokerID=000575 InsertedRecord=1
+2015-12-22 09:17:14,742 [276] DEBUG Logger - StoreCalculationData - BrokerID=001586 InsertedRecord=1
+2015-12-22 09:17:14,750 [276] DEBUG Logger - StoreCalculationData - BrokerID=000317 InsertedRecord=1
+2015-12-22 09:17:14,758 [276] DEBUG Logger - StoreCalculationData - BrokerID=000790 InsertedRecord=1
+2015-12-22 09:17:14,767 [276] DEBUG Logger - StoreCalculationData - BrokerID=000168 InsertedRecord=1
+2015-12-22 09:17:14,774 [276] DEBUG Logger - StoreCalculationData - BrokerID=001349 InsertedRecord=1
+2015-12-22 09:17:14,782 [276] DEBUG Logger - StoreCalculationData - BrokerID=001727 InsertedRecord=1
+2015-12-22 09:17:14,789 [276] DEBUG Logger - StoreCalculationData - BrokerID=001737 InsertedRecord=1
+2015-12-22 09:17:14,799 [276] DEBUG Logger - StoreCalculationData - BrokerID=000397 InsertedRecord=1
+2015-12-22 09:17:14,811 [276] DEBUG Logger - StoreCalculationData - BrokerID=001538 InsertedRecord=1
+2015-12-22 09:17:14,820 [276] DEBUG Logger - StoreCalculationData - BrokerID=001518 InsertedRecord=1
+2015-12-22 09:17:14,828 [276] DEBUG Logger - StoreCalculationData - BrokerID=001568 InsertedRecord=1
+2015-12-22 09:17:14,836 [276] DEBUG Logger - StoreCalculationData - BrokerID=001558 InsertedRecord=1
+2015-12-22 09:17:14,845 [276] DEBUG Logger - StoreCalculationData - BrokerID=000985 InsertedRecord=1
+2015-12-22 09:17:14,852 [276] DEBUG Logger - StoreCalculationData - BrokerID=000402 InsertedRecord=1
+2015-12-22 09:17:14,860 [276] DEBUG Logger - StoreCalculationData - BrokerID=000207 InsertedRecord=1
+2015-12-22 09:17:14,868 [276] DEBUG Logger - StoreCalculationData - BrokerID=000008 InsertedRecord=1
+2015-12-22 09:17:14,876 [276] DEBUG Logger - StoreCalculationData - BrokerID=000277 InsertedRecord=1
+2015-12-22 09:17:14,890 [276] DEBUG Logger - StoreCalculationData - BrokerID=001604 InsertedRecord=1
+2015-12-22 09:17:14,902 [276] DEBUG Logger - StoreCalculationData - BrokerID=000058 InsertedRecord=1
+2015-12-22 09:17:14,914 [276] DEBUG Logger - StoreCalculationData - BrokerID=000287 InsertedRecord=1
+2015-12-22 09:17:14,924 [276] DEBUG Logger - StoreCalculationData - BrokerID=001428 InsertedRecord=1
+2015-12-22 09:17:14,934 [276] DEBUG Logger - StoreCalculationData - BrokerID=001438 InsertedRecord=1
+2015-12-22 09:17:14,943 [276] DEBUG Logger - StoreCalculationData - BrokerID=001408 InsertedRecord=1
+2015-12-22 09:17:14,952 [276] DEBUG Logger - StoreCalculationData - BrokerID=001418 InsertedRecord=1
+2015-12-22 09:17:14,960 [276] DEBUG Logger - StoreCalculationData - BrokerID=000825 InsertedRecord=1
+2015-12-22 09:17:14,970 [276] DEBUG Logger - StoreCalculationData - BrokerID=001478 InsertedRecord=1
+2015-12-22 09:17:14,978 [276] DEBUG Logger - StoreCalculationData - BrokerID=000805 InsertedRecord=1
+2015-12-22 09:17:14,985 [276] DEBUG Logger - StoreCalculationData - BrokerID=000815 InsertedRecord=1
+2015-12-22 09:17:14,993 [276] DEBUG Logger - StoreCalculationData - BrokerID=000865 InsertedRecord=1
+2015-12-22 09:17:15,001 [276] DEBUG Logger - StoreCalculationData - BrokerID=001697 InsertedRecord=1
+2015-12-22 09:17:15,010 [276] DEBUG Logger - StoreCalculationData - BrokerID=000447 InsertedRecord=1
+2015-12-22 09:17:15,018 [276] DEBUG Logger - StoreCalculationData - BrokerID=001703 InsertedRecord=1
+2015-12-22 09:17:15,026 [276] DEBUG Logger - StoreCalculationData - BrokerID=001741 InsertedRecord=1
+2015-12-22 09:17:15,034 [276] DEBUG Logger - StoreCalculationData - BrokerID=000510 InsertedRecord=1
+2015-12-22 09:17:15,043 [276] DEBUG Logger - StoreCalculationData - BrokerID=000322 InsertedRecord=1
+2015-12-22 09:17:15,050 [276] DEBUG Logger - StoreCalculationData - BrokerID=000570 InsertedRecord=1
+2015-12-22 09:17:15,059 [276] DEBUG Logger - StoreCalculationData - BrokerID=000590 InsertedRecord=1
+2015-12-22 09:17:15,067 [276] DEBUG Logger - StoreCalculationData - BrokerID=001722 InsertedRecord=1
+2015-12-22 09:17:15,075 [276] DEBUG Logger - StoreCalculationData - BrokerID=001732 InsertedRecord=1
+2015-12-22 09:17:15,084 [276] DEBUG Logger - StoreCalculationData - BrokerID=001702 InsertedRecord=1
+2015-12-22 09:17:15,093 [276] DEBUG Logger - StoreCalculationData - BrokerID=001712 InsertedRecord=1
+2015-12-22 09:17:15,101 [276] DEBUG Logger - StoreCalculationData - BrokerID=001338 InsertedRecord=1
+2015-12-22 09:17:15,111 [276] DEBUG Logger - StoreCalculationData - BrokerID=001742 InsertedRecord=1
+2015-12-22 09:17:15,118 [276] DEBUG Logger - StoreCalculationData - BrokerID=001378 InsertedRecord=1
+2015-12-22 09:17:15,127 [276] DEBUG Logger - StoreCalculationData - BrokerID=001348 InsertedRecord=1
+2015-12-22 09:17:15,137 [276] DEBUG Logger - StoreCalculationData - BrokerID=001587 InsertedRecord=1
+2015-12-22 09:17:15,147 [276] DEBUG Logger - StoreCalculationData - BrokerID=001651 InsertedRecord=1
+2015-12-22 09:17:15,156 [276] DEBUG Logger - StoreCalculationData - BrokerID=000411 InsertedRecord=1
+2015-12-22 09:17:15,164 [276] DEBUG Logger - StoreCalculationData - BrokerID=000202 InsertedRecord=1
+2015-12-22 09:17:15,172 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_6 InsertedRecord=1
+2015-12-22 09:17:15,179 [276] DEBUG Logger - StoreCalculationData - BrokerID=000017 InsertedRecord=1
+2015-12-22 09:17:15,187 [276] DEBUG Logger - StoreCalculationData - BrokerID=001650 InsertedRecord=1
+2015-12-22 09:17:15,195 [276] DEBUG Logger - StoreCalculationData - BrokerID=000057 InsertedRecord=1
+2015-12-22 09:17:15,203 [276] DEBUG Logger - StoreCalculationData - BrokerID=001632 InsertedRecord=1
+2015-12-22 09:17:15,210 [276] DEBUG Logger - StoreCalculationData - BrokerID=001427 InsertedRecord=1
+2015-12-22 09:17:15,218 [276] DEBUG Logger - StoreCalculationData - BrokerID=001612 InsertedRecord=1
+2015-12-22 09:17:15,228 [276] DEBUG Logger - StoreCalculationData - BrokerID=001662 InsertedRecord=1
+2015-12-22 09:17:15,238 [276] DEBUG Logger - StoreCalculationData - BrokerID=001672 InsertedRecord=1
+2015-12-22 09:17:15,245 [276] DEBUG Logger - StoreCalculationData - BrokerID=001642 InsertedRecord=1
+2015-12-22 09:17:15,253 [276] DEBUG Logger - StoreCalculationData - BrokerID=001477 InsertedRecord=1
+2015-12-22 09:17:15,261 [276] DEBUG Logger - StoreCalculationData - BrokerID=001447 InsertedRecord=1
+2015-12-22 09:17:15,269 [276] DEBUG Logger - StoreCalculationData - BrokerID=000810 InsertedRecord=1
+2015-12-22 09:17:15,280 [276] DEBUG Logger - StoreCalculationData - BrokerID=001682 InsertedRecord=1
+2015-12-22 09:17:15,287 [276] DEBUG Logger - StoreCalculationData - BrokerID=001258 InsertedRecord=1
+2015-12-22 09:17:15,295 [276] DEBUG Logger - StoreCalculationData - BrokerID=001487 InsertedRecord=1
+2015-12-22 09:17:15,303 [276] DEBUG Logger - StoreCalculationData - BrokerID=001224 InsertedRecord=1
+2015-12-22 09:17:15,311 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_LELAI_2 InsertedRecord=1
+2015-12-22 09:17:15,319 [276] DEBUG Logger - StoreCalculationData - BrokerID=001630 InsertedRecord=1
+2015-12-22 09:17:15,328 [276] DEBUG Logger - StoreCalculationData - BrokerID=000371 InsertedRecord=1
+2015-12-22 09:17:15,335 [276] DEBUG Logger - StoreCalculationData - BrokerID=000162 InsertedRecord=1
+2015-12-22 09:17:15,344 [276] DEBUG Logger - StoreCalculationData - BrokerID=000172 InsertedRecord=1
+2015-12-22 09:17:15,352 [276] DEBUG Logger - StoreCalculationData - BrokerID=001721 InsertedRecord=1
+2015-12-22 09:17:15,359 [276] DEBUG Logger - StoreCalculationData - BrokerID=000381 InsertedRecord=1
+2015-12-22 09:17:15,366 [276] DEBUG Logger - StoreCalculationData - BrokerID=000391 InsertedRecord=1
+2015-12-22 09:17:15,374 [276] DEBUG Logger - StoreCalculationData - BrokerID=000634 InsertedRecord=1
+2015-12-22 09:17:15,382 [276] DEBUG Logger - StoreCalculationData - BrokerID=001699 InsertedRecord=1
+2015-12-22 09:17:15,391 [276] DEBUG Logger - StoreCalculationData - BrokerID=001337 InsertedRecord=1
+2015-12-22 09:17:15,398 [276] DEBUG Logger - StoreCalculationData - BrokerID=001307 InsertedRecord=1
+2015-12-22 09:17:15,407 [276] DEBUG Logger - StoreCalculationData - BrokerID=001572 InsertedRecord=1
+2015-12-22 09:17:15,415 [276] DEBUG Logger - StoreCalculationData - BrokerID=001542 InsertedRecord=1
+2015-12-22 09:17:15,423 [276] DEBUG Logger - StoreCalculationData - BrokerID=001118 InsertedRecord=1
+2015-12-22 09:17:15,432 [276] DEBUG Logger - StoreCalculationData - BrokerID=001456 InsertedRecord=1
+2015-12-22 09:17:15,442 [276] DEBUG Logger - StoreCalculationData - BrokerID=001740 InsertedRecord=1
+2015-12-22 09:17:15,450 [276] DEBUG Logger - StoreCalculationData - BrokerID=001614 InsertedRecord=1
+2015-12-22 09:17:15,458 [276] DEBUG Logger - StoreCalculationData - BrokerID=001397 InsertedRecord=1
+2015-12-22 09:17:15,465 [276] DEBUG Logger - StoreCalculationData - BrokerID=000201 InsertedRecord=1
+2015-12-22 09:17:15,473 [276] DEBUG Logger - StoreCalculationData - BrokerID=000618 InsertedRecord=1
+2015-12-22 09:17:15,482 [276] DEBUG Logger - StoreCalculationData - BrokerID=000062 InsertedRecord=1
+2015-12-22 09:17:15,494 [276] DEBUG Logger - StoreCalculationData - BrokerID=000042 InsertedRecord=1
+2015-12-22 09:17:15,503 [276] DEBUG Logger - StoreCalculationData - BrokerID=001621 InsertedRecord=1
+2015-12-22 09:17:15,511 [276] DEBUG Logger - StoreCalculationData - BrokerID=001631 InsertedRecord=1
+2015-12-22 09:17:15,518 [276] DEBUG Logger - StoreCalculationData - BrokerID=001601 InsertedRecord=1
+2015-12-22 09:17:15,527 [276] DEBUG Logger - StoreCalculationData - BrokerID=001432 InsertedRecord=1
+2015-12-22 09:17:15,535 [276] DEBUG Logger - StoreCalculationData - BrokerID=001227 InsertedRecord=1
+2015-12-22 09:17:15,542 [276] DEBUG Logger - StoreCalculationData - BrokerID=001412 InsertedRecord=1
+2015-12-22 09:17:15,550 [276] DEBUG Logger - StoreCalculationData - BrokerID=001462 InsertedRecord=1
+2015-12-22 09:17:15,557 [276] DEBUG Logger - StoreCalculationData - BrokerID=001038 InsertedRecord=1
+2015-12-22 09:17:15,566 [276] DEBUG Logger - StoreCalculationData - BrokerID=001452 InsertedRecord=1
+2015-12-22 09:17:15,573 [276] DEBUG Logger - StoreCalculationData - BrokerID=001681 InsertedRecord=1
+2015-12-22 09:17:15,582 [276] DEBUG Logger - StoreCalculationData - BrokerID=001691 InsertedRecord=1
+2015-12-22 09:17:15,591 [276] DEBUG Logger - StoreCalculationData - BrokerID=001048 InsertedRecord=1
+2015-12-22 09:17:15,598 [276] DEBUG Logger - StoreCalculationData - BrokerID=001647 InsertedRecord=1
+2015-12-22 09:17:15,606 [276] DEBUG Logger - StoreCalculationData - BrokerID=001494 InsertedRecord=1
+2015-12-22 09:17:15,616 [276] DEBUG Logger - StoreCalculationData - BrokerID=001652 InsertedRecord=1
+2015-12-22 09:17:15,624 [276] DEBUG Logger - StoreCalculationData - BrokerID=001322 InsertedRecord=1
+2015-12-22 09:17:15,632 [276] DEBUG Logger - StoreCalculationData - BrokerID=001687 InsertedRecord=1
+2015-12-22 09:17:15,640 [276] DEBUG Logger - StoreCalculationData - BrokerID=001571 InsertedRecord=1
+2015-12-22 09:17:15,649 [276] DEBUG Logger - StoreCalculationData - BrokerID=001012 InsertedRecord=1
+2015-12-22 09:17:15,658 [276] DEBUG Logger - StoreCalculationData - BrokerID=001372 InsertedRecord=1
+2015-12-22 09:17:15,665 [276] DEBUG Logger - StoreCalculationData - BrokerID=001593 InsertedRecord=1
+2015-12-22 09:17:15,673 [276] DEBUG Logger - StoreCalculationData - BrokerID=001581 InsertedRecord=1
+2015-12-22 09:17:15,680 [276] DEBUG Logger - StoreCalculationData - BrokerID=001157 InsertedRecord=1
+2015-12-22 09:17:15,688 [276] DEBUG Logger - StoreCalculationData - BrokerID=000609 InsertedRecord=1
+2015-12-22 09:17:15,696 [276] DEBUG Logger - StoreCalculationData - BrokerID=001197 InsertedRecord=1
+2015-12-22 09:17:15,703 [276] DEBUG Logger - StoreCalculationData - BrokerID=000410 InsertedRecord=1
+2015-12-22 09:17:15,711 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN_2 InsertedRecord=1
+2015-12-22 09:17:15,719 [276] DEBUG Logger - StoreCalculationData - BrokerID=000071 InsertedRecord=1
+2015-12-22 09:17:15,727 [276] DEBUG Logger - StoreCalculationData - BrokerID=000041 InsertedRecord=1
+2015-12-22 09:17:15,734 [276] DEBUG Logger - StoreCalculationData - BrokerID=000051 InsertedRecord=1
+2015-12-22 09:17:15,742 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_LELAI InsertedRecord=1
+2015-12-22 09:17:15,750 [276] DEBUG Logger - StoreCalculationData - BrokerID=001431 InsertedRecord=1
+2015-12-22 09:17:15,757 [276] DEBUG Logger - StoreCalculationData - BrokerID=001401 InsertedRecord=1
+2015-12-22 09:17:15,765 [276] DEBUG Logger - StoreCalculationData - BrokerID=001232 InsertedRecord=1
+2015-12-22 09:17:15,772 [276] DEBUG Logger - StoreCalculationData - BrokerID=001202 InsertedRecord=1
+2015-12-22 09:17:15,780 [276] DEBUG Logger - StoreCalculationData - BrokerID=001262 InsertedRecord=1
+2015-12-22 09:17:15,788 [276] DEBUG Logger - StoreCalculationData - BrokerID=001481 InsertedRecord=1
+2015-12-22 09:17:15,796 [276] DEBUG Logger - StoreCalculationData - BrokerID=001491 InsertedRecord=1
+2015-12-22 09:17:15,805 [276] DEBUG Logger - StoreCalculationData - BrokerID=001282 InsertedRecord=1
+2015-12-22 09:17:15,813 [276] DEBUG Logger - StoreCalculationData - BrokerID=001292 InsertedRecord=1
+2015-12-22 09:17:15,821 [276] DEBUG Logger - StoreCalculationData - BrokerID=001701 InsertedRecord=1
+2015-12-22 09:17:15,829 [276] DEBUG Logger - StoreCalculationData - BrokerID=000407 InsertedRecord=1
+2015-12-22 09:17:15,838 [276] DEBUG Logger - StoreCalculationData - BrokerID=000443 InsertedRecord=1
+2015-12-22 09:17:15,846 [276] DEBUG Logger - StoreCalculationData - BrokerID=001709 InsertedRecord=1
+2015-12-22 09:17:15,853 [276] DEBUG Logger - StoreCalculationData - BrokerID=001664 InsertedRecord=1
+2015-12-22 09:17:15,861 [276] DEBUG Logger - StoreCalculationData - BrokerID=001714 InsertedRecord=1
+2015-12-22 09:17:15,869 [276] DEBUG Logger - StoreCalculationData - BrokerID=001311 InsertedRecord=1
+2015-12-22 09:17:15,877 [276] DEBUG Logger - StoreCalculationData - BrokerID=001371 InsertedRecord=1
+2015-12-22 09:17:15,884 [276] DEBUG Logger - StoreCalculationData - BrokerID=001341 InsertedRecord=1
+2015-12-22 09:17:15,892 [276] DEBUG Logger - StoreCalculationData - BrokerID=001152 InsertedRecord=1
+2015-12-22 09:17:15,899 [276] DEBUG Logger - StoreCalculationData - BrokerID=000999 InsertedRecord=1
+2015-12-22 09:17:15,907 [276] DEBUG Logger - StoreCalculationData - BrokerID=001391 InsertedRecord=1
+2015-12-22 09:17:15,915 [276] DEBUG Logger - StoreCalculationData - BrokerID=000426 InsertedRecord=1
+2015-12-22 09:17:15,924 [276] DEBUG Logger - StoreCalculationData - BrokerID=001192 InsertedRecord=1
+2015-12-22 09:17:15,933 [276] DEBUG Logger - StoreCalculationData - BrokerID=000416 InsertedRecord=1
+2015-12-22 09:17:15,940 [276] DEBUG Logger - StoreCalculationData - BrokerID=000684 InsertedRecord=1
+2015-12-22 09:17:15,948 [276] DEBUG Logger - StoreCalculationData - BrokerID=000456 InsertedRecord=1
+2015-12-22 09:17:15,956 [276] DEBUG Logger - StoreCalculationData - BrokerID=000642 InsertedRecord=1
+2015-12-22 09:17:15,965 [276] DEBUG Logger - StoreCalculationData - BrokerID=000809 InsertedRecord=1
+2015-12-22 09:17:15,972 [276] DEBUG Logger - StoreCalculationData - BrokerID=001201 InsertedRecord=1
+2015-12-22 09:17:15,979 [276] DEBUG Logger - StoreCalculationData - BrokerID=001211 InsertedRecord=1
+2015-12-22 09:17:15,986 [276] DEBUG Logger - StoreCalculationData - BrokerID=001002 InsertedRecord=1
+2015-12-22 09:17:15,994 [276] DEBUG Logger - StoreCalculationData - BrokerID=000849 InsertedRecord=1
+2015-12-22 09:17:16,010 [276] DEBUG Logger - StoreCalculationData - BrokerID=000651 InsertedRecord=1
+2015-12-22 09:17:16,018 [276] DEBUG Logger - StoreCalculationData - BrokerID=001042 InsertedRecord=1
+2015-12-22 09:17:16,026 [276] DEBUG Logger - StoreCalculationData - BrokerID=000514 InsertedRecord=1
+2015-12-22 09:17:16,033 [276] DEBUG Logger - StoreCalculationData - BrokerID=000366 InsertedRecord=1
+2015-12-22 09:17:16,041 [276] DEBUG Logger - StoreCalculationData - BrokerID=000957 InsertedRecord=1
+2015-12-22 09:17:16,048 [276] DEBUG Logger - StoreCalculationData - BrokerID=001726 InsertedRecord=1
+2015-12-22 09:17:16,057 [276] DEBUG Logger - StoreCalculationData - BrokerID=001736 InsertedRecord=1
+2015-12-22 09:17:16,064 [276] DEBUG Logger - StoreCalculationData - BrokerID=001706 InsertedRecord=1
+2015-12-22 09:17:16,073 [276] DEBUG Logger - StoreCalculationData - BrokerID=001716 InsertedRecord=1
+2015-12-22 09:17:16,082 [276] DEBUG Logger - StoreCalculationData - BrokerID=000924 InsertedRecord=1
+2015-12-22 09:17:16,089 [276] DEBUG Logger - StoreCalculationData - BrokerID=000934 InsertedRecord=1
+2015-12-22 09:17:16,097 [276] DEBUG Logger - StoreCalculationData - BrokerID=001101 InsertedRecord=1
+2015-12-22 09:17:16,104 [276] DEBUG Logger - StoreCalculationData - BrokerID=001605 InsertedRecord=1
+2015-12-22 09:17:16,112 [276] DEBUG Logger - StoreCalculationData - BrokerID=000603 InsertedRecord=1
+2015-12-22 09:17:16,120 [276] DEBUG Logger - StoreCalculationData - BrokerID=001181 InsertedRecord=1
+2015-12-22 09:17:16,127 [276] DEBUG Logger - StoreCalculationData - BrokerID=000435 InsertedRecord=1
+2015-12-22 09:17:16,135 [276] DEBUG Logger - StoreCalculationData - BrokerID=000216 InsertedRecord=1
+2015-12-22 09:17:16,167 [276] DEBUG Logger - StoreCalculationData - BrokerID=001610 InsertedRecord=1
+2015-12-22 09:17:16,176 [276] DEBUG Logger - StoreCalculationData - BrokerID=000485 InsertedRecord=1
+2015-12-22 09:17:16,183 [276] DEBUG Logger - StoreCalculationData - BrokerID=001626 InsertedRecord=1
+2015-12-22 09:17:16,192 [276] DEBUG Logger - StoreCalculationData - BrokerID=000296 InsertedRecord=1
+2015-12-22 09:17:16,199 [276] DEBUG Logger - StoreCalculationData - BrokerID=001666 InsertedRecord=1
+2015-12-22 09:17:16,209 [276] DEBUG Logger - StoreCalculationData - BrokerID=001676 InsertedRecord=1
+2015-12-22 09:17:16,217 [276] DEBUG Logger - StoreCalculationData - BrokerID=001646 InsertedRecord=1
+2015-12-22 09:17:16,225 [276] DEBUG Logger - StoreCalculationData - BrokerID=001656 InsertedRecord=1
+2015-12-22 09:17:16,233 [276] DEBUG Logger - StoreCalculationData - BrokerID=001686 InsertedRecord=1
+2015-12-22 09:17:16,241 [276] DEBUG Logger - StoreCalculationData - BrokerID=001696 InsertedRecord=1
+2015-12-22 09:17:16,250 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_CHOLON InsertedRecord=1
+2015-12-22 09:17:16,258 [276] DEBUG Logger - StoreCalculationData - BrokerID=001674 InsertedRecord=1
+2015-12-22 09:17:16,267 [276] DEBUG Logger - StoreCalculationData - BrokerID=000513 InsertedRecord=1
+2015-12-22 09:17:16,275 [276] DEBUG Logger - StoreCalculationData - BrokerID=000910 InsertedRecord=1
+2015-12-22 09:17:16,283 [276] DEBUG Logger - StoreCalculationData - BrokerID=000305 InsertedRecord=1
+2015-12-22 09:17:16,290 [276] DEBUG Logger - StoreCalculationData - BrokerID=000136 InsertedRecord=1
+2015-12-22 09:17:16,298 [276] DEBUG Logger - StoreCalculationData - BrokerID=000179 InsertedRecord=1
+2015-12-22 09:17:16,305 [276] DEBUG Logger - StoreCalculationData - BrokerID=000116 InsertedRecord=1
+2015-12-22 09:17:16,314 [276] DEBUG Logger - StoreCalculationData - BrokerID=000146 InsertedRecord=1
+2015-12-22 09:17:16,321 [276] DEBUG Logger - StoreCalculationData - BrokerID=001735 InsertedRecord=1
+2015-12-22 09:17:16,330 [276] DEBUG Logger - StoreCalculationData - BrokerID=001705 InsertedRecord=1
+2015-12-22 09:17:16,339 [276] DEBUG Logger - StoreCalculationData - BrokerID=001536 InsertedRecord=1
+2015-12-22 09:17:16,347 [276] DEBUG Logger - StoreCalculationData - BrokerID=001506 InsertedRecord=1
+2015-12-22 09:17:16,355 [276] DEBUG Logger - StoreCalculationData - BrokerID=000923 InsertedRecord=1
+2015-12-22 09:17:16,363 [276] DEBUG Logger - StoreCalculationData - BrokerID=001576 InsertedRecord=1
+2015-12-22 09:17:16,371 [276] DEBUG Logger - StoreCalculationData - BrokerID=001546 InsertedRecord=1
+2015-12-22 09:17:16,379 [276] DEBUG Logger - StoreCalculationData - BrokerID=000913 InsertedRecord=1
+2015-12-22 09:17:16,386 [276] DEBUG Logger - StoreCalculationData - BrokerID=001658 InsertedRecord=1
+2015-12-22 09:17:16,396 [276] DEBUG Logger - StoreCalculationData - BrokerID=001711 InsertedRecord=1
+2015-12-22 09:17:16,403 [276] DEBUG Logger - StoreCalculationData - BrokerID=000943 InsertedRecord=1
+2015-12-22 09:17:16,411 [276] DEBUG Logger - StoreCalculationData - BrokerID=001596 InsertedRecord=1
+2015-12-22 09:17:16,420 [276] DEBUG Logger - StoreCalculationData - BrokerID=001591 InsertedRecord=1
+2015-12-22 09:17:16,427 [276] DEBUG Logger - StoreCalculationData - BrokerID=000430 InsertedRecord=1
+2015-12-22 09:17:16,434 [276] DEBUG Logger - StoreCalculationData - BrokerID=000400 InsertedRecord=1
+2015-12-22 09:17:16,443 [276] DEBUG Logger - StoreCalculationData - BrokerID=001018 InsertedRecord=1
+2015-12-22 09:17:16,451 [276] DEBUG Logger - StoreCalculationData - BrokerID=000460 InsertedRecord=1
+2015-12-22 09:17:16,460 [276] DEBUG Logger - StoreCalculationData - BrokerID=000440 InsertedRecord=1
+2015-12-22 09:17:16,468 [276] DEBUG Logger - StoreCalculationData - BrokerID=000066 InsertedRecord=1
+2015-12-22 09:17:16,476 [276] DEBUG Logger - StoreCalculationData - BrokerID=001622 InsertedRecord=1
+2015-12-22 09:17:16,485 [276] DEBUG Logger - StoreCalculationData - BrokerID=001426 InsertedRecord=1
+2015-12-22 09:17:16,492 [276] DEBUG Logger - StoreCalculationData - BrokerID=001436 InsertedRecord=1
+2015-12-22 09:17:16,500 [276] DEBUG Logger - StoreCalculationData - BrokerID=001406 InsertedRecord=1
+2015-12-22 09:17:16,508 [276] DEBUG Logger - StoreCalculationData - BrokerID=001466 InsertedRecord=1
+2015-12-22 09:17:16,516 [276] DEBUG Logger - StoreCalculationData - BrokerID=001655 InsertedRecord=1
+2015-12-22 09:17:16,523 [276] DEBUG Logger - StoreCalculationData - BrokerID=000803 InsertedRecord=1
+2015-12-22 09:17:16,533 [276] DEBUG Logger - StoreCalculationData - BrokerID=000813 InsertedRecord=1
+2015-12-22 09:17:16,542 [276] DEBUG Logger - StoreCalculationData - BrokerID=001685 InsertedRecord=1
+2015-12-22 09:17:16,550 [276] DEBUG Logger - StoreCalculationData - BrokerID=001695 InsertedRecord=1
+2015-12-22 09:17:16,557 [276] DEBUG Logger - StoreCalculationData - BrokerID=000853 InsertedRecord=1
+2015-12-22 09:17:16,564 [276] DEBUG Logger - StoreCalculationData - BrokerID=000883 InsertedRecord=1
+2015-12-22 09:17:16,573 [276] DEBUG Logger - StoreCalculationData - BrokerID=001606 InsertedRecord=1
+2015-12-22 09:17:16,580 [276] DEBUG Logger - StoreCalculationData - BrokerID=000135 InsertedRecord=1
+2015-12-22 09:17:16,587 [276] DEBUG Logger - StoreCalculationData - BrokerID=000340 InsertedRecord=1
+2015-12-22 09:17:16,594 [276] DEBUG Logger - StoreCalculationData - BrokerID=001747 InsertedRecord=1
+2015-12-22 09:17:16,602 [276] DEBUG Logger - StoreCalculationData - BrokerID=001720 InsertedRecord=1
+2015-12-22 09:17:16,609 [276] DEBUG Logger - StoreCalculationData - BrokerID=000380 InsertedRecord=1
+2015-12-22 09:17:16,617 [276] DEBUG Logger - StoreCalculationData - BrokerID=001700 InsertedRecord=1
+2015-12-22 09:17:16,624 [276] DEBUG Logger - StoreCalculationData - BrokerID=001615 InsertedRecord=1
+2015-12-22 09:17:16,631 [276] DEBUG Logger - StoreCalculationData - BrokerID=001336 InsertedRecord=1
+2015-12-22 09:17:16,639 [276] DEBUG Logger - StoreCalculationData - BrokerID=001565 InsertedRecord=1
+2015-12-22 09:17:16,646 [276] DEBUG Logger - StoreCalculationData - BrokerID=001575 InsertedRecord=1
+2015-12-22 09:17:16,654 [276] DEBUG Logger - StoreCalculationData - BrokerID=001545 InsertedRecord=1
+2015-12-22 09:17:16,662 [276] DEBUG Logger - StoreCalculationData - BrokerID=001532 InsertedRecord=1
+2015-12-22 09:17:16,669 [276] DEBUG Logger - StoreCalculationData - BrokerID=001356 InsertedRecord=1
+2015-12-22 09:17:16,676 [276] DEBUG Logger - StoreCalculationData - BrokerID=001660 InsertedRecord=1
+2015-12-22 09:17:16,684 [276] DEBUG Logger - StoreCalculationData - BrokerID=001595 InsertedRecord=1
+2015-12-22 09:17:16,691 [276] DEBUG Logger - StoreCalculationData - BrokerID=001386 InsertedRecord=1
+2015-12-22 09:17:16,698 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_THD InsertedRecord=1
+2015-12-22 09:17:16,706 [276] DEBUG Logger - StoreCalculationData - BrokerID=001627 InsertedRecord=1
+2015-12-22 09:17:16,713 [276] DEBUG Logger - StoreCalculationData - BrokerID=001566 InsertedRecord=1
+2015-12-22 09:17:16,721 [276] DEBUG Logger - StoreCalculationData - BrokerID=001543 InsertedRecord=1
+2015-12-22 09:17:16,729 [276] DEBUG Logger - StoreCalculationData - BrokerID=000280 InsertedRecord=1
+2015-12-22 09:17:16,737 [276] DEBUG Logger - StoreCalculationData - BrokerID=001600 InsertedRecord=1
+2015-12-22 09:17:16,744 [276] DEBUG Logger - StoreCalculationData - BrokerID=001435 InsertedRecord=1
+2015-12-22 09:17:16,752 [276] DEBUG Logger - StoreCalculationData - BrokerID=001226 InsertedRecord=1
+2015-12-22 09:17:16,760 [276] DEBUG Logger - StoreCalculationData - BrokerID=001415 InsertedRecord=1
+2015-12-22 09:17:16,768 [276] DEBUG Logger - StoreCalculationData - BrokerID=001206 InsertedRecord=1
+2015-12-22 09:17:16,775 [276] DEBUG Logger - StoreCalculationData - BrokerID=001475 InsertedRecord=1
+2015-12-22 09:17:16,782 [276] DEBUG Logger - StoreCalculationData - BrokerID=000428 InsertedRecord=1
+2015-12-22 09:17:16,791 [276] DEBUG Logger - StoreCalculationData - BrokerID=001455 InsertedRecord=1
+2015-12-22 09:17:16,798 [276] DEBUG Logger - StoreCalculationData - BrokerID=001680 InsertedRecord=1
+2015-12-22 09:17:16,806 [276] DEBUG Logger - StoreCalculationData - BrokerID=001690 InsertedRecord=1
+2015-12-22 09:17:16,813 [276] DEBUG Logger - StoreCalculationData - BrokerID=001485 InsertedRecord=1
+2015-12-22 09:17:16,821 [276] DEBUG Logger - StoreCalculationData - BrokerID=001653 InsertedRecord=1
+2015-12-22 09:17:16,829 [276] DEBUG Logger - StoreCalculationData - BrokerID=001733 InsertedRecord=1
+2015-12-22 09:17:16,836 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_NVT InsertedRecord=1
+2015-12-22 09:17:16,845 [276] DEBUG Logger - StoreCalculationData - BrokerID=001325 InsertedRecord=1
+2015-12-22 09:17:16,853 [276] DEBUG Logger - StoreCalculationData - BrokerID=001510 InsertedRecord=1
+2015-12-22 09:17:16,862 [276] DEBUG Logger - StoreCalculationData - BrokerID=001305 InsertedRecord=1
+2015-12-22 09:17:16,871 [276] DEBUG Logger - StoreCalculationData - BrokerID=001315 InsertedRecord=1
+2015-12-22 09:17:16,881 [276] DEBUG Logger - StoreCalculationData - BrokerID=001166 InsertedRecord=1
+2015-12-22 09:17:16,889 [276] DEBUG Logger - StoreCalculationData - BrokerID=001176 InsertedRecord=1
+2015-12-22 09:17:16,897 [276] DEBUG Logger - StoreCalculationData - BrokerID=001580 InsertedRecord=1
+2015-12-22 09:17:16,907 [276] DEBUG Logger - StoreCalculationData - BrokerID=001385 InsertedRecord=1
+2015-12-22 09:17:16,916 [276] DEBUG Logger - StoreCalculationData - BrokerID=001395 InsertedRecord=1
+2015-12-22 09:17:16,924 [276] DEBUG Logger - StoreCalculationData - BrokerID=000030 InsertedRecord=1
+2015-12-22 09:17:16,932 [276] DEBUG Logger - StoreCalculationData - BrokerID=000475 InsertedRecord=1
+2015-12-22 09:17:16,941 [276] DEBUG Logger - StoreCalculationData - BrokerID=001420 InsertedRecord=1
+2015-12-22 09:17:16,951 [276] DEBUG Logger - StoreCalculationData - BrokerID=001430 InsertedRecord=1
+2015-12-22 09:17:16,958 [276] DEBUG Logger - StoreCalculationData - BrokerID=001225 InsertedRecord=1
+2015-12-22 09:17:16,967 [276] DEBUG Logger - StoreCalculationData - BrokerID=001235 InsertedRecord=1
+2015-12-22 09:17:16,976 [276] DEBUG Logger - StoreCalculationData - BrokerID=001460 InsertedRecord=1
+2015-12-22 09:17:16,984 [276] DEBUG Logger - StoreCalculationData - BrokerID=001215 InsertedRecord=1
+2015-12-22 09:17:16,991 [276] DEBUG Logger - StoreCalculationData - BrokerID=001265 InsertedRecord=1
+2015-12-22 09:17:17,001 [276] DEBUG Logger - StoreCalculationData - BrokerID=001255 InsertedRecord=1
+2015-12-22 09:17:17,009 [276] DEBUG Logger - StoreCalculationData - BrokerID=001046 InsertedRecord=1
+2015-12-22 09:17:17,017 [276] DEBUG Logger - StoreCalculationData - BrokerID=001295 InsertedRecord=1
+2015-12-22 09:17:17,024 [276] DEBUG Logger - StoreCalculationData - BrokerID=000747 InsertedRecord=1
+2015-12-22 09:17:17,032 [276] DEBUG Logger - StoreCalculationData - BrokerID=000757 InsertedRecord=1
+2015-12-22 09:17:17,041 [276] DEBUG Logger - StoreCalculationData - BrokerID=001264 InsertedRecord=1
+2015-12-22 09:17:17,048 [276] DEBUG Logger - StoreCalculationData - BrokerID=001715 InsertedRecord=1
+2015-12-22 09:17:17,056 [276] DEBUG Logger - StoreCalculationData - BrokerID=001671 InsertedRecord=1
+2015-12-22 09:17:17,064 [276] DEBUG Logger - StoreCalculationData - BrokerID=001670 InsertedRecord=1
+2015-12-22 09:17:17,072 [276] DEBUG Logger - StoreCalculationData - BrokerID=000916 InsertedRecord=1
+2015-12-22 09:17:17,080 [276] DEBUG Logger - StoreCalculationData - BrokerID=001273 InsertedRecord=1
+2015-12-22 09:17:17,087 [276] DEBUG Logger - StoreCalculationData - BrokerID=001330 InsertedRecord=1
+2015-12-22 09:17:17,097 [276] DEBUG Logger - StoreCalculationData - BrokerID=001300 InsertedRecord=1
+2015-12-22 09:17:17,104 [276] DEBUG Logger - StoreCalculationData - BrokerID=001360 InsertedRecord=1
+2015-12-22 09:17:17,112 [276] DEBUG Logger - StoreCalculationData - BrokerID=001115 InsertedRecord=1
+2015-12-22 09:17:17,121 [276] DEBUG Logger - StoreCalculationData - BrokerID=001340 InsertedRecord=1
+2015-12-22 09:17:17,130 [276] DEBUG Logger - StoreCalculationData - BrokerID=000988 InsertedRecord=1
+2015-12-22 09:17:17,152 [276] DEBUG Logger - StoreCalculationData - BrokerID=001390 InsertedRecord=1
+2015-12-22 09:17:17,173 [276] DEBUG Logger - StoreCalculationData - BrokerID=000409 InsertedRecord=1
+2015-12-22 09:17:17,181 [276] DEBUG Logger - StoreCalculationData - BrokerID=000419 InsertedRecord=1
+2015-12-22 09:17:17,189 [276] DEBUG Logger - StoreCalculationData - BrokerID=000459 InsertedRecord=1
+2015-12-22 09:17:17,197 [276] DEBUG Logger - StoreCalculationData - BrokerID=001220 InsertedRecord=1
+2015-12-22 09:17:17,204 [276] DEBUG Logger - StoreCalculationData - BrokerID=001230 InsertedRecord=1
+2015-12-22 09:17:17,213 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG1 InsertedRecord=1
+2015-12-22 09:17:17,220 [276] DEBUG Logger - StoreCalculationData - BrokerID=000878 InsertedRecord=1
+2015-12-22 09:17:17,228 [276] DEBUG Logger - StoreCalculationData - BrokerID=001250 InsertedRecord=1
+2015-12-22 09:17:17,235 [276] DEBUG Logger - StoreCalculationData - BrokerID=000339 InsertedRecord=1
+2015-12-22 09:17:17,245 [276] DEBUG Logger - StoreCalculationData - BrokerID=001637 InsertedRecord=1
+2015-12-22 09:17:17,253 [276] DEBUG Logger - StoreCalculationData - BrokerID=000349 InsertedRecord=1
+2015-12-22 09:17:17,261 [276] DEBUG Logger - StoreCalculationData - BrokerID=000359 InsertedRecord=1
+2015-12-22 09:17:17,268 [276] DEBUG Logger - StoreCalculationData - BrokerID=001729 InsertedRecord=1
+2015-12-22 09:17:17,275 [276] DEBUG Logger - StoreCalculationData - BrokerID=000389 InsertedRecord=1
+2015-12-22 09:17:17,283 [276] DEBUG Logger - StoreCalculationData - BrokerID=000399 InsertedRecord=1
+2015-12-22 09:17:17,290 [276] DEBUG Logger - StoreCalculationData - BrokerID=001719 InsertedRecord=1
+2015-12-22 09:17:17,297 [276] DEBUG Logger - StoreCalculationData - BrokerID=001602 InsertedRecord=1
+2015-12-22 09:17:17,304 [276] DEBUG Logger - StoreCalculationData - BrokerID=001749 InsertedRecord=1
+2015-12-22 09:17:17,312 [276] DEBUG Logger - StoreCalculationData - BrokerID=001047 InsertedRecord=1
+2015-12-22 09:17:17,319 [276] DEBUG Logger - StoreCalculationData - BrokerID=001130 InsertedRecord=1
+2015-12-22 09:17:17,327 [276] DEBUG Logger - StoreCalculationData - BrokerID=001160 InsertedRecord=1
+2015-12-22 09:17:17,334 [276] DEBUG Logger - StoreCalculationData - BrokerID=001170 InsertedRecord=1
+2015-12-22 09:17:17,342 [276] DEBUG Logger - StoreCalculationData - BrokerID=001611 InsertedRecord=1
+2015-12-22 09:17:17,350 [276] DEBUG Logger - StoreCalculationData - BrokerID=000602 InsertedRecord=1
+2015-12-22 09:17:17,357 [276] DEBUG Logger - StoreCalculationData - BrokerID=000612 InsertedRecord=1
+2015-12-22 09:17:17,364 [276] DEBUG Logger - StoreCalculationData - BrokerID=001180 InsertedRecord=1
+2015-12-22 09:17:17,372 [276] DEBUG Logger - StoreCalculationData - BrokerID=000229 InsertedRecord=1
+2015-12-22 09:17:17,379 [276] DEBUG Logger - StoreCalculationData - BrokerID=000209 InsertedRecord=1
+2015-12-22 09:17:17,387 [276] DEBUG Logger - StoreCalculationData - BrokerID=000219 InsertedRecord=1
+2015-12-22 09:17:17,394 [276] DEBUG Logger - StoreCalculationData - BrokerID=000682 InsertedRecord=1
+2015-12-22 09:17:17,403 [276] DEBUG Logger - StoreCalculationData - BrokerID=001629 InsertedRecord=1
+2015-12-22 09:17:17,411 [276] DEBUG Logger - StoreCalculationData - BrokerID=001639 InsertedRecord=1
+2015-12-22 09:17:17,419 [276] DEBUG Logger - StoreCalculationData - BrokerID=001669 InsertedRecord=1
+2015-12-22 09:17:17,426 [276] DEBUG Logger - StoreCalculationData - BrokerID=001679 InsertedRecord=1
+2015-12-22 09:17:17,436 [276] DEBUG Logger - StoreCalculationData - BrokerID=001659 InsertedRecord=1
+2015-12-22 09:17:17,444 [276] DEBUG Logger - StoreCalculationData - BrokerID=001746 InsertedRecord=1
+2015-12-22 09:17:17,451 [276] DEBUG Logger - StoreCalculationData - BrokerID=CG_HN InsertedRecord=1
+2015-12-22 09:17:17,460 [276] DEBUG Logger - StoreCalculationData - BrokerID=001689 InsertedRecord=1
+2015-12-22 09:17:17,470 [276] DEBUG Logger - StoreCalculationData - BrokerID=001000 InsertedRecord=1
+2015-12-22 09:17:17,477 [276] DEBUG Logger - StoreCalculationData - BrokerID=001640 InsertedRecord=1
+2015-12-22 09:17:17,485 [276] DEBUG Logger - StoreCalculationData - BrokerID=001522 InsertedRecord=1
+2015-12-22 09:17:17,493 [276] DEBUG Logger - StoreCalculationData - BrokerID=000344 InsertedRecord=1
+2015-12-22 09:17:17,501 [276] DEBUG Logger - StoreCalculationData - BrokerID=000467 InsertedRecord=1
+2015-12-22 09:17:17,508 [276] DEBUG Logger - StoreCalculationData - BrokerID=001673 InsertedRecord=1
+2015-12-22 09:17:17,516 [276] DEBUG Logger - StoreCalculationData - BrokerID=001724 InsertedRecord=1
+2015-12-22 09:17:17,525 [276] DEBUG Logger - StoreCalculationData - BrokerID=001734 InsertedRecord=1
+2015-12-22 09:17:17,532 [276] DEBUG Logger - StoreCalculationData - BrokerID=001704 InsertedRecord=1
+2015-12-22 09:17:17,540 [276] DEBUG Logger - StoreCalculationData - BrokerID=001539 InsertedRecord=1
+2015-12-22 09:17:17,548 [276] DEBUG Logger - StoreCalculationData - BrokerID=001519 InsertedRecord=1
+2015-12-22 09:17:17,558 [276] DEBUG Logger - StoreCalculationData - BrokerID=001579 InsertedRecord=1
+2015-12-22 09:17:17,565 [276] DEBUG Logger - StoreCalculationData - BrokerID=001559 InsertedRecord=1
+2015-12-22 09:17:17,573 [276] DEBUG Logger - StoreCalculationData - BrokerID=001589 InsertedRecord=1
+2015-12-22 09:17:17,583 [276] DEBUG Logger - StoreCalculationData - OfficeID=NVT2 InsertedRecord=1
+2015-12-22 09:17:17,591 [276] DEBUG Logger - StoreCalculationData - OfficeID=KL InsertedRecord=1
+2015-12-22 09:17:17,597 [276] DEBUG Logger - StoreCalculationData - OfficeID=LL InsertedRecord=1
+2015-12-22 09:17:17,605 [276] DEBUG Logger - StoreCalculationData - OfficeID=LH InsertedRecord=1
+2015-12-22 09:17:17,613 [276] DEBUG Logger - StoreCalculationData - OfficeID=3T2 InsertedRecord=1
+2015-12-22 09:17:17,620 [276] DEBUG Logger - StoreCalculationData - OfficeID=HCM InsertedRecord=1
+2015-12-22 09:17:17,628 [276] DEBUG Logger - StoreCalculationData - OfficeID=CL InsertedRecord=1
+2015-12-22 09:17:17,634 [276] DEBUG Logger - StoreCalculationData - OfficeID=BT InsertedRecord=1
+2015-12-22 09:17:17,641 [276] DEBUG Logger - StoreCalculationData - OfficeID=LL1 InsertedRecord=1
+2015-12-22 09:17:17,649 [276] DEBUG Logger - StoreCalculationData - OfficeID=LH1 InsertedRecord=1
+2015-12-22 09:17:17,656 [276] DEBUG Logger - StoreCalculationData - OfficeID=THD InsertedRecord=1
+2015-12-22 09:17:17,663 [276] DEBUG Logger - StoreCalculationData - OfficeID=TVL InsertedRecord=1
+2015-12-22 09:17:17,670 [276] DEBUG Logger - StoreCalculationData - OfficeID=NVT InsertedRecord=1
+2015-12-22 09:17:17,677 [276] DEBUG Logger - StoreCalculationData - OfficeID=LL2 InsertedRecord=1
+2015-12-22 09:17:17,686 [276] DEBUG Logger - StoreCalculationData - OfficeID=LH2 InsertedRecord=1
+2015-12-22 09:17:17,693 [276] DEBUG Logger - StoreCalculationData - OfficeID=LTT InsertedRecord=1
+2015-12-22 09:17:17,700 [276] DEBUG Logger - StoreCalculationData - OfficeID=DT InsertedRecord=1
+2015-12-22 09:17:17,712 [276] DEBUG Logger - StoreCalculationData - BranchID=HN InsertedRecord=1
+2015-12-22 09:17:17,719 [276] DEBUG Logger - StoreCalculationData - BranchID=HCM InsertedRecord=1
+2015-12-22 09:17:17,719 [276] DEBUG Logger - StoreCalculationData - LEAVE
+2015-12-22 09:17:17,719 [276] INFO  Logger - Calculate - LEAVE
+2015-12-22 09:17:18,123 [278] WARN  Logger - Global.asax - Application_Error. Sender=ASP.global_asax EventArgs=System.EventArgs
